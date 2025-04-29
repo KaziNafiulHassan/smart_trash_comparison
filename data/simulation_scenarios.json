@@ -1,0 +1,5449 @@
+{
+  "scenarios": [
+    {
+      "scenario_id": "general_mix_200",
+      "description": "200 interactions covering a broad mix of common household waste items across all major Magdeburg bins (Residual, Bio, Paper, Yellow, Glass) and disposal routes (Bulky, Hazardous, Electrical). Includes moderate repetition.",
+      "user_profile": {
+        "type": "standard_learner",
+        "initial_error_rate": 0.25,
+        "learning_rate": 0.1,
+        "known_bias": {
+          "jogurtbecher": {
+            "target_bin": "Residual Waste Bin",
+            "error_prob_boost": 0.2
+          },
+          "getr\u00e4nkeverpackungen": {
+            "target_bin": "Residual Waste Bin",
+            "error_prob_boost": 0.2
+          }
+        }
+      },
+      "events": [
+        {
+          "event_id": 1,
+          "event_type": "game_sort",
+          "item_id": "druckerpatrone"
+        },
+        {
+          "event_id": 2,
+          "event_type": "identify",
+          "item_id": "ski_skist\u00f6cke",
+          "image_path": "sim_images/ski_skist\u00f6cke_2.jpg"
+        },
+        {
+          "event_id": 3,
+          "event_type": "identify",
+          "item_id": "kleidung",
+          "image_path": "sim_images/kleidung_3.jpg"
+        },
+        {
+          "event_id": 4,
+          "event_type": "identify",
+          "item_id": "videokassette",
+          "image_path": "sim_images/videokassette_4.jpg"
+        },
+        {
+          "event_id": 5,
+          "event_type": "game_sort",
+          "item_id": "haare_federn"
+        },
+        {
+          "event_id": 6,
+          "event_type": "game_sort",
+          "item_id": "karosserie"
+        },
+        {
+          "event_id": 7,
+          "event_type": "game_sort",
+          "item_id": "\u00f6lbindemittel"
+        },
+        {
+          "event_id": 8,
+          "event_type": "game_sort",
+          "item_id": "dvd"
+        },
+        {
+          "event_id": 9,
+          "event_type": "game_sort",
+          "item_id": "speisereste"
+        },
+        {
+          "event_id": 10,
+          "event_type": "game_sort",
+          "item_id": "jalousie_innen"
+        },
+        {
+          "event_id": 11,
+          "event_type": "game_sort",
+          "item_id": "videokassette"
+        },
+        {
+          "event_id": 12,
+          "event_type": "game_sort",
+          "item_id": "feuerl\u00f6scher"
+        },
+        {
+          "event_id": 13,
+          "event_type": "game_sort",
+          "item_id": "mp3_ger\u00e4t"
+        },
+        {
+          "event_id": 14,
+          "event_type": "game_sort",
+          "item_id": "speisereste"
+        },
+        {
+          "event_id": 15,
+          "event_type": "identify",
+          "item_id": "druckerpatrone",
+          "image_path": "sim_images/druckerpatrone_15.jpg"
+        },
+        {
+          "event_id": 16,
+          "event_type": "game_sort",
+          "item_id": "druckerpatrone"
+        },
+        {
+          "event_id": 17,
+          "event_type": "game_sort",
+          "item_id": "textilien"
+        },
+        {
+          "event_id": 18,
+          "event_type": "game_sort",
+          "item_id": "zeitung_zeitschrift"
+        },
+        {
+          "event_id": 19,
+          "event_type": "game_sort",
+          "item_id": "baumschnitt"
+        },
+        {
+          "event_id": 20,
+          "event_type": "game_sort",
+          "item_id": "dvd"
+        },
+        {
+          "event_id": 21,
+          "event_type": "game_sort",
+          "item_id": "monitor"
+        },
+        {
+          "event_id": 22,
+          "event_type": "game_sort",
+          "item_id": "alt\u00f6l"
+        },
+        {
+          "event_id": 23,
+          "event_type": "game_sort",
+          "item_id": "quecksilber"
+        },
+        {
+          "event_id": 24,
+          "event_type": "identify",
+          "item_id": "haare_federn",
+          "image_path": "sim_images/haare_federn_24.jpg"
+        },
+        {
+          "event_id": 25,
+          "event_type": "game_sort",
+          "item_id": "garten_und_gr\u00fcnabf\u00e4lle"
+        },
+        {
+          "event_id": 26,
+          "event_type": "identify",
+          "item_id": "b\u00fcgeleisen",
+          "image_path": "sim_images/b\u00fcgeleisen_26.jpg"
+        },
+        {
+          "event_id": 27,
+          "event_type": "game_sort",
+          "item_id": "lack_fl\u00fcssiger_zustand"
+        },
+        {
+          "event_id": 28,
+          "event_type": "game_sort",
+          "item_id": "lampe"
+        },
+        {
+          "event_id": 29,
+          "event_type": "identify",
+          "item_id": "eimer",
+          "image_path": "sim_images/eimer_29.jpg"
+        },
+        {
+          "event_id": 30,
+          "event_type": "game_sort",
+          "item_id": "knochen"
+        },
+        {
+          "event_id": 31,
+          "event_type": "identify",
+          "item_id": "baustellenabf\u00e4lle",
+          "image_path": "sim_images/baustellenabf\u00e4lle_31.jpg"
+        },
+        {
+          "event_id": 32,
+          "event_type": "game_sort",
+          "item_id": "regenschirm"
+        },
+        {
+          "event_id": 33,
+          "event_type": "identify",
+          "item_id": "leuchte",
+          "image_path": "sim_images/leuchte_33.jpg"
+        },
+        {
+          "event_id": 34,
+          "event_type": "game_sort",
+          "item_id": "heizk\u00f6rper"
+        },
+        {
+          "event_id": 35,
+          "event_type": "game_sort",
+          "item_id": "b\u00fcgeleisen"
+        },
+        {
+          "event_id": 36,
+          "event_type": "game_sort",
+          "item_id": "blumentopf"
+        },
+        {
+          "event_id": 37,
+          "event_type": "game_sort",
+          "item_id": "skateboard"
+        },
+        {
+          "event_id": 38,
+          "event_type": "game_sort",
+          "item_id": "toilettenbecken"
+        },
+        {
+          "event_id": 39,
+          "event_type": "identify",
+          "item_id": "schrank",
+          "image_path": "sim_images/schrank_39.jpg"
+        },
+        {
+          "event_id": 40,
+          "event_type": "game_sort",
+          "item_id": "skateboard"
+        },
+        {
+          "event_id": 41,
+          "event_type": "game_sort",
+          "item_id": "altkleider"
+        },
+        {
+          "event_id": 42,
+          "event_type": "game_sort",
+          "item_id": "sanit\u00e4rreiniger"
+        },
+        {
+          "event_id": 43,
+          "event_type": "game_sort",
+          "item_id": "kehricht"
+        },
+        {
+          "event_id": 44,
+          "event_type": "game_sort",
+          "item_id": "entkalker"
+        },
+        {
+          "event_id": 45,
+          "event_type": "game_sort",
+          "item_id": "klarsichth\u00fclle"
+        },
+        {
+          "event_id": 46,
+          "event_type": "game_sort",
+          "item_id": "telefon"
+        },
+        {
+          "event_id": 47,
+          "event_type": "game_sort",
+          "item_id": "grillanz\u00fcnder"
+        },
+        {
+          "event_id": 48,
+          "event_type": "identify",
+          "item_id": "fotoapparat",
+          "image_path": "sim_images/fotoapparat_48.jpg"
+        },
+        {
+          "event_id": 49,
+          "event_type": "identify",
+          "item_id": "porzellan",
+          "image_path": "sim_images/porzellan_49.jpg"
+        },
+        {
+          "event_id": 50,
+          "event_type": "identify",
+          "item_id": "mal_und_filzstifte",
+          "image_path": "sim_images/mal_und_filzstifte_50.jpg"
+        },
+        {
+          "event_id": 51,
+          "event_type": "identify",
+          "item_id": "w\u00e4schetrockner",
+          "image_path": "sim_images/w\u00e4schetrockner_51.jpg"
+        },
+        {
+          "event_id": 52,
+          "event_type": "game_sort",
+          "item_id": "weihnachtsbaum"
+        },
+        {
+          "event_id": 53,
+          "event_type": "game_sort",
+          "item_id": "gartenschlauch"
+        },
+        {
+          "event_id": 54,
+          "event_type": "game_sort",
+          "item_id": "rasenm\u00e4her"
+        },
+        {
+          "event_id": 55,
+          "event_type": "game_sort",
+          "item_id": "f\u00f6hn"
+        },
+        {
+          "event_id": 56,
+          "event_type": "game_sort",
+          "item_id": "blumentopf"
+        },
+        {
+          "event_id": 57,
+          "event_type": "game_sort",
+          "item_id": "lumpen"
+        },
+        {
+          "event_id": 58,
+          "event_type": "game_sort",
+          "item_id": "matratze"
+        },
+        {
+          "event_id": 59,
+          "event_type": "game_sort",
+          "item_id": "videokassette"
+        },
+        {
+          "event_id": 60,
+          "event_type": "game_sort",
+          "item_id": "rasenm\u00e4her"
+        },
+        {
+          "event_id": 61,
+          "event_type": "game_sort",
+          "item_id": "drucker"
+        },
+        {
+          "event_id": 62,
+          "event_type": "identify",
+          "item_id": "linoleum",
+          "image_path": "sim_images/linoleum_62.jpg"
+        },
+        {
+          "event_id": 63,
+          "event_type": "identify",
+          "item_id": "fernsehger\u00e4t",
+          "image_path": "sim_images/fernsehger\u00e4t_63.jpg"
+        },
+        {
+          "event_id": 64,
+          "event_type": "game_sort",
+          "item_id": "zeitung_zeitschrift"
+        },
+        {
+          "event_id": 65,
+          "event_type": "game_sort",
+          "item_id": "jalousie_innen"
+        },
+        {
+          "event_id": 66,
+          "event_type": "game_sort",
+          "item_id": "kleidung"
+        },
+        {
+          "event_id": 67,
+          "event_type": "game_sort",
+          "item_id": "baumschnitt"
+        },
+        {
+          "event_id": 68,
+          "event_type": "game_sort",
+          "item_id": "tee_teebeutel"
+        },
+        {
+          "event_id": 69,
+          "event_type": "game_sort",
+          "item_id": "schleifpapier"
+        },
+        {
+          "event_id": 70,
+          "event_type": "game_sort",
+          "item_id": "m\u00f6bel"
+        },
+        {
+          "event_id": 71,
+          "event_type": "game_sort",
+          "item_id": "alt\u00f6l"
+        },
+        {
+          "event_id": 72,
+          "event_type": "game_sort",
+          "item_id": "b\u00fcgeleisen"
+        },
+        {
+          "event_id": 73,
+          "event_type": "game_sort",
+          "item_id": "schrott"
+        },
+        {
+          "event_id": 74,
+          "event_type": "identify",
+          "item_id": "tasche_handtasche",
+          "image_path": "sim_images/tasche_handtasche_74.jpg"
+        },
+        {
+          "event_id": 75,
+          "event_type": "game_sort",
+          "item_id": "spiritus"
+        },
+        {
+          "event_id": 76,
+          "event_type": "game_sort",
+          "item_id": "fussboden"
+        },
+        {
+          "event_id": 77,
+          "event_type": "identify",
+          "item_id": "sessel",
+          "image_path": "sim_images/sessel_77.jpg"
+        },
+        {
+          "event_id": 78,
+          "event_type": "game_sort",
+          "item_id": "tierkadaver"
+        },
+        {
+          "event_id": 79,
+          "event_type": "game_sort",
+          "item_id": "topf"
+        },
+        {
+          "event_id": 80,
+          "event_type": "game_sort",
+          "item_id": "sensitive_documents"
+        },
+        {
+          "event_id": 81,
+          "event_type": "game_sort",
+          "item_id": "b\u00fcgeleisen"
+        },
+        {
+          "event_id": 82,
+          "event_type": "game_sort",
+          "item_id": "b\u00fcgeleisen"
+        },
+        {
+          "event_id": 83,
+          "event_type": "game_sort",
+          "item_id": "mp3_ger\u00e4t"
+        },
+        {
+          "event_id": 84,
+          "event_type": "game_sort",
+          "item_id": "waschbecken"
+        },
+        {
+          "event_id": 85,
+          "event_type": "game_sort",
+          "item_id": "leder"
+        },
+        {
+          "event_id": 86,
+          "event_type": "identify",
+          "item_id": "altmedikament",
+          "image_path": "sim_images/altmedikament_86.jpg"
+        },
+        {
+          "event_id": 87,
+          "event_type": "game_sort",
+          "item_id": "katzenstreu"
+        },
+        {
+          "event_id": 88,
+          "event_type": "game_sort",
+          "item_id": "damenbinde"
+        },
+        {
+          "event_id": 89,
+          "event_type": "game_sort",
+          "item_id": "gasflaschen_gaspatronen"
+        },
+        {
+          "event_id": 90,
+          "event_type": "game_sort",
+          "item_id": "rollo"
+        },
+        {
+          "event_id": 91,
+          "event_type": "game_sort",
+          "item_id": "druckerpatrone"
+        },
+        {
+          "event_id": 92,
+          "event_type": "game_sort",
+          "item_id": "katzenstreu"
+        },
+        {
+          "event_id": 93,
+          "event_type": "game_sort",
+          "item_id": "topf"
+        },
+        {
+          "event_id": 94,
+          "event_type": "game_sort",
+          "item_id": "puschaumdose"
+        },
+        {
+          "event_id": 95,
+          "event_type": "game_sort",
+          "item_id": "topf"
+        },
+        {
+          "event_id": 96,
+          "event_type": "game_sort",
+          "item_id": "fussboden"
+        },
+        {
+          "event_id": 97,
+          "event_type": "game_sort",
+          "item_id": "rasenm\u00e4her"
+        },
+        {
+          "event_id": 98,
+          "event_type": "game_sort",
+          "item_id": "handy"
+        },
+        {
+          "event_id": 99,
+          "event_type": "game_sort",
+          "item_id": "\u00f6lfilter"
+        },
+        {
+          "event_id": 100,
+          "event_type": "game_sort",
+          "item_id": "tasche_handtasche"
+        },
+        {
+          "event_id": 101,
+          "event_type": "identify",
+          "item_id": "fotoapparat",
+          "image_path": "sim_images/fotoapparat_101.jpg"
+        },
+        {
+          "event_id": 102,
+          "event_type": "game_sort",
+          "item_id": "jogurtbecher"
+        },
+        {
+          "event_id": 103,
+          "event_type": "identify",
+          "item_id": "ski_skist\u00f6cke",
+          "image_path": "sim_images/ski_skist\u00f6cke_103.jpg"
+        },
+        {
+          "event_id": 104,
+          "event_type": "game_sort",
+          "item_id": "herd"
+        },
+        {
+          "event_id": 105,
+          "event_type": "identify",
+          "item_id": "baumschnitt",
+          "image_path": "sim_images/baumschnitt_105.jpg"
+        },
+        {
+          "event_id": 106,
+          "event_type": "game_sort",
+          "item_id": "waschmaschine"
+        },
+        {
+          "event_id": 107,
+          "event_type": "identify",
+          "item_id": "skateboard",
+          "image_path": "sim_images/skateboard_107.jpg"
+        },
+        {
+          "event_id": 108,
+          "event_type": "game_sort",
+          "item_id": "druckerpatrone"
+        },
+        {
+          "event_id": 109,
+          "event_type": "identify",
+          "item_id": "sanit\u00e4rreiniger",
+          "image_path": "sim_images/sanit\u00e4rreiniger_109.jpg"
+        },
+        {
+          "event_id": 110,
+          "event_type": "game_sort",
+          "item_id": "dvd"
+        },
+        {
+          "event_id": 111,
+          "event_type": "game_sort",
+          "item_id": "entfroster"
+        },
+        {
+          "event_id": 112,
+          "event_type": "game_sort",
+          "item_id": "katzenstreu"
+        },
+        {
+          "event_id": 113,
+          "event_type": "game_sort",
+          "item_id": "diskette"
+        },
+        {
+          "event_id": 114,
+          "event_type": "game_sort",
+          "item_id": "bauschutt"
+        },
+        {
+          "event_id": 115,
+          "event_type": "game_sort",
+          "item_id": "non_packaging_glass"
+        },
+        {
+          "event_id": 116,
+          "event_type": "game_sort",
+          "item_id": "karosserie"
+        },
+        {
+          "event_id": 117,
+          "event_type": "game_sort",
+          "item_id": "kamelitwolle"
+        },
+        {
+          "event_id": 118,
+          "event_type": "game_sort",
+          "item_id": "telefon"
+        },
+        {
+          "event_id": 119,
+          "event_type": "identify",
+          "item_id": "hygieneartikel",
+          "image_path": "sim_images/hygieneartikel_119.jpg"
+        },
+        {
+          "event_id": 120,
+          "event_type": "game_sort",
+          "item_id": "feuerl\u00f6scher"
+        },
+        {
+          "event_id": 121,
+          "event_type": "game_sort",
+          "item_id": "wasserstoffperoxid"
+        },
+        {
+          "event_id": 122,
+          "event_type": "game_sort",
+          "item_id": "schallplatte"
+        },
+        {
+          "event_id": 123,
+          "event_type": "identify",
+          "item_id": "entkalker",
+          "image_path": "sim_images/entkalker_123.jpg"
+        },
+        {
+          "event_id": 124,
+          "event_type": "game_sort",
+          "item_id": "thermometer"
+        },
+        {
+          "event_id": 125,
+          "event_type": "identify",
+          "item_id": "klebstofftube_geleert",
+          "image_path": "sim_images/klebstofftube_geleert_125.jpg"
+        },
+        {
+          "event_id": 126,
+          "event_type": "game_sort",
+          "item_id": "uhr_rein_mechanisch"
+        },
+        {
+          "event_id": 127,
+          "event_type": "game_sort",
+          "item_id": "old_paint"
+        },
+        {
+          "event_id": 128,
+          "event_type": "identify",
+          "item_id": "telefon",
+          "image_path": "sim_images/telefon_128.jpg"
+        },
+        {
+          "event_id": 129,
+          "event_type": "identify",
+          "item_id": "kamelitwolle",
+          "image_path": "sim_images/kamelitwolle_129.jpg"
+        },
+        {
+          "event_id": 130,
+          "event_type": "game_sort",
+          "item_id": "altmedikament"
+        },
+        {
+          "event_id": 131,
+          "event_type": "game_sort",
+          "item_id": "klebstofftube_geleert"
+        },
+        {
+          "event_id": 132,
+          "event_type": "game_sort",
+          "item_id": "verbandsmaterial"
+        },
+        {
+          "event_id": 133,
+          "event_type": "game_sort",
+          "item_id": "lack_fester_zustand"
+        },
+        {
+          "event_id": 134,
+          "event_type": "game_sort",
+          "item_id": "schnellhefter_pvc"
+        },
+        {
+          "event_id": 135,
+          "event_type": "identify",
+          "item_id": "skischuhe",
+          "image_path": "sim_images/skischuhe_135.jpg"
+        },
+        {
+          "event_id": 136,
+          "event_type": "game_sort",
+          "item_id": "drucker"
+        },
+        {
+          "event_id": 137,
+          "event_type": "game_sort",
+          "item_id": "blumentopf"
+        },
+        {
+          "event_id": 138,
+          "event_type": "game_sort",
+          "item_id": "elektroaltger\u00e4t"
+        },
+        {
+          "event_id": 139,
+          "event_type": "game_sort",
+          "item_id": "zementsack"
+        },
+        {
+          "event_id": 140,
+          "event_type": "game_sort",
+          "item_id": "thermometer"
+        },
+        {
+          "event_id": 141,
+          "event_type": "game_sort",
+          "item_id": "kamelitwolle"
+        },
+        {
+          "event_id": 142,
+          "event_type": "game_sort",
+          "item_id": "speisereste"
+        },
+        {
+          "event_id": 143,
+          "event_type": "game_sort",
+          "item_id": "fotoapparat"
+        },
+        {
+          "event_id": 144,
+          "event_type": "game_sort",
+          "item_id": "pfanne_kochtopf"
+        },
+        {
+          "event_id": 145,
+          "event_type": "game_sort",
+          "item_id": "weihnachtsbaum"
+        },
+        {
+          "event_id": 146,
+          "event_type": "identify",
+          "item_id": "lampe",
+          "image_path": "sim_images/lampe_146.jpg"
+        },
+        {
+          "event_id": 147,
+          "event_type": "game_sort",
+          "item_id": "wcreiniger"
+        },
+        {
+          "event_id": 148,
+          "event_type": "game_sort",
+          "item_id": "feuerl\u00f6scher"
+        },
+        {
+          "event_id": 149,
+          "event_type": "identify",
+          "item_id": "blumentopf",
+          "image_path": "sim_images/blumentopf_149.jpg"
+        },
+        {
+          "event_id": 150,
+          "event_type": "identify",
+          "item_id": "s\u00e4ure",
+          "image_path": "sim_images/s\u00e4ure_150.jpg"
+        },
+        {
+          "event_id": 151,
+          "event_type": "game_sort",
+          "item_id": "tonerkartusche"
+        },
+        {
+          "event_id": 152,
+          "event_type": "game_sort",
+          "item_id": "musikkasette"
+        },
+        {
+          "event_id": 153,
+          "event_type": "game_sort",
+          "item_id": "telefon"
+        },
+        {
+          "event_id": 154,
+          "event_type": "game_sort",
+          "item_id": "skateboard"
+        },
+        {
+          "event_id": 155,
+          "event_type": "game_sort",
+          "item_id": "skateboard"
+        },
+        {
+          "event_id": 156,
+          "event_type": "game_sort",
+          "item_id": "zementsack"
+        },
+        {
+          "event_id": 157,
+          "event_type": "game_sort",
+          "item_id": "toilettenbecken"
+        },
+        {
+          "event_id": 158,
+          "event_type": "game_sort",
+          "item_id": "asche_kalt"
+        },
+        {
+          "event_id": 159,
+          "event_type": "identify",
+          "item_id": "blumentopf",
+          "image_path": "sim_images/blumentopf_159.jpg"
+        },
+        {
+          "event_id": 160,
+          "event_type": "game_sort",
+          "item_id": "fernsehger\u00e4t"
+        },
+        {
+          "event_id": 161,
+          "event_type": "game_sort",
+          "item_id": "garten_und_gr\u00fcnabf\u00e4lle"
+        },
+        {
+          "event_id": 162,
+          "event_type": "game_sort",
+          "item_id": "entfroster"
+        },
+        {
+          "event_id": 163,
+          "event_type": "game_sort",
+          "item_id": "entfroster"
+        },
+        {
+          "event_id": 164,
+          "event_type": "game_sort",
+          "item_id": "obstreste"
+        },
+        {
+          "event_id": 165,
+          "event_type": "game_sort",
+          "item_id": "topf"
+        },
+        {
+          "event_id": 166,
+          "event_type": "identify",
+          "item_id": "druckerpatrone",
+          "image_path": "sim_images/druckerpatrone_166.jpg"
+        },
+        {
+          "event_id": 167,
+          "event_type": "game_sort",
+          "item_id": "skateboard"
+        },
+        {
+          "event_id": 168,
+          "event_type": "identify",
+          "item_id": "karosserie",
+          "image_path": "sim_images/karosserie_168.jpg"
+        },
+        {
+          "event_id": 169,
+          "event_type": "game_sort",
+          "item_id": "katzenstreu"
+        },
+        {
+          "event_id": 170,
+          "event_type": "identify",
+          "item_id": "ordner",
+          "image_path": "sim_images/ordner_170.jpg"
+        },
+        {
+          "event_id": 171,
+          "event_type": "game_sort",
+          "item_id": "sonnenschirm"
+        },
+        {
+          "event_id": 172,
+          "event_type": "identify",
+          "item_id": "rasenm\u00e4her",
+          "image_path": "sim_images/rasenm\u00e4her_172.jpg"
+        },
+        {
+          "event_id": 173,
+          "event_type": "game_sort",
+          "item_id": "polsterm\u00f6bel"
+        },
+        {
+          "event_id": 174,
+          "event_type": "game_sort",
+          "item_id": "videokassette"
+        },
+        {
+          "event_id": 175,
+          "event_type": "game_sort",
+          "item_id": "inkontinenzartikel"
+        },
+        {
+          "event_id": 176,
+          "event_type": "game_sort",
+          "item_id": "non_packaging_glass"
+        },
+        {
+          "event_id": 177,
+          "event_type": "game_sort",
+          "item_id": "obstreste"
+        },
+        {
+          "event_id": 178,
+          "event_type": "game_sort",
+          "item_id": "laminatboden"
+        },
+        {
+          "event_id": 179,
+          "event_type": "identify",
+          "item_id": "skateboard",
+          "image_path": "sim_images/skateboard_179.jpg"
+        },
+        {
+          "event_id": 180,
+          "event_type": "game_sort",
+          "item_id": "b\u00fccher"
+        },
+        {
+          "event_id": 181,
+          "event_type": "identify",
+          "item_id": "tasche_handtasche",
+          "image_path": "sim_images/tasche_handtasche_181.jpg"
+        },
+        {
+          "event_id": 182,
+          "event_type": "game_sort",
+          "item_id": "altmedikament"
+        },
+        {
+          "event_id": 183,
+          "event_type": "identify",
+          "item_id": "kaffeemaschine",
+          "image_path": "sim_images/kaffeemaschine_183.jpg"
+        },
+        {
+          "event_id": 184,
+          "event_type": "game_sort",
+          "item_id": "rasenm\u00e4her"
+        },
+        {
+          "event_id": 185,
+          "event_type": "identify",
+          "item_id": "spielzeug_elektrisch",
+          "image_path": "sim_images/spielzeug_elektrisch_185.jpg"
+        },
+        {
+          "event_id": 186,
+          "event_type": "game_sort",
+          "item_id": "altmedikament"
+        },
+        {
+          "event_id": 187,
+          "event_type": "identify",
+          "item_id": "schlauchboot",
+          "image_path": "sim_images/schlauchboot_187.jpg"
+        },
+        {
+          "event_id": 188,
+          "event_type": "identify",
+          "item_id": "maschendrahtzaun",
+          "image_path": "sim_images/maschendrahtzaun_188.jpg"
+        },
+        {
+          "event_id": 189,
+          "event_type": "game_sort",
+          "item_id": "thermoskanne"
+        },
+        {
+          "event_id": 190,
+          "event_type": "game_sort",
+          "item_id": "plexiglas"
+        },
+        {
+          "event_id": 191,
+          "event_type": "game_sort",
+          "item_id": "feuerl\u00f6scher"
+        },
+        {
+          "event_id": 192,
+          "event_type": "game_sort",
+          "item_id": "hygieneartikel"
+        },
+        {
+          "event_id": 193,
+          "event_type": "identify",
+          "item_id": "w\u00e4schetrockner",
+          "image_path": "sim_images/w\u00e4schetrockner_193.jpg"
+        },
+        {
+          "event_id": 194,
+          "event_type": "game_sort",
+          "item_id": "katzenstreu"
+        },
+        {
+          "event_id": 195,
+          "event_type": "game_sort",
+          "item_id": "videokassette"
+        },
+        {
+          "event_id": 196,
+          "event_type": "game_sort",
+          "item_id": "getr\u00e4nkeverpackungen"
+        },
+        {
+          "event_id": 197,
+          "event_type": "game_sort",
+          "item_id": "matratze"
+        },
+        {
+          "event_id": 198,
+          "event_type": "game_sort",
+          "item_id": "b\u00fcgeleisen"
+        },
+        {
+          "event_id": 199,
+          "event_type": "game_sort",
+          "item_id": "gl\u00fchbirne"
+        },
+        {
+          "event_id": 200,
+          "event_type": "identify",
+          "item_id": "bauschutt",
+          "image_path": "sim_images/bauschutt_200.jpg"
+        }
+      ]
+    },
+    {
+      "scenario_id": "bio_focus_200",
+      "description": "200 interactions heavily focused on organic waste (Biotonne) items and common contaminants, reflecting Magdeburg's #wirfuerbio campaign challenges. High repetition of problem items.",
+      "user_profile": {
+        "type": "bio_struggler",
+        "initial_error_rate": 0.3,
+        "learning_rate": 0.07,
+        "known_bias": {
+          "jogurtbecher": {
+            "target_bin": "Organic Waste Bin",
+            "error_prob_boost": 0.3
+          },
+          "getr\u00e4nkeverpackungen": {
+            "target_bin": "Organic Waste Bin",
+            "error_prob_boost": 0.3
+          },
+          "baumschnitt": {
+            "target_bin": "Organic Waste Bin",
+            "error_prob_boost": 0.3
+          },
+          "blumen": {
+            "target_bin": "Organic Waste Bin",
+            "error_prob_boost": 0.3
+          },
+          "eierschale": {
+            "target_bin": "Organic Waste Bin",
+            "error_prob_boost": 0.3
+          },
+          "garten_und_gr\u00fcnabf\u00e4lle": {
+            "target_bin": "Organic Waste Bin",
+            "error_prob_boost": 0.3
+          },
+          "kaffeesatz": {
+            "target_bin": "Organic Waste Bin",
+            "error_prob_boost": 0.3
+          },
+          "laub": {
+            "target_bin": "Organic Waste Bin",
+            "error_prob_boost": 0.3
+          },
+          "obstreste": {
+            "target_bin": "Organic Waste Bin",
+            "error_prob_boost": 0.3
+          },
+          "rasenschnitt": {
+            "target_bin": "Organic Waste Bin",
+            "error_prob_boost": 0.3
+          },
+          "speisereste": {
+            "target_bin": "Organic Waste Bin",
+            "error_prob_boost": 0.3
+          },
+          "tee_teebeutel": {
+            "target_bin": "Organic Waste Bin",
+            "error_prob_boost": 0.3
+          },
+          "weihnachtsbaum": {
+            "target_bin": "Organic Waste Bin",
+            "error_prob_boost": 0.3
+          },
+          "zitronenschale": {
+            "target_bin": "Organic Waste Bin",
+            "error_prob_boost": 0.3
+          }
+        }
+      },
+      "events": [
+        {
+          "event_id": 1,
+          "event_type": "game_sort",
+          "item_id": "quecksilberthermometer"
+        },
+        {
+          "event_id": 2,
+          "event_type": "game_sort",
+          "item_id": "nagellack_fester_zustand"
+        },
+        {
+          "event_id": 3,
+          "event_type": "game_sort",
+          "item_id": "chemikalien"
+        },
+        {
+          "event_id": 4,
+          "event_type": "game_sort",
+          "item_id": "holzschutzmittel"
+        },
+        {
+          "event_id": 5,
+          "event_type": "game_sort",
+          "item_id": "\u00f6lbindemittel"
+        },
+        {
+          "event_id": 6,
+          "event_type": "identify",
+          "item_id": "feuerl\u00f6scher",
+          "image_path": "sim_images/feuerl\u00f6scher_6.jpg"
+        },
+        {
+          "event_id": 7,
+          "event_type": "identify",
+          "item_id": "aktenordner",
+          "image_path": "sim_images/aktenordner_7.jpg"
+        },
+        {
+          "event_id": 8,
+          "event_type": "game_sort",
+          "item_id": "schrank"
+        },
+        {
+          "event_id": 9,
+          "event_type": "identify",
+          "item_id": "neonr\u00f6hre",
+          "image_path": "sim_images/neonr\u00f6hre_9.jpg"
+        },
+        {
+          "event_id": 10,
+          "event_type": "game_sort",
+          "item_id": "jalousie_innen"
+        },
+        {
+          "event_id": 11,
+          "event_type": "game_sort",
+          "item_id": "haushaltsger\u00e4te"
+        },
+        {
+          "event_id": 12,
+          "event_type": "game_sort",
+          "item_id": "entfroster"
+        },
+        {
+          "event_id": 13,
+          "event_type": "game_sort",
+          "item_id": "tonband"
+        },
+        {
+          "event_id": 14,
+          "event_type": "identify",
+          "item_id": "teppich_teppichboden",
+          "image_path": "sim_images/teppich_teppichboden_14.jpg"
+        },
+        {
+          "event_id": 15,
+          "event_type": "identify",
+          "item_id": "fussbodenbelag",
+          "image_path": "sim_images/fussbodenbelag_15.jpg"
+        },
+        {
+          "event_id": 16,
+          "event_type": "game_sort",
+          "item_id": "thermoskanne"
+        },
+        {
+          "event_id": 17,
+          "event_type": "game_sort",
+          "item_id": "fussbodenbelag"
+        },
+        {
+          "event_id": 18,
+          "event_type": "game_sort",
+          "item_id": "tee_teebeutel"
+        },
+        {
+          "event_id": 19,
+          "event_type": "identify",
+          "item_id": "spielzeug_kein_elektroger\u00e4t",
+          "image_path": "sim_images/spielzeug_kein_elektroger\u00e4t_19.jpg"
+        },
+        {
+          "event_id": 20,
+          "event_type": "identify",
+          "item_id": "entkalker",
+          "image_path": "sim_images/entkalker_20.jpg"
+        },
+        {
+          "event_id": 21,
+          "event_type": "identify",
+          "item_id": "dachpappe",
+          "image_path": "sim_images/dachpappe_21.jpg"
+        },
+        {
+          "event_id": 22,
+          "event_type": "game_sort",
+          "item_id": "jogurtbecher"
+        },
+        {
+          "event_id": 23,
+          "event_type": "game_sort",
+          "item_id": "klebstofftube_geleert"
+        },
+        {
+          "event_id": 24,
+          "event_type": "game_sort",
+          "item_id": "thermometer"
+        },
+        {
+          "event_id": 25,
+          "event_type": "identify",
+          "item_id": "schrank",
+          "image_path": "sim_images/schrank_25.jpg"
+        },
+        {
+          "event_id": 26,
+          "event_type": "identify",
+          "item_id": "weihnachtsbaum",
+          "image_path": "sim_images/weihnachtsbaum_26.jpg"
+        },
+        {
+          "event_id": 27,
+          "event_type": "game_sort",
+          "item_id": "katzenstreu"
+        },
+        {
+          "event_id": 28,
+          "event_type": "game_sort",
+          "item_id": "getr\u00e4nkeverpackungen"
+        },
+        {
+          "event_id": 29,
+          "event_type": "game_sort",
+          "item_id": "jogurtbecher"
+        },
+        {
+          "event_id": 30,
+          "event_type": "game_sort",
+          "item_id": "grillanz\u00fcnder"
+        },
+        {
+          "event_id": 31,
+          "event_type": "identify",
+          "item_id": "kaffeesatz",
+          "image_path": "sim_images/kaffeesatz_31.jpg"
+        },
+        {
+          "event_id": 32,
+          "event_type": "game_sort",
+          "item_id": "reifen"
+        },
+        {
+          "event_id": 33,
+          "event_type": "game_sort",
+          "item_id": "garten_und_gr\u00fcnabf\u00e4lle"
+        },
+        {
+          "event_id": 34,
+          "event_type": "game_sort",
+          "item_id": "zeitung_zeitschrift"
+        },
+        {
+          "event_id": 35,
+          "event_type": "game_sort",
+          "item_id": "getr\u00e4nkeverpackungen"
+        },
+        {
+          "event_id": 36,
+          "event_type": "game_sort",
+          "item_id": "fotoapparat"
+        },
+        {
+          "event_id": 37,
+          "event_type": "identify",
+          "item_id": "altmedikament",
+          "image_path": "sim_images/altmedikament_37.jpg"
+        },
+        {
+          "event_id": 38,
+          "event_type": "game_sort",
+          "item_id": "vase"
+        },
+        {
+          "event_id": 39,
+          "event_type": "game_sort",
+          "item_id": "schnellhefter_pvc"
+        },
+        {
+          "event_id": 40,
+          "event_type": "game_sort",
+          "item_id": "fleckentferner"
+        },
+        {
+          "event_id": 41,
+          "event_type": "game_sort",
+          "item_id": "videokassette"
+        },
+        {
+          "event_id": 42,
+          "event_type": "game_sort",
+          "item_id": "wasserstoffperoxid"
+        },
+        {
+          "event_id": 43,
+          "event_type": "game_sort",
+          "item_id": "einweggeschirr_besteck_sauber"
+        },
+        {
+          "event_id": 44,
+          "event_type": "identify",
+          "item_id": "eimer",
+          "image_path": "sim_images/eimer_44.jpg"
+        },
+        {
+          "event_id": 45,
+          "event_type": "game_sort",
+          "item_id": "speisereste"
+        },
+        {
+          "event_id": 46,
+          "event_type": "game_sort",
+          "item_id": "topf"
+        },
+        {
+          "event_id": 47,
+          "event_type": "game_sort",
+          "item_id": "korken"
+        },
+        {
+          "event_id": 48,
+          "event_type": "game_sort",
+          "item_id": "metalle"
+        },
+        {
+          "event_id": 49,
+          "event_type": "game_sort",
+          "item_id": "haushaltsger\u00e4te"
+        },
+        {
+          "event_id": 50,
+          "event_type": "identify",
+          "item_id": "blumen",
+          "image_path": "sim_images/blumen_50.jpg"
+        },
+        {
+          "event_id": 51,
+          "event_type": "identify",
+          "item_id": "tee_teebeutel",
+          "image_path": "sim_images/tee_teebeutel_51.jpg"
+        },
+        {
+          "event_id": 52,
+          "event_type": "game_sort",
+          "item_id": "ski_skist\u00f6cke"
+        },
+        {
+          "event_id": 53,
+          "event_type": "game_sort",
+          "item_id": "grillanz\u00fcnder"
+        },
+        {
+          "event_id": 54,
+          "event_type": "game_sort",
+          "item_id": "weihnachtsbaum"
+        },
+        {
+          "event_id": 55,
+          "event_type": "game_sort",
+          "item_id": "rohrreiniger"
+        },
+        {
+          "event_id": 56,
+          "event_type": "game_sort",
+          "item_id": "getr\u00e4nkeverpackungen"
+        },
+        {
+          "event_id": 57,
+          "event_type": "identify",
+          "item_id": "zitronenschale",
+          "image_path": "sim_images/zitronenschale_57.jpg"
+        },
+        {
+          "event_id": 58,
+          "event_type": "identify",
+          "item_id": "zigarettenkippen",
+          "image_path": "sim_images/zigarettenkippen_58.jpg"
+        },
+        {
+          "event_id": 59,
+          "event_type": "game_sort",
+          "item_id": "getr\u00e4nkeverpackungen"
+        },
+        {
+          "event_id": 60,
+          "event_type": "game_sort",
+          "item_id": "pc"
+        },
+        {
+          "event_id": 61,
+          "event_type": "game_sort",
+          "item_id": "laub"
+        },
+        {
+          "event_id": 62,
+          "event_type": "game_sort",
+          "item_id": "verd\u00fcnner"
+        },
+        {
+          "event_id": 63,
+          "event_type": "game_sort",
+          "item_id": "f\u00f6hn"
+        },
+        {
+          "event_id": 64,
+          "event_type": "game_sort",
+          "item_id": "pappe"
+        },
+        {
+          "event_id": 65,
+          "event_type": "game_sort",
+          "item_id": "fleckentferner"
+        },
+        {
+          "event_id": 66,
+          "event_type": "game_sort",
+          "item_id": "mineralwolle"
+        },
+        {
+          "event_id": 67,
+          "event_type": "game_sort",
+          "item_id": "eierschale"
+        },
+        {
+          "event_id": 68,
+          "event_type": "identify",
+          "item_id": "baumschnitt",
+          "image_path": "sim_images/baumschnitt_68.jpg"
+        },
+        {
+          "event_id": 69,
+          "event_type": "identify",
+          "item_id": "schleifpapier",
+          "image_path": "sim_images/schleifpapier_69.jpg"
+        },
+        {
+          "event_id": 70,
+          "event_type": "game_sort",
+          "item_id": "batterie"
+        },
+        {
+          "event_id": 71,
+          "event_type": "game_sort",
+          "item_id": "aktenordner"
+        },
+        {
+          "event_id": 72,
+          "event_type": "game_sort",
+          "item_id": "neonr\u00f6hre"
+        },
+        {
+          "event_id": 73,
+          "event_type": "game_sort",
+          "item_id": "fliesen"
+        },
+        {
+          "event_id": 74,
+          "event_type": "identify",
+          "item_id": "eierschale",
+          "image_path": "sim_images/eierschale_74.jpg"
+        },
+        {
+          "event_id": 75,
+          "event_type": "identify",
+          "item_id": "wanne",
+          "image_path": "sim_images/wanne_75.jpg"
+        },
+        {
+          "event_id": 76,
+          "event_type": "game_sort",
+          "item_id": "altpapier"
+        },
+        {
+          "event_id": 77,
+          "event_type": "game_sort",
+          "item_id": "sofa"
+        },
+        {
+          "event_id": 78,
+          "event_type": "game_sort",
+          "item_id": "klebstoffe_fester_zustand"
+        },
+        {
+          "event_id": 79,
+          "event_type": "game_sort",
+          "item_id": "weihnachtsbaum"
+        },
+        {
+          "event_id": 80,
+          "event_type": "game_sort",
+          "item_id": "sofa"
+        },
+        {
+          "event_id": 81,
+          "event_type": "identify",
+          "item_id": "koffer",
+          "image_path": "sim_images/koffer_81.jpg"
+        },
+        {
+          "event_id": 82,
+          "event_type": "game_sort",
+          "item_id": "kaffeesatz"
+        },
+        {
+          "event_id": 83,
+          "event_type": "game_sort",
+          "item_id": "spielzeug_elektrisch"
+        },
+        {
+          "event_id": 84,
+          "event_type": "game_sort",
+          "item_id": "kaffeesatz"
+        },
+        {
+          "event_id": 85,
+          "event_type": "game_sort",
+          "item_id": "kaffeesatz"
+        },
+        {
+          "event_id": 86,
+          "event_type": "game_sort",
+          "item_id": "dose"
+        },
+        {
+          "event_id": 87,
+          "event_type": "game_sort",
+          "item_id": "monitor"
+        },
+        {
+          "event_id": 88,
+          "event_type": "identify",
+          "item_id": "baumschnitt",
+          "image_path": "sim_images/baumschnitt_88.jpg"
+        },
+        {
+          "event_id": 89,
+          "event_type": "identify",
+          "item_id": "akten",
+          "image_path": "sim_images/akten_89.jpg"
+        },
+        {
+          "event_id": 90,
+          "event_type": "game_sort",
+          "item_id": "textilien"
+        },
+        {
+          "event_id": 91,
+          "event_type": "game_sort",
+          "item_id": "fahrrad"
+        },
+        {
+          "event_id": 92,
+          "event_type": "game_sort",
+          "item_id": "getr\u00e4nkeverpackungen"
+        },
+        {
+          "event_id": 93,
+          "event_type": "game_sort",
+          "item_id": "kinderwagen"
+        },
+        {
+          "event_id": 94,
+          "event_type": "game_sort",
+          "item_id": "katzenstreu"
+        },
+        {
+          "event_id": 95,
+          "event_type": "game_sort",
+          "item_id": "eierschale"
+        },
+        {
+          "event_id": 96,
+          "event_type": "game_sort",
+          "item_id": "baumschnitt"
+        },
+        {
+          "event_id": 97,
+          "event_type": "game_sort",
+          "item_id": "blumentopf"
+        },
+        {
+          "event_id": 98,
+          "event_type": "game_sort",
+          "item_id": "gl\u00fchbirne"
+        },
+        {
+          "event_id": 99,
+          "event_type": "game_sort",
+          "item_id": "kaffeesatz"
+        },
+        {
+          "event_id": 100,
+          "event_type": "game_sort",
+          "item_id": "leim_fl\u00fcssiger_zustand"
+        },
+        {
+          "event_id": 101,
+          "event_type": "game_sort",
+          "item_id": "sensitive_documents"
+        },
+        {
+          "event_id": 102,
+          "event_type": "game_sort",
+          "item_id": "lauge"
+        },
+        {
+          "event_id": 103,
+          "event_type": "game_sort",
+          "item_id": "getr\u00e4nkeverpackungen"
+        },
+        {
+          "event_id": 104,
+          "event_type": "identify",
+          "item_id": "garten_und_gr\u00fcnabf\u00e4lle",
+          "image_path": "sim_images/garten_und_gr\u00fcnabf\u00e4lle_104.jpg"
+        },
+        {
+          "event_id": 105,
+          "event_type": "identify",
+          "item_id": "kinderwagen",
+          "image_path": "sim_images/kinderwagen_105.jpg"
+        },
+        {
+          "event_id": 106,
+          "event_type": "identify",
+          "item_id": "obstreste",
+          "image_path": "sim_images/obstreste_106.jpg"
+        },
+        {
+          "event_id": 107,
+          "event_type": "game_sort",
+          "item_id": "gartenschlauch"
+        },
+        {
+          "event_id": 108,
+          "event_type": "game_sort",
+          "item_id": "videokassette"
+        },
+        {
+          "event_id": 109,
+          "event_type": "game_sort",
+          "item_id": "asbest"
+        },
+        {
+          "event_id": 110,
+          "event_type": "identify",
+          "item_id": "farbreste_fl\u00fcssiger_zustand",
+          "image_path": "sim_images/farbreste_fl\u00fcssiger_zustand_110.jpg"
+        },
+        {
+          "event_id": 111,
+          "event_type": "identify",
+          "item_id": "satellitensch\u00fcssel",
+          "image_path": "sim_images/satellitensch\u00fcssel_111.jpg"
+        },
+        {
+          "event_id": 112,
+          "event_type": "game_sort",
+          "item_id": "orangenschale"
+        },
+        {
+          "event_id": 113,
+          "event_type": "game_sort",
+          "item_id": "dose"
+        },
+        {
+          "event_id": 114,
+          "event_type": "game_sort",
+          "item_id": "toilettenbecken"
+        },
+        {
+          "event_id": 115,
+          "event_type": "game_sort",
+          "item_id": "baumschnitt"
+        },
+        {
+          "event_id": 116,
+          "event_type": "game_sort",
+          "item_id": "\u00f6lbindemittel"
+        },
+        {
+          "event_id": 117,
+          "event_type": "game_sort",
+          "item_id": "druckerpatrone"
+        },
+        {
+          "event_id": 118,
+          "event_type": "game_sort",
+          "item_id": "blumen"
+        },
+        {
+          "event_id": 119,
+          "event_type": "identify",
+          "item_id": "korkfussboden",
+          "image_path": "sim_images/korkfussboden_119.jpg"
+        },
+        {
+          "event_id": 120,
+          "event_type": "game_sort",
+          "item_id": "satellitensch\u00fcssel"
+        },
+        {
+          "event_id": 121,
+          "event_type": "game_sort",
+          "item_id": "abflussreiniger"
+        },
+        {
+          "event_id": 122,
+          "event_type": "game_sort",
+          "item_id": "rasenm\u00e4her"
+        },
+        {
+          "event_id": 123,
+          "event_type": "game_sort",
+          "item_id": "akten"
+        },
+        {
+          "event_id": 124,
+          "event_type": "identify",
+          "item_id": "couch",
+          "image_path": "sim_images/couch_124.jpg"
+        },
+        {
+          "event_id": 125,
+          "event_type": "identify",
+          "item_id": "textilien",
+          "image_path": "sim_images/textilien_125.jpg"
+        },
+        {
+          "event_id": 126,
+          "event_type": "identify",
+          "item_id": "nachtspeicherofen",
+          "image_path": "sim_images/nachtspeicherofen_126.jpg"
+        },
+        {
+          "event_id": 127,
+          "event_type": "identify",
+          "item_id": "altpapier",
+          "image_path": "sim_images/altpapier_127.jpg"
+        },
+        {
+          "event_id": 128,
+          "event_type": "game_sort",
+          "item_id": "spielzeug_kein_elektroger\u00e4t"
+        },
+        {
+          "event_id": 129,
+          "event_type": "identify",
+          "item_id": "leim_fester_zustand",
+          "image_path": "sim_images/leim_fester_zustand_129.jpg"
+        },
+        {
+          "event_id": 130,
+          "event_type": "game_sort",
+          "item_id": "karosserie"
+        },
+        {
+          "event_id": 131,
+          "event_type": "game_sort",
+          "item_id": "puschaumdose"
+        },
+        {
+          "event_id": 132,
+          "event_type": "game_sort",
+          "item_id": "jalousie_aussen"
+        },
+        {
+          "event_id": 133,
+          "event_type": "identify",
+          "item_id": "klebstoffe_fester_zustand",
+          "image_path": "sim_images/klebstoffe_fester_zustand_133.jpg"
+        },
+        {
+          "event_id": 134,
+          "event_type": "identify",
+          "item_id": "kaffeesatz",
+          "image_path": "sim_images/kaffeesatz_134.jpg"
+        },
+        {
+          "event_id": 135,
+          "event_type": "identify",
+          "item_id": "speisereste",
+          "image_path": "sim_images/speisereste_135.jpg"
+        },
+        {
+          "event_id": 136,
+          "event_type": "game_sort",
+          "item_id": "rohrreiniger"
+        },
+        {
+          "event_id": 137,
+          "event_type": "game_sort",
+          "item_id": "videoger\u00e4t_dvd"
+        },
+        {
+          "event_id": 138,
+          "event_type": "game_sort",
+          "item_id": "dose"
+        },
+        {
+          "event_id": 139,
+          "event_type": "identify",
+          "item_id": "zementsack",
+          "image_path": "sim_images/zementsack_139.jpg"
+        },
+        {
+          "event_id": 140,
+          "event_type": "game_sort",
+          "item_id": "aktenordner"
+        },
+        {
+          "event_id": 141,
+          "event_type": "game_sort",
+          "item_id": "uhr_elektroger\u00e4t"
+        },
+        {
+          "event_id": 142,
+          "event_type": "game_sort",
+          "item_id": "t\u00fcr"
+        },
+        {
+          "event_id": 143,
+          "event_type": "game_sort",
+          "item_id": "garten_und_gr\u00fcnabf\u00e4lle"
+        },
+        {
+          "event_id": 144,
+          "event_type": "identify",
+          "item_id": "zahnb\u00fcrste_nicht_elektrisch",
+          "image_path": "sim_images/zahnb\u00fcrste_nicht_elektrisch_144.jpg"
+        },
+        {
+          "event_id": 145,
+          "event_type": "game_sort",
+          "item_id": "hygieneartikel"
+        },
+        {
+          "event_id": 146,
+          "event_type": "game_sort",
+          "item_id": "einweggeschirr_besteck_sauber"
+        },
+        {
+          "event_id": 147,
+          "event_type": "game_sort",
+          "item_id": "plattenspieler"
+        },
+        {
+          "event_id": 148,
+          "event_type": "game_sort",
+          "item_id": "tapetenreste"
+        },
+        {
+          "event_id": 149,
+          "event_type": "identify",
+          "item_id": "non_packaging_glass",
+          "image_path": "sim_images/non_packaging_glass_149.jpg"
+        },
+        {
+          "event_id": 150,
+          "event_type": "game_sort",
+          "item_id": "fotoapparat"
+        },
+        {
+          "event_id": 151,
+          "event_type": "game_sort",
+          "item_id": "jogurtbecher"
+        },
+        {
+          "event_id": 152,
+          "event_type": "game_sort",
+          "item_id": "mp3_ger\u00e4t"
+        },
+        {
+          "event_id": 153,
+          "event_type": "game_sort",
+          "item_id": "gartenschlauch"
+        },
+        {
+          "event_id": 154,
+          "event_type": "identify",
+          "item_id": "weihnachtsbaum",
+          "image_path": "sim_images/weihnachtsbaum_154.jpg"
+        },
+        {
+          "event_id": 155,
+          "event_type": "game_sort",
+          "item_id": "jogurtbecher"
+        },
+        {
+          "event_id": 156,
+          "event_type": "identify",
+          "item_id": "eierschale",
+          "image_path": "sim_images/eierschale_156.jpg"
+        },
+        {
+          "event_id": 157,
+          "event_type": "identify",
+          "item_id": "monitor",
+          "image_path": "sim_images/monitor_157.jpg"
+        },
+        {
+          "event_id": 158,
+          "event_type": "game_sort",
+          "item_id": "kaffeesatz"
+        },
+        {
+          "event_id": 159,
+          "event_type": "game_sort",
+          "item_id": "babywindeln"
+        },
+        {
+          "event_id": 160,
+          "event_type": "game_sort",
+          "item_id": "zitronenschale"
+        },
+        {
+          "event_id": 161,
+          "event_type": "game_sort",
+          "item_id": "kaffeesatz"
+        },
+        {
+          "event_id": 162,
+          "event_type": "game_sort",
+          "item_id": "tee_teebeutel"
+        },
+        {
+          "event_id": 163,
+          "event_type": "identify",
+          "item_id": "herd",
+          "image_path": "sim_images/herd_163.jpg"
+        },
+        {
+          "event_id": 164,
+          "event_type": "game_sort",
+          "item_id": "papier"
+        },
+        {
+          "event_id": 165,
+          "event_type": "identify",
+          "item_id": "obstreste",
+          "image_path": "sim_images/obstreste_165.jpg"
+        },
+        {
+          "event_id": 166,
+          "event_type": "identify",
+          "item_id": "nachtspeicherofen",
+          "image_path": "sim_images/nachtspeicherofen_166.jpg"
+        },
+        {
+          "event_id": 167,
+          "event_type": "game_sort",
+          "item_id": "speisereste"
+        },
+        {
+          "event_id": 168,
+          "event_type": "game_sort",
+          "item_id": "akkus"
+        },
+        {
+          "event_id": 169,
+          "event_type": "game_sort",
+          "item_id": "f\u00f6hn"
+        },
+        {
+          "event_id": 170,
+          "event_type": "game_sort",
+          "item_id": "einweggeschirr_besteck_verschmutzt"
+        },
+        {
+          "event_id": 171,
+          "event_type": "game_sort",
+          "item_id": "maschendrahtzaun"
+        },
+        {
+          "event_id": 172,
+          "event_type": "game_sort",
+          "item_id": "b\u00fcgeleisen"
+        },
+        {
+          "event_id": 173,
+          "event_type": "game_sort",
+          "item_id": "neonr\u00f6hre"
+        },
+        {
+          "event_id": 174,
+          "event_type": "game_sort",
+          "item_id": "energiesparlampen"
+        },
+        {
+          "event_id": 175,
+          "event_type": "game_sort",
+          "item_id": "einweggeschirr_besteck_verschmutzt"
+        },
+        {
+          "event_id": 176,
+          "event_type": "identify",
+          "item_id": "getr\u00e4nkeverpackungen",
+          "image_path": "sim_images/getr\u00e4nkeverpackungen_176.jpg"
+        },
+        {
+          "event_id": 177,
+          "event_type": "identify",
+          "item_id": "koffer",
+          "image_path": "sim_images/koffer_177.jpg"
+        },
+        {
+          "event_id": 178,
+          "event_type": "game_sort",
+          "item_id": "gummi"
+        },
+        {
+          "event_id": 179,
+          "event_type": "game_sort",
+          "item_id": "teppich_teppichboden"
+        },
+        {
+          "event_id": 180,
+          "event_type": "game_sort",
+          "item_id": "kleintierstreu"
+        },
+        {
+          "event_id": 181,
+          "event_type": "game_sort",
+          "item_id": "sonnenschirm"
+        },
+        {
+          "event_id": 182,
+          "event_type": "identify",
+          "item_id": "eierschale",
+          "image_path": "sim_images/eierschale_182.jpg"
+        },
+        {
+          "event_id": 183,
+          "event_type": "game_sort",
+          "item_id": "akkus"
+        },
+        {
+          "event_id": 184,
+          "event_type": "game_sort",
+          "item_id": "obstreste"
+        },
+        {
+          "event_id": 185,
+          "event_type": "identify",
+          "item_id": "schrott",
+          "image_path": "sim_images/schrott_185.jpg"
+        },
+        {
+          "event_id": 186,
+          "event_type": "identify",
+          "item_id": "alt\u00f6l",
+          "image_path": "sim_images/alt\u00f6l_186.jpg"
+        },
+        {
+          "event_id": 187,
+          "event_type": "game_sort",
+          "item_id": "handy"
+        },
+        {
+          "event_id": 188,
+          "event_type": "game_sort",
+          "item_id": "hygieneartikel"
+        },
+        {
+          "event_id": 189,
+          "event_type": "game_sort",
+          "item_id": "non_packaging_glass"
+        },
+        {
+          "event_id": 190,
+          "event_type": "game_sort",
+          "item_id": "jogurtbecher"
+        },
+        {
+          "event_id": 191,
+          "event_type": "game_sort",
+          "item_id": "klebstoffe_fester_zustand"
+        },
+        {
+          "event_id": 192,
+          "event_type": "game_sort",
+          "item_id": "flaschen"
+        },
+        {
+          "event_id": 193,
+          "event_type": "game_sort",
+          "item_id": "fleckentferner"
+        },
+        {
+          "event_id": 194,
+          "event_type": "game_sort",
+          "item_id": "impr\u00e4gniermittel"
+        },
+        {
+          "event_id": 195,
+          "event_type": "game_sort",
+          "item_id": "\u00f6lradiator"
+        },
+        {
+          "event_id": 196,
+          "event_type": "game_sort",
+          "item_id": "fernsehger\u00e4t"
+        },
+        {
+          "event_id": 197,
+          "event_type": "game_sort",
+          "item_id": "textilien"
+        },
+        {
+          "event_id": 198,
+          "event_type": "identify",
+          "item_id": "wasserstoffperoxid",
+          "image_path": "sim_images/wasserstoffperoxid_198.jpg"
+        },
+        {
+          "event_id": 199,
+          "event_type": "game_sort",
+          "item_id": "\u00f6lverunreinigte_materialien"
+        },
+        {
+          "event_id": 200,
+          "event_type": "game_sort",
+          "item_id": "asche_kalt"
+        }
+      ]
+    },
+    {
+      "scenario_id": "electrical_focus_200",
+      "description": "200 interactions focusing on various small and large electrical appliances, batteries, and lamps, testing knowledge of WEEE regulations and specific disposal routes.",
+      "user_profile": {
+        "type": "electronics_unsure",
+        "initial_error_rate": 0.25,
+        "learning_rate": 0.1,
+        "known_bias": {
+          "b\u00fcgeleisen": {
+            "target_bin": "Residual Waste Bin",
+            "error_prob_boost": 0.25
+          },
+          "handy": {
+            "target_bin": "Residual Waste Bin",
+            "error_prob_boost": 0.25
+          },
+          "kaffeemaschine": {
+            "target_bin": "Residual Waste Bin",
+            "error_prob_boost": 0.25
+          },
+          "f\u00f6hn": {
+            "target_bin": "Residual Waste Bin",
+            "error_prob_boost": 0.25
+          },
+          "drucker": {
+            "target_bin": "Residual Waste Bin",
+            "error_prob_boost": 0.25
+          },
+          "fernsehger\u00e4t": {
+            "target_bin": "Residual Waste Bin",
+            "error_prob_boost": 0.25
+          }
+        }
+      },
+      "events": [
+        {
+          "event_id": 1,
+          "event_type": "game_sort",
+          "item_id": "inkontinenzartikel"
+        },
+        {
+          "event_id": 2,
+          "event_type": "game_sort",
+          "item_id": "wellasbest"
+        },
+        {
+          "event_id": 3,
+          "event_type": "game_sort",
+          "item_id": "handy"
+        },
+        {
+          "event_id": 4,
+          "event_type": "game_sort",
+          "item_id": "kaffeemaschine"
+        },
+        {
+          "event_id": 5,
+          "event_type": "game_sort",
+          "item_id": "used_fat"
+        },
+        {
+          "event_id": 6,
+          "event_type": "game_sort",
+          "item_id": "klebstoffe_fl\u00fcssiger_zustand"
+        },
+        {
+          "event_id": 7,
+          "event_type": "game_sort",
+          "item_id": "speisereste"
+        },
+        {
+          "event_id": 8,
+          "event_type": "game_sort",
+          "item_id": "toilettenbecken"
+        },
+        {
+          "event_id": 9,
+          "event_type": "game_sort",
+          "item_id": "waschmaschine"
+        },
+        {
+          "event_id": 10,
+          "event_type": "game_sort",
+          "item_id": "bodenaushub"
+        },
+        {
+          "event_id": 11,
+          "event_type": "game_sort",
+          "item_id": "alt\u00f6l"
+        },
+        {
+          "event_id": 12,
+          "event_type": "game_sort",
+          "item_id": "lumpen"
+        },
+        {
+          "event_id": 13,
+          "event_type": "game_sort",
+          "item_id": "schuhe"
+        },
+        {
+          "event_id": 14,
+          "event_type": "game_sort",
+          "item_id": "blumentopf"
+        },
+        {
+          "event_id": 15,
+          "event_type": "game_sort",
+          "item_id": "m\u00f6bel"
+        },
+        {
+          "event_id": 16,
+          "event_type": "identify",
+          "item_id": "f\u00f6hn",
+          "image_path": "sim_images/f\u00f6hn_16.jpg"
+        },
+        {
+          "event_id": 17,
+          "event_type": "game_sort",
+          "item_id": "zigarettenkippen"
+        },
+        {
+          "event_id": 18,
+          "event_type": "identify",
+          "item_id": "milchkarton",
+          "image_path": "sim_images/milchkarton_18.jpg"
+        },
+        {
+          "event_id": 19,
+          "event_type": "game_sort",
+          "item_id": "spielzeug_kein_elektroger\u00e4t"
+        },
+        {
+          "event_id": 20,
+          "event_type": "identify",
+          "item_id": "gummi",
+          "image_path": "sim_images/gummi_20.jpg"
+        },
+        {
+          "event_id": 21,
+          "event_type": "game_sort",
+          "item_id": "katzenstreu"
+        },
+        {
+          "event_id": 22,
+          "event_type": "game_sort",
+          "item_id": "kamelitwolle"
+        },
+        {
+          "event_id": 23,
+          "event_type": "game_sort",
+          "item_id": "leuchte"
+        },
+        {
+          "event_id": 24,
+          "event_type": "game_sort",
+          "item_id": "verbundkarton"
+        },
+        {
+          "event_id": 25,
+          "event_type": "game_sort",
+          "item_id": "\u00f6lfilter"
+        },
+        {
+          "event_id": 26,
+          "event_type": "game_sort",
+          "item_id": "old_paint"
+        },
+        {
+          "event_id": 27,
+          "event_type": "game_sort",
+          "item_id": "werkzeug_elektrisch"
+        },
+        {
+          "event_id": 28,
+          "event_type": "game_sort",
+          "item_id": "blumenkasten"
+        },
+        {
+          "event_id": 29,
+          "event_type": "identify",
+          "item_id": "sensitive_documents",
+          "image_path": "sim_images/sensitive_documents_29.jpg"
+        },
+        {
+          "event_id": 30,
+          "event_type": "game_sort",
+          "item_id": "metallzaun"
+        },
+        {
+          "event_id": 31,
+          "event_type": "game_sort",
+          "item_id": "used_fat"
+        },
+        {
+          "event_id": 32,
+          "event_type": "game_sort",
+          "item_id": "leim_fl\u00fcssiger_zustand"
+        },
+        {
+          "event_id": 33,
+          "event_type": "identify",
+          "item_id": "putz",
+          "image_path": "sim_images/putz_33.jpg"
+        },
+        {
+          "event_id": 34,
+          "event_type": "game_sort",
+          "item_id": "f\u00f6hn"
+        },
+        {
+          "event_id": 35,
+          "event_type": "game_sort",
+          "item_id": "mp3_ger\u00e4t"
+        },
+        {
+          "event_id": 36,
+          "event_type": "game_sort",
+          "item_id": "\u00f6lverunreinigte_materialien"
+        },
+        {
+          "event_id": 37,
+          "event_type": "game_sort",
+          "item_id": "wcreiniger"
+        },
+        {
+          "event_id": 38,
+          "event_type": "game_sort",
+          "item_id": "sensitive_documents"
+        },
+        {
+          "event_id": 39,
+          "event_type": "game_sort",
+          "item_id": "mal_und_filzstifte"
+        },
+        {
+          "event_id": 40,
+          "event_type": "identify",
+          "item_id": "uhr_elektroger\u00e4t",
+          "image_path": "sim_images/uhr_elektroger\u00e4t_40.jpg"
+        },
+        {
+          "event_id": 41,
+          "event_type": "game_sort",
+          "item_id": "nagellack_fester_zustand"
+        },
+        {
+          "event_id": 42,
+          "event_type": "identify",
+          "item_id": "knochen",
+          "image_path": "sim_images/knochen_42.jpg"
+        },
+        {
+          "event_id": 43,
+          "event_type": "game_sort",
+          "item_id": "mineralwolle"
+        },
+        {
+          "event_id": 44,
+          "event_type": "game_sort",
+          "item_id": "insektenbek\u00e4mpfungsmittel_insektizid"
+        },
+        {
+          "event_id": 45,
+          "event_type": "game_sort",
+          "item_id": "tierkadaver"
+        },
+        {
+          "event_id": 46,
+          "event_type": "game_sort",
+          "item_id": "glaswolle"
+        },
+        {
+          "event_id": 47,
+          "event_type": "game_sort",
+          "item_id": "metalle"
+        },
+        {
+          "event_id": 48,
+          "event_type": "game_sort",
+          "item_id": "elektroaltger\u00e4t"
+        },
+        {
+          "event_id": 49,
+          "event_type": "game_sort",
+          "item_id": "holz"
+        },
+        {
+          "event_id": 50,
+          "event_type": "game_sort",
+          "item_id": "schallplatte"
+        },
+        {
+          "event_id": 51,
+          "event_type": "identify",
+          "item_id": "fussboden",
+          "image_path": "sim_images/fussboden_51.jpg"
+        },
+        {
+          "event_id": 52,
+          "event_type": "game_sort",
+          "item_id": "handy"
+        },
+        {
+          "event_id": 53,
+          "event_type": "game_sort",
+          "item_id": "impr\u00e4gniermittel"
+        },
+        {
+          "event_id": 54,
+          "event_type": "game_sort",
+          "item_id": "gummi"
+        },
+        {
+          "event_id": 55,
+          "event_type": "game_sort",
+          "item_id": "fotoapparat"
+        },
+        {
+          "event_id": 56,
+          "event_type": "game_sort",
+          "item_id": "dreirad"
+        },
+        {
+          "event_id": 57,
+          "event_type": "game_sort",
+          "item_id": "tampon"
+        },
+        {
+          "event_id": 58,
+          "event_type": "game_sort",
+          "item_id": "pilzbek\u00e4mpfungsmittel_fungizid"
+        },
+        {
+          "event_id": 59,
+          "event_type": "game_sort",
+          "item_id": "photovoltaikmodule"
+        },
+        {
+          "event_id": 60,
+          "event_type": "identify",
+          "item_id": "s\u00e4ure",
+          "image_path": "sim_images/s\u00e4ure_60.jpg"
+        },
+        {
+          "event_id": 61,
+          "event_type": "game_sort",
+          "item_id": "geschirr"
+        },
+        {
+          "event_id": 62,
+          "event_type": "identify",
+          "item_id": "leim_fl\u00fcssiger_zustand",
+          "image_path": "sim_images/leim_fl\u00fcssiger_zustand_62.jpg"
+        },
+        {
+          "event_id": 63,
+          "event_type": "game_sort",
+          "item_id": "wasserstoffperoxid"
+        },
+        {
+          "event_id": 64,
+          "event_type": "game_sort",
+          "item_id": "uhr_elektroger\u00e4t"
+        },
+        {
+          "event_id": 65,
+          "event_type": "game_sort",
+          "item_id": "f\u00f6hn"
+        },
+        {
+          "event_id": 66,
+          "event_type": "game_sort",
+          "item_id": "nachtspeicherofen"
+        },
+        {
+          "event_id": 67,
+          "event_type": "game_sort",
+          "item_id": "tasche_handtasche"
+        },
+        {
+          "event_id": 68,
+          "event_type": "game_sort",
+          "item_id": "federbett"
+        },
+        {
+          "event_id": 69,
+          "event_type": "identify",
+          "item_id": "handy",
+          "image_path": "sim_images/handy_69.jpg"
+        },
+        {
+          "event_id": 70,
+          "event_type": "game_sort",
+          "item_id": "satellitensch\u00fcssel"
+        },
+        {
+          "event_id": 71,
+          "event_type": "game_sort",
+          "item_id": "r\u00fchrger\u00e4t"
+        },
+        {
+          "event_id": 72,
+          "event_type": "game_sort",
+          "item_id": "drucker"
+        },
+        {
+          "event_id": 73,
+          "event_type": "identify",
+          "item_id": "s\u00e4ure",
+          "image_path": "sim_images/s\u00e4ure_73.jpg"
+        },
+        {
+          "event_id": 74,
+          "event_type": "identify",
+          "item_id": "kleintierstreu",
+          "image_path": "sim_images/kleintierstreu_74.jpg"
+        },
+        {
+          "event_id": 75,
+          "event_type": "identify",
+          "item_id": "karosserie",
+          "image_path": "sim_images/karosserie_75.jpg"
+        },
+        {
+          "event_id": 76,
+          "event_type": "game_sort",
+          "item_id": "handy"
+        },
+        {
+          "event_id": 77,
+          "event_type": "game_sort",
+          "item_id": "gummi"
+        },
+        {
+          "event_id": 78,
+          "event_type": "identify",
+          "item_id": "f\u00f6hn",
+          "image_path": "sim_images/f\u00f6hn_78.jpg"
+        },
+        {
+          "event_id": 79,
+          "event_type": "game_sort",
+          "item_id": "skateboard"
+        },
+        {
+          "event_id": 80,
+          "event_type": "identify",
+          "item_id": "f\u00f6hn",
+          "image_path": "sim_images/f\u00f6hn_80.jpg"
+        },
+        {
+          "event_id": 81,
+          "event_type": "identify",
+          "item_id": "r\u00fchrger\u00e4t",
+          "image_path": "sim_images/r\u00fchrger\u00e4t_81.jpg"
+        },
+        {
+          "event_id": 82,
+          "event_type": "game_sort",
+          "item_id": "videoger\u00e4t_dvd"
+        },
+        {
+          "event_id": 83,
+          "event_type": "game_sort",
+          "item_id": "b\u00fcgeleisen"
+        },
+        {
+          "event_id": 84,
+          "event_type": "game_sort",
+          "item_id": "pappe"
+        },
+        {
+          "event_id": 85,
+          "event_type": "identify",
+          "item_id": "glas",
+          "image_path": "sim_images/glas_85.jpg"
+        },
+        {
+          "event_id": 86,
+          "event_type": "game_sort",
+          "item_id": "kerze"
+        },
+        {
+          "event_id": 87,
+          "event_type": "game_sort",
+          "item_id": "computer"
+        },
+        {
+          "event_id": 88,
+          "event_type": "identify",
+          "item_id": "telefon",
+          "image_path": "sim_images/telefon_88.jpg"
+        },
+        {
+          "event_id": 89,
+          "event_type": "game_sort",
+          "item_id": "elektroaltger\u00e4t"
+        },
+        {
+          "event_id": 90,
+          "event_type": "game_sort",
+          "item_id": "plexiglas"
+        },
+        {
+          "event_id": 91,
+          "event_type": "identify",
+          "item_id": "zelt_campingzelt",
+          "image_path": "sim_images/zelt_campingzelt_91.jpg"
+        },
+        {
+          "event_id": 92,
+          "event_type": "game_sort",
+          "item_id": "holz"
+        },
+        {
+          "event_id": 93,
+          "event_type": "game_sort",
+          "item_id": "toaster"
+        },
+        {
+          "event_id": 94,
+          "event_type": "game_sort",
+          "item_id": "akkus"
+        },
+        {
+          "event_id": 95,
+          "event_type": "game_sort",
+          "item_id": "hygieneartikel"
+        },
+        {
+          "event_id": 96,
+          "event_type": "game_sort",
+          "item_id": "teppich_teppichboden"
+        },
+        {
+          "event_id": 97,
+          "event_type": "game_sort",
+          "item_id": "computer"
+        },
+        {
+          "event_id": 98,
+          "event_type": "game_sort",
+          "item_id": "fernsehger\u00e4t"
+        },
+        {
+          "event_id": 99,
+          "event_type": "game_sort",
+          "item_id": "sensitive_documents"
+        },
+        {
+          "event_id": 100,
+          "event_type": "game_sort",
+          "item_id": "wasserstoffperoxid"
+        },
+        {
+          "event_id": 101,
+          "event_type": "game_sort",
+          "item_id": "gasflaschen_gaspatronen"
+        },
+        {
+          "event_id": 102,
+          "event_type": "game_sort",
+          "item_id": "altkleider"
+        },
+        {
+          "event_id": 103,
+          "event_type": "game_sort",
+          "item_id": "chemikalien"
+        },
+        {
+          "event_id": 104,
+          "event_type": "identify",
+          "item_id": "spielzeug_kein_elektroger\u00e4t",
+          "image_path": "sim_images/spielzeug_kein_elektroger\u00e4t_104.jpg"
+        },
+        {
+          "event_id": 105,
+          "event_type": "game_sort",
+          "item_id": "telefon"
+        },
+        {
+          "event_id": 106,
+          "event_type": "game_sort",
+          "item_id": "lampe"
+        },
+        {
+          "event_id": 107,
+          "event_type": "game_sort",
+          "item_id": "kaffeemaschine"
+        },
+        {
+          "event_id": 108,
+          "event_type": "game_sort",
+          "item_id": "asche_kalt"
+        },
+        {
+          "event_id": 109,
+          "event_type": "identify",
+          "item_id": "impr\u00e4gniermittel",
+          "image_path": "sim_images/impr\u00e4gniermittel_109.jpg"
+        },
+        {
+          "event_id": 110,
+          "event_type": "game_sort",
+          "item_id": "couch"
+        },
+        {
+          "event_id": 111,
+          "event_type": "game_sort",
+          "item_id": "tasche_handtasche"
+        },
+        {
+          "event_id": 112,
+          "event_type": "game_sort",
+          "item_id": "lack_fl\u00fcssiger_zustand"
+        },
+        {
+          "event_id": 113,
+          "event_type": "game_sort",
+          "item_id": "schallplatte"
+        },
+        {
+          "event_id": 114,
+          "event_type": "game_sort",
+          "item_id": "ski_skist\u00f6cke"
+        },
+        {
+          "event_id": 115,
+          "event_type": "identify",
+          "item_id": "propanflasche",
+          "image_path": "sim_images/propanflasche_115.jpg"
+        },
+        {
+          "event_id": 116,
+          "event_type": "identify",
+          "item_id": "reifen",
+          "image_path": "sim_images/reifen_116.jpg"
+        },
+        {
+          "event_id": 117,
+          "event_type": "identify",
+          "item_id": "damenbinde",
+          "image_path": "sim_images/damenbinde_117.jpg"
+        },
+        {
+          "event_id": 118,
+          "event_type": "game_sort",
+          "item_id": "akkus"
+        },
+        {
+          "event_id": 119,
+          "event_type": "identify",
+          "item_id": "eimer",
+          "image_path": "sim_images/eimer_119.jpg"
+        },
+        {
+          "event_id": 120,
+          "event_type": "game_sort",
+          "item_id": "satellitensch\u00fcssel"
+        },
+        {
+          "event_id": 121,
+          "event_type": "game_sort",
+          "item_id": "blumen"
+        },
+        {
+          "event_id": 122,
+          "event_type": "identify",
+          "item_id": "telefon",
+          "image_path": "sim_images/telefon_122.jpg"
+        },
+        {
+          "event_id": 123,
+          "event_type": "identify",
+          "item_id": "haarf\u00e4rbemittel",
+          "image_path": "sim_images/haarf\u00e4rbemittel_123.jpg"
+        },
+        {
+          "event_id": 124,
+          "event_type": "game_sort",
+          "item_id": "fleckentferner"
+        },
+        {
+          "event_id": 125,
+          "event_type": "identify",
+          "item_id": "pfanne_kochtopf",
+          "image_path": "sim_images/pfanne_kochtopf_125.jpg"
+        },
+        {
+          "event_id": 126,
+          "event_type": "game_sort",
+          "item_id": "plattenspieler"
+        },
+        {
+          "event_id": 127,
+          "event_type": "identify",
+          "item_id": "klebstofftube_geleert",
+          "image_path": "sim_images/klebstofftube_geleert_127.jpg"
+        },
+        {
+          "event_id": 128,
+          "event_type": "game_sort",
+          "item_id": "fliesen"
+        },
+        {
+          "event_id": 129,
+          "event_type": "identify",
+          "item_id": "insektenbek\u00e4mpfungsmittel_insektizid",
+          "image_path": "sim_images/insektenbek\u00e4mpfungsmittel_insektizid_129.jpg"
+        },
+        {
+          "event_id": 130,
+          "event_type": "game_sort",
+          "item_id": "tonband"
+        },
+        {
+          "event_id": 131,
+          "event_type": "identify",
+          "item_id": "laminatboden",
+          "image_path": "sim_images/laminatboden_131.jpg"
+        },
+        {
+          "event_id": 132,
+          "event_type": "game_sort",
+          "item_id": "topf"
+        },
+        {
+          "event_id": 133,
+          "event_type": "game_sort",
+          "item_id": "sonnenschirm"
+        },
+        {
+          "event_id": 134,
+          "event_type": "game_sort",
+          "item_id": "schrott"
+        },
+        {
+          "event_id": 135,
+          "event_type": "game_sort",
+          "item_id": "zahnb\u00fcrste_nicht_elektrisch"
+        },
+        {
+          "event_id": 136,
+          "event_type": "identify",
+          "item_id": "porzellan",
+          "image_path": "sim_images/porzellan_136.jpg"
+        },
+        {
+          "event_id": 137,
+          "event_type": "identify",
+          "item_id": "spiegelscherben",
+          "image_path": "sim_images/spiegelscherben_137.jpg"
+        },
+        {
+          "event_id": 138,
+          "event_type": "identify",
+          "item_id": "tee_teebeutel",
+          "image_path": "sim_images/tee_teebeutel_138.jpg"
+        },
+        {
+          "event_id": 139,
+          "event_type": "game_sort",
+          "item_id": "uhr_elektroger\u00e4t"
+        },
+        {
+          "event_id": 140,
+          "event_type": "game_sort",
+          "item_id": "fotoapparat"
+        },
+        {
+          "event_id": 141,
+          "event_type": "identify",
+          "item_id": "bettdecke",
+          "image_path": "sim_images/bettdecke_141.jpg"
+        },
+        {
+          "event_id": 142,
+          "event_type": "identify",
+          "item_id": "leuchtstoffr\u00f6hre",
+          "image_path": "sim_images/leuchtstoffr\u00f6hre_142.jpg"
+        },
+        {
+          "event_id": 143,
+          "event_type": "identify",
+          "item_id": "windel",
+          "image_path": "sim_images/windel_143.jpg"
+        },
+        {
+          "event_id": 144,
+          "event_type": "game_sort",
+          "item_id": "sonnenschirm"
+        },
+        {
+          "event_id": 145,
+          "event_type": "game_sort",
+          "item_id": "fliesen"
+        },
+        {
+          "event_id": 146,
+          "event_type": "game_sort",
+          "item_id": "drucker"
+        },
+        {
+          "event_id": 147,
+          "event_type": "game_sort",
+          "item_id": "vase"
+        },
+        {
+          "event_id": 148,
+          "event_type": "identify",
+          "item_id": "klarsichth\u00fclle",
+          "image_path": "sim_images/klarsichth\u00fclle_148.jpg"
+        },
+        {
+          "event_id": 149,
+          "event_type": "identify",
+          "item_id": "autobatterie",
+          "image_path": "sim_images/autobatterie_149.jpg"
+        },
+        {
+          "event_id": 150,
+          "event_type": "game_sort",
+          "item_id": "rollo"
+        },
+        {
+          "event_id": 151,
+          "event_type": "game_sort",
+          "item_id": "kehricht"
+        },
+        {
+          "event_id": 152,
+          "event_type": "identify",
+          "item_id": "entfroster",
+          "image_path": "sim_images/entfroster_152.jpg"
+        },
+        {
+          "event_id": 153,
+          "event_type": "game_sort",
+          "item_id": "klebstoffe_fester_zustand"
+        },
+        {
+          "event_id": 154,
+          "event_type": "game_sort",
+          "item_id": "polsterm\u00f6bel"
+        },
+        {
+          "event_id": 155,
+          "event_type": "game_sort",
+          "item_id": "katalog"
+        },
+        {
+          "event_id": 156,
+          "event_type": "game_sort",
+          "item_id": "handy"
+        },
+        {
+          "event_id": 157,
+          "event_type": "game_sort",
+          "item_id": "nagellackentferner"
+        },
+        {
+          "event_id": 158,
+          "event_type": "identify",
+          "item_id": "dvd",
+          "image_path": "sim_images/dvd_158.jpg"
+        },
+        {
+          "event_id": 159,
+          "event_type": "game_sort",
+          "item_id": "photovoltaikmodule"
+        },
+        {
+          "event_id": 160,
+          "event_type": "game_sort",
+          "item_id": "holzzaun"
+        },
+        {
+          "event_id": 161,
+          "event_type": "game_sort",
+          "item_id": "led_lampe"
+        },
+        {
+          "event_id": 162,
+          "event_type": "game_sort",
+          "item_id": "jalousie_aussen"
+        },
+        {
+          "event_id": 163,
+          "event_type": "game_sort",
+          "item_id": "katalog"
+        },
+        {
+          "event_id": 164,
+          "event_type": "game_sort",
+          "item_id": "papier"
+        },
+        {
+          "event_id": 165,
+          "event_type": "game_sort",
+          "item_id": "zigarettenkippen"
+        },
+        {
+          "event_id": 166,
+          "event_type": "game_sort",
+          "item_id": "r\u00fchrger\u00e4t"
+        },
+        {
+          "event_id": 167,
+          "event_type": "identify",
+          "item_id": "b\u00fcgeleisen",
+          "image_path": "sim_images/b\u00fcgeleisen_167.jpg"
+        },
+        {
+          "event_id": 168,
+          "event_type": "game_sort",
+          "item_id": "spiegel"
+        },
+        {
+          "event_id": 169,
+          "event_type": "identify",
+          "item_id": "teppichreiniger",
+          "image_path": "sim_images/teppichreiniger_169.jpg"
+        },
+        {
+          "event_id": 170,
+          "event_type": "game_sort",
+          "item_id": "quecksilber"
+        },
+        {
+          "event_id": 171,
+          "event_type": "game_sort",
+          "item_id": "kinderautositz"
+        },
+        {
+          "event_id": 172,
+          "event_type": "game_sort",
+          "item_id": "sonnenschirm"
+        },
+        {
+          "event_id": 173,
+          "event_type": "game_sort",
+          "item_id": "federn_haare"
+        },
+        {
+          "event_id": 174,
+          "event_type": "game_sort",
+          "item_id": "fliesen"
+        },
+        {
+          "event_id": 175,
+          "event_type": "game_sort",
+          "item_id": "glas"
+        },
+        {
+          "event_id": 176,
+          "event_type": "game_sort",
+          "item_id": "leim_fl\u00fcssiger_zustand"
+        },
+        {
+          "event_id": 177,
+          "event_type": "game_sort",
+          "item_id": "d\u00fcngemittel"
+        },
+        {
+          "event_id": 178,
+          "event_type": "game_sort",
+          "item_id": "energiesparlampen"
+        },
+        {
+          "event_id": 179,
+          "event_type": "identify",
+          "item_id": "windel",
+          "image_path": "sim_images/windel_179.jpg"
+        },
+        {
+          "event_id": 180,
+          "event_type": "game_sort",
+          "item_id": "regentonne"
+        },
+        {
+          "event_id": 181,
+          "event_type": "game_sort",
+          "item_id": "kleintierstreu"
+        },
+        {
+          "event_id": 182,
+          "event_type": "game_sort",
+          "item_id": "tonerkartusche"
+        },
+        {
+          "event_id": 183,
+          "event_type": "identify",
+          "item_id": "monitor",
+          "image_path": "sim_images/monitor_183.jpg"
+        },
+        {
+          "event_id": 184,
+          "event_type": "identify",
+          "item_id": "getr\u00e4nkeverpackungen",
+          "image_path": "sim_images/getr\u00e4nkeverpackungen_184.jpg"
+        },
+        {
+          "event_id": 185,
+          "event_type": "game_sort",
+          "item_id": "schlitten"
+        },
+        {
+          "event_id": 186,
+          "event_type": "game_sort",
+          "item_id": "handy"
+        },
+        {
+          "event_id": 187,
+          "event_type": "identify",
+          "item_id": "wcreiniger",
+          "image_path": "sim_images/wcreiniger_187.jpg"
+        },
+        {
+          "event_id": 188,
+          "event_type": "identify",
+          "item_id": "d\u00fcngemittel",
+          "image_path": "sim_images/d\u00fcngemittel_188.jpg"
+        },
+        {
+          "event_id": 189,
+          "event_type": "game_sort",
+          "item_id": "aktenordner"
+        },
+        {
+          "event_id": 190,
+          "event_type": "identify",
+          "item_id": "grillanz\u00fcnder",
+          "image_path": "sim_images/grillanz\u00fcnder_190.jpg"
+        },
+        {
+          "event_id": 191,
+          "event_type": "game_sort",
+          "item_id": "sch\u00e4dlingsbek\u00e4mpfungsmittel"
+        },
+        {
+          "event_id": 192,
+          "event_type": "game_sort",
+          "item_id": "neonr\u00f6hre"
+        },
+        {
+          "event_id": 193,
+          "event_type": "game_sort",
+          "item_id": "bett"
+        },
+        {
+          "event_id": 194,
+          "event_type": "identify",
+          "item_id": "monitor",
+          "image_path": "sim_images/monitor_194.jpg"
+        },
+        {
+          "event_id": 195,
+          "event_type": "identify",
+          "item_id": "wanne",
+          "image_path": "sim_images/wanne_195.jpg"
+        },
+        {
+          "event_id": 196,
+          "event_type": "game_sort",
+          "item_id": "quecksilberthermometer"
+        },
+        {
+          "event_id": 197,
+          "event_type": "game_sort",
+          "item_id": "kleintierstreu"
+        },
+        {
+          "event_id": 198,
+          "event_type": "game_sort",
+          "item_id": "leim_fester_zustand"
+        },
+        {
+          "event_id": 199,
+          "event_type": "identify",
+          "item_id": "batterie",
+          "image_path": "sim_images/batterie_199.jpg"
+        },
+        {
+          "event_id": 200,
+          "event_type": "game_sort",
+          "item_id": "propanflasche"
+        }
+      ]
+    },
+    {
+      "scenario_id": "bulky_construction_200",
+      "description": "200 interactions focusing on items typically requiring bulky waste collection or disposal as construction waste, testing knowledge of registration, fees, and what's excluded.",
+      "user_profile": {
+        "type": "renovation_rookie",
+        "initial_error_rate": 0.25,
+        "learning_rate": 0.1,
+        "known_bias": {
+          "holz": {
+            "target_bin": "Bulky Waste Collection",
+            "error_prob_boost": 0.2
+          },
+          "bauschutt": {
+            "target_bin": "Bulky Waste Collection",
+            "error_prob_boost": 0.2
+          }
+        }
+      },
+      "events": [
+        {
+          "event_id": 1,
+          "event_type": "identify",
+          "item_id": "drucker",
+          "image_path": "sim_images/drucker_1.jpg"
+        },
+        {
+          "event_id": 2,
+          "event_type": "identify",
+          "item_id": "non_packaging_glass",
+          "image_path": "sim_images/non_packaging_glass_2.jpg"
+        },
+        {
+          "event_id": 3,
+          "event_type": "game_sort",
+          "item_id": "laminatboden"
+        },
+        {
+          "event_id": 4,
+          "event_type": "game_sort",
+          "item_id": "bett"
+        },
+        {
+          "event_id": 5,
+          "event_type": "game_sort",
+          "item_id": "tampon"
+        },
+        {
+          "event_id": 6,
+          "event_type": "game_sort",
+          "item_id": "spielzeug_kein_elektroger\u00e4t"
+        },
+        {
+          "event_id": 7,
+          "event_type": "game_sort",
+          "item_id": "altpapier"
+        },
+        {
+          "event_id": 8,
+          "event_type": "game_sort",
+          "item_id": "mp3_ger\u00e4t"
+        },
+        {
+          "event_id": 9,
+          "event_type": "game_sort",
+          "item_id": "telefon"
+        },
+        {
+          "event_id": 10,
+          "event_type": "identify",
+          "item_id": "geschirrsp\u00fcler",
+          "image_path": "sim_images/geschirrsp\u00fcler_10.jpg"
+        },
+        {
+          "event_id": 11,
+          "event_type": "identify",
+          "item_id": "klosch\u00fcssel",
+          "image_path": "sim_images/klosch\u00fcssel_11.jpg"
+        },
+        {
+          "event_id": 12,
+          "event_type": "game_sort",
+          "item_id": "rasenschnitt"
+        },
+        {
+          "event_id": 13,
+          "event_type": "game_sort",
+          "item_id": "eimer"
+        },
+        {
+          "event_id": 14,
+          "event_type": "game_sort",
+          "item_id": "garten_und_gr\u00fcnabf\u00e4lle"
+        },
+        {
+          "event_id": 15,
+          "event_type": "identify",
+          "item_id": "skateboard",
+          "image_path": "sim_images/skateboard_15.jpg"
+        },
+        {
+          "event_id": 16,
+          "event_type": "game_sort",
+          "item_id": "linoleum"
+        },
+        {
+          "event_id": 17,
+          "event_type": "identify",
+          "item_id": "d\u00fcngemittel",
+          "image_path": "sim_images/d\u00fcngemittel_17.jpg"
+        },
+        {
+          "event_id": 18,
+          "event_type": "identify",
+          "item_id": "dvd",
+          "image_path": "sim_images/dvd_18.jpg"
+        },
+        {
+          "event_id": 19,
+          "event_type": "game_sort",
+          "item_id": "bettdecke"
+        },
+        {
+          "event_id": 20,
+          "event_type": "game_sort",
+          "item_id": "klosch\u00fcssel"
+        },
+        {
+          "event_id": 21,
+          "event_type": "game_sort",
+          "item_id": "sanit\u00e4rreiniger"
+        },
+        {
+          "event_id": 22,
+          "event_type": "game_sort",
+          "item_id": "used_fat"
+        },
+        {
+          "event_id": 23,
+          "event_type": "game_sort",
+          "item_id": "verbundkarton"
+        },
+        {
+          "event_id": 24,
+          "event_type": "game_sort",
+          "item_id": "jalousie_innen"
+        },
+        {
+          "event_id": 25,
+          "event_type": "game_sort",
+          "item_id": "skateboard"
+        },
+        {
+          "event_id": 26,
+          "event_type": "identify",
+          "item_id": "w\u00e4schest\u00e4nder",
+          "image_path": "sim_images/w\u00e4schest\u00e4nder_26.jpg"
+        },
+        {
+          "event_id": 27,
+          "event_type": "game_sort",
+          "item_id": "puschaumdose"
+        },
+        {
+          "event_id": 28,
+          "event_type": "game_sort",
+          "item_id": "schleifpapier"
+        },
+        {
+          "event_id": 29,
+          "event_type": "game_sort",
+          "item_id": "obstreste"
+        },
+        {
+          "event_id": 30,
+          "event_type": "game_sort",
+          "item_id": "couch"
+        },
+        {
+          "event_id": 31,
+          "event_type": "identify",
+          "item_id": "mineralwolle",
+          "image_path": "sim_images/mineralwolle_31.jpg"
+        },
+        {
+          "event_id": 32,
+          "event_type": "game_sort",
+          "item_id": "glaswolle"
+        },
+        {
+          "event_id": 33,
+          "event_type": "game_sort",
+          "item_id": "jogurtbecher"
+        },
+        {
+          "event_id": 34,
+          "event_type": "game_sort",
+          "item_id": "baustellenabf\u00e4lle"
+        },
+        {
+          "event_id": 35,
+          "event_type": "game_sort",
+          "item_id": "orangenschale"
+        },
+        {
+          "event_id": 36,
+          "event_type": "game_sort",
+          "item_id": "skischuhe"
+        },
+        {
+          "event_id": 37,
+          "event_type": "game_sort",
+          "item_id": "sensitive_documents"
+        },
+        {
+          "event_id": 38,
+          "event_type": "identify",
+          "item_id": "satellitensch\u00fcssel",
+          "image_path": "sim_images/satellitensch\u00fcssel_38.jpg"
+        },
+        {
+          "event_id": 39,
+          "event_type": "identify",
+          "item_id": "nagellack_fl\u00fcssiger_zustand",
+          "image_path": "sim_images/nagellack_fl\u00fcssiger_zustand_39.jpg"
+        },
+        {
+          "event_id": 40,
+          "event_type": "game_sort",
+          "item_id": "quecksilberentladungslampen"
+        },
+        {
+          "event_id": 41,
+          "event_type": "identify",
+          "item_id": "kinderwagen",
+          "image_path": "sim_images/kinderwagen_41.jpg"
+        },
+        {
+          "event_id": 42,
+          "event_type": "game_sort",
+          "item_id": "kleintierstreu"
+        },
+        {
+          "event_id": 43,
+          "event_type": "identify",
+          "item_id": "farbreste_fester_zustand",
+          "image_path": "sim_images/farbreste_fester_zustand_43.jpg"
+        },
+        {
+          "event_id": 44,
+          "event_type": "identify",
+          "item_id": "medikamente",
+          "image_path": "sim_images/medikamente_44.jpg"
+        },
+        {
+          "event_id": 45,
+          "event_type": "identify",
+          "item_id": "bauschutt",
+          "image_path": "sim_images/bauschutt_45.jpg"
+        },
+        {
+          "event_id": 46,
+          "event_type": "identify",
+          "item_id": "druckerpatrone",
+          "image_path": "sim_images/druckerpatrone_46.jpg"
+        },
+        {
+          "event_id": 47,
+          "event_type": "identify",
+          "item_id": "rohrreiniger",
+          "image_path": "sim_images/rohrreiniger_47.jpg"
+        },
+        {
+          "event_id": 48,
+          "event_type": "game_sort",
+          "item_id": "puschaumdose"
+        },
+        {
+          "event_id": 49,
+          "event_type": "game_sort",
+          "item_id": "pflanzenschutzmittel"
+        },
+        {
+          "event_id": 50,
+          "event_type": "identify",
+          "item_id": "katalog",
+          "image_path": "sim_images/katalog_50.jpg"
+        },
+        {
+          "event_id": 51,
+          "event_type": "game_sort",
+          "item_id": "pappe"
+        },
+        {
+          "event_id": 52,
+          "event_type": "identify",
+          "item_id": "verd\u00fcnner",
+          "image_path": "sim_images/verd\u00fcnner_52.jpg"
+        },
+        {
+          "event_id": 53,
+          "event_type": "game_sort",
+          "item_id": "couch"
+        },
+        {
+          "event_id": 54,
+          "event_type": "game_sort",
+          "item_id": "couch"
+        },
+        {
+          "event_id": 55,
+          "event_type": "game_sort",
+          "item_id": "foto"
+        },
+        {
+          "event_id": 56,
+          "event_type": "game_sort",
+          "item_id": "bauschutt"
+        },
+        {
+          "event_id": 57,
+          "event_type": "game_sort",
+          "item_id": "reifen"
+        },
+        {
+          "event_id": 58,
+          "event_type": "identify",
+          "item_id": "damenbinde",
+          "image_path": "sim_images/damenbinde_58.jpg"
+        },
+        {
+          "event_id": 59,
+          "event_type": "game_sort",
+          "item_id": "eimer"
+        },
+        {
+          "event_id": 60,
+          "event_type": "identify",
+          "item_id": "laub",
+          "image_path": "sim_images/laub_60.jpg"
+        },
+        {
+          "event_id": 61,
+          "event_type": "identify",
+          "item_id": "haushaltsger\u00e4te",
+          "image_path": "sim_images/haushaltsger\u00e4te_61.jpg"
+        },
+        {
+          "event_id": 62,
+          "event_type": "identify",
+          "item_id": "ordner",
+          "image_path": "sim_images/ordner_62.jpg"
+        },
+        {
+          "event_id": 63,
+          "event_type": "game_sort",
+          "item_id": "kan\u00fcle"
+        },
+        {
+          "event_id": 64,
+          "event_type": "identify",
+          "item_id": "jalousie_innen",
+          "image_path": "sim_images/jalousie_innen_64.jpg"
+        },
+        {
+          "event_id": 65,
+          "event_type": "game_sort",
+          "item_id": "damenbinde"
+        },
+        {
+          "event_id": 66,
+          "event_type": "identify",
+          "item_id": "getr\u00e4nkeverpackungen",
+          "image_path": "sim_images/getr\u00e4nkeverpackungen_66.jpg"
+        },
+        {
+          "event_id": 67,
+          "event_type": "game_sort",
+          "item_id": "bett"
+        },
+        {
+          "event_id": 68,
+          "event_type": "game_sort",
+          "item_id": "non_packaging_glass"
+        },
+        {
+          "event_id": 69,
+          "event_type": "identify",
+          "item_id": "bett",
+          "image_path": "sim_images/bett_69.jpg"
+        },
+        {
+          "event_id": 70,
+          "event_type": "game_sort",
+          "item_id": "fotoapparat"
+        },
+        {
+          "event_id": 71,
+          "event_type": "game_sort",
+          "item_id": "tee_teebeutel"
+        },
+        {
+          "event_id": 72,
+          "event_type": "game_sort",
+          "item_id": "konservendose"
+        },
+        {
+          "event_id": 73,
+          "event_type": "game_sort",
+          "item_id": "nagellack_fl\u00fcssiger_zustand"
+        },
+        {
+          "event_id": 74,
+          "event_type": "game_sort",
+          "item_id": "laub"
+        },
+        {
+          "event_id": 75,
+          "event_type": "identify",
+          "item_id": "bett",
+          "image_path": "sim_images/bett_75.jpg"
+        },
+        {
+          "event_id": 76,
+          "event_type": "game_sort",
+          "item_id": "leim_fl\u00fcssiger_zustand"
+        },
+        {
+          "event_id": 77,
+          "event_type": "game_sort",
+          "item_id": "couch"
+        },
+        {
+          "event_id": 78,
+          "event_type": "identify",
+          "item_id": "skateboard",
+          "image_path": "sim_images/skateboard_78.jpg"
+        },
+        {
+          "event_id": 79,
+          "event_type": "game_sort",
+          "item_id": "baustellenabf\u00e4lle"
+        },
+        {
+          "event_id": 80,
+          "event_type": "game_sort",
+          "item_id": "einweggeschirr_besteck_sauber"
+        },
+        {
+          "event_id": 81,
+          "event_type": "game_sort",
+          "item_id": "feuerl\u00f6scher"
+        },
+        {
+          "event_id": 82,
+          "event_type": "identify",
+          "item_id": "putz",
+          "image_path": "sim_images/putz_82.jpg"
+        },
+        {
+          "event_id": 83,
+          "event_type": "game_sort",
+          "item_id": "fliesen"
+        },
+        {
+          "event_id": 84,
+          "event_type": "game_sort",
+          "item_id": "zeitung_zeitschrift"
+        },
+        {
+          "event_id": 85,
+          "event_type": "identify",
+          "item_id": "blumen",
+          "image_path": "sim_images/blumen_85.jpg"
+        },
+        {
+          "event_id": 86,
+          "event_type": "game_sort",
+          "item_id": "spiegel"
+        },
+        {
+          "event_id": 87,
+          "event_type": "game_sort",
+          "item_id": "kleidung"
+        },
+        {
+          "event_id": 88,
+          "event_type": "game_sort",
+          "item_id": "\u00f6lofen"
+        },
+        {
+          "event_id": 89,
+          "event_type": "game_sort",
+          "item_id": "bett"
+        },
+        {
+          "event_id": 90,
+          "event_type": "identify",
+          "item_id": "garten_und_gr\u00fcnabf\u00e4lle",
+          "image_path": "sim_images/garten_und_gr\u00fcnabf\u00e4lle_90.jpg"
+        },
+        {
+          "event_id": 91,
+          "event_type": "game_sort",
+          "item_id": "holz"
+        },
+        {
+          "event_id": 92,
+          "event_type": "game_sort",
+          "item_id": "holz"
+        },
+        {
+          "event_id": 93,
+          "event_type": "game_sort",
+          "item_id": "eierschale"
+        },
+        {
+          "event_id": 94,
+          "event_type": "identify",
+          "item_id": "schuhe",
+          "image_path": "sim_images/schuhe_94.jpg"
+        },
+        {
+          "event_id": 95,
+          "event_type": "game_sort",
+          "item_id": "baustellenabf\u00e4lle"
+        },
+        {
+          "event_id": 96,
+          "event_type": "identify",
+          "item_id": "eimer",
+          "image_path": "sim_images/eimer_96.jpg"
+        },
+        {
+          "event_id": 97,
+          "event_type": "game_sort",
+          "item_id": "pappe"
+        },
+        {
+          "event_id": 98,
+          "event_type": "game_sort",
+          "item_id": "thermometer"
+        },
+        {
+          "event_id": 99,
+          "event_type": "identify",
+          "item_id": "lumpen",
+          "image_path": "sim_images/lumpen_99.jpg"
+        },
+        {
+          "event_id": 100,
+          "event_type": "identify",
+          "item_id": "zigarettenkippen",
+          "image_path": "sim_images/zigarettenkippen_100.jpg"
+        },
+        {
+          "event_id": 101,
+          "event_type": "game_sort",
+          "item_id": "rollo"
+        },
+        {
+          "event_id": 102,
+          "event_type": "game_sort",
+          "item_id": "kan\u00fcle"
+        },
+        {
+          "event_id": 103,
+          "event_type": "game_sort",
+          "item_id": "tasche_handtasche"
+        },
+        {
+          "event_id": 104,
+          "event_type": "identify",
+          "item_id": "baumschnitt",
+          "image_path": "sim_images/baumschnitt_104.jpg"
+        },
+        {
+          "event_id": 105,
+          "event_type": "game_sort",
+          "item_id": "r\u00fchrger\u00e4t"
+        },
+        {
+          "event_id": 106,
+          "event_type": "game_sort",
+          "item_id": "f\u00f6hn"
+        },
+        {
+          "event_id": 107,
+          "event_type": "identify",
+          "item_id": "verbandsmaterial",
+          "image_path": "sim_images/verbandsmaterial_107.jpg"
+        },
+        {
+          "event_id": 108,
+          "event_type": "game_sort",
+          "item_id": "garten_und_gr\u00fcnabf\u00e4lle"
+        },
+        {
+          "event_id": 109,
+          "event_type": "identify",
+          "item_id": "plattenspieler",
+          "image_path": "sim_images/plattenspieler_109.jpg"
+        },
+        {
+          "event_id": 110,
+          "event_type": "game_sort",
+          "item_id": "ordner"
+        },
+        {
+          "event_id": 111,
+          "event_type": "game_sort",
+          "item_id": "led_lampe"
+        },
+        {
+          "event_id": 112,
+          "event_type": "game_sort",
+          "item_id": "propanflasche"
+        },
+        {
+          "event_id": 113,
+          "event_type": "game_sort",
+          "item_id": "baustellenabf\u00e4lle"
+        },
+        {
+          "event_id": 114,
+          "event_type": "game_sort",
+          "item_id": "drucker"
+        },
+        {
+          "event_id": 115,
+          "event_type": "game_sort",
+          "item_id": "\u00f6lverunreinigte_materialien"
+        },
+        {
+          "event_id": 116,
+          "event_type": "game_sort",
+          "item_id": "tampon"
+        },
+        {
+          "event_id": 117,
+          "event_type": "game_sort",
+          "item_id": "videokassette"
+        },
+        {
+          "event_id": 118,
+          "event_type": "identify",
+          "item_id": "gl\u00fchbirne",
+          "image_path": "sim_images/gl\u00fchbirne_118.jpg"
+        },
+        {
+          "event_id": 119,
+          "event_type": "game_sort",
+          "item_id": "kaffeemaschine"
+        },
+        {
+          "event_id": 120,
+          "event_type": "identify",
+          "item_id": "metallzaun",
+          "image_path": "sim_images/metallzaun_120.jpg"
+        },
+        {
+          "event_id": 121,
+          "event_type": "game_sort",
+          "item_id": "handy"
+        },
+        {
+          "event_id": 122,
+          "event_type": "game_sort",
+          "item_id": "quecksilber"
+        },
+        {
+          "event_id": 123,
+          "event_type": "game_sort",
+          "item_id": "baustellenabf\u00e4lle"
+        },
+        {
+          "event_id": 124,
+          "event_type": "game_sort",
+          "item_id": "pappe"
+        },
+        {
+          "event_id": 125,
+          "event_type": "game_sort",
+          "item_id": "holz"
+        },
+        {
+          "event_id": 126,
+          "event_type": "identify",
+          "item_id": "kleintierstreu",
+          "image_path": "sim_images/kleintierstreu_126.jpg"
+        },
+        {
+          "event_id": 127,
+          "event_type": "game_sort",
+          "item_id": "elektroaltger\u00e4t"
+        },
+        {
+          "event_id": 128,
+          "event_type": "game_sort",
+          "item_id": "papiertaschent\u00fccher"
+        },
+        {
+          "event_id": 129,
+          "event_type": "identify",
+          "item_id": "kinderautositz",
+          "image_path": "sim_images/kinderautositz_129.jpg"
+        },
+        {
+          "event_id": 130,
+          "event_type": "game_sort",
+          "item_id": "klebstofftube_geleert"
+        },
+        {
+          "event_id": 131,
+          "event_type": "game_sort",
+          "item_id": "bett"
+        },
+        {
+          "event_id": 132,
+          "event_type": "identify",
+          "item_id": "spiegel",
+          "image_path": "sim_images/spiegel_132.jpg"
+        },
+        {
+          "event_id": 133,
+          "event_type": "game_sort",
+          "item_id": "spielzeug_kein_elektroger\u00e4t"
+        },
+        {
+          "event_id": 134,
+          "event_type": "game_sort",
+          "item_id": "fussboden"
+        },
+        {
+          "event_id": 135,
+          "event_type": "game_sort",
+          "item_id": "plattenspieler"
+        },
+        {
+          "event_id": 136,
+          "event_type": "game_sort",
+          "item_id": "zitronenschale"
+        },
+        {
+          "event_id": 137,
+          "event_type": "game_sort",
+          "item_id": "akkus"
+        },
+        {
+          "event_id": 138,
+          "event_type": "identify",
+          "item_id": "bett",
+          "image_path": "sim_images/bett_138.jpg"
+        },
+        {
+          "event_id": 139,
+          "event_type": "game_sort",
+          "item_id": "kaffeemaschine"
+        },
+        {
+          "event_id": 140,
+          "event_type": "identify",
+          "item_id": "sofa",
+          "image_path": "sim_images/sofa_140.jpg"
+        },
+        {
+          "event_id": 141,
+          "event_type": "game_sort",
+          "item_id": "gartenschlauch"
+        },
+        {
+          "event_id": 142,
+          "event_type": "game_sort",
+          "item_id": "bettdecke"
+        },
+        {
+          "event_id": 143,
+          "event_type": "identify",
+          "item_id": "reifen",
+          "image_path": "sim_images/reifen_143.jpg"
+        },
+        {
+          "event_id": 144,
+          "event_type": "game_sort",
+          "item_id": "inkontinenzartikel"
+        },
+        {
+          "event_id": 145,
+          "event_type": "game_sort",
+          "item_id": "kerze"
+        },
+        {
+          "event_id": 146,
+          "event_type": "identify",
+          "item_id": "herd",
+          "image_path": "sim_images/herd_146.jpg"
+        },
+        {
+          "event_id": 147,
+          "event_type": "game_sort",
+          "item_id": "couch"
+        },
+        {
+          "event_id": 148,
+          "event_type": "game_sort",
+          "item_id": "windel"
+        },
+        {
+          "event_id": 149,
+          "event_type": "game_sort",
+          "item_id": "jogurtbecher"
+        },
+        {
+          "event_id": 150,
+          "event_type": "game_sort",
+          "item_id": "ziegel"
+        },
+        {
+          "event_id": 151,
+          "event_type": "identify",
+          "item_id": "diskette",
+          "image_path": "sim_images/diskette_151.jpg"
+        },
+        {
+          "event_id": 152,
+          "event_type": "game_sort",
+          "item_id": "schlauchboot"
+        },
+        {
+          "event_id": 153,
+          "event_type": "game_sort",
+          "item_id": "haushaltsger\u00e4te"
+        },
+        {
+          "event_id": 154,
+          "event_type": "game_sort",
+          "item_id": "videoger\u00e4t_dvd"
+        },
+        {
+          "event_id": 155,
+          "event_type": "identify",
+          "item_id": "holzzaun",
+          "image_path": "sim_images/holzzaun_155.jpg"
+        },
+        {
+          "event_id": 156,
+          "event_type": "game_sort",
+          "item_id": "w\u00e4schetrockner"
+        },
+        {
+          "event_id": 157,
+          "event_type": "game_sort",
+          "item_id": "herd"
+        },
+        {
+          "event_id": 158,
+          "event_type": "game_sort",
+          "item_id": "haarf\u00e4rbemittel"
+        },
+        {
+          "event_id": 159,
+          "event_type": "game_sort",
+          "item_id": "w\u00e4schest\u00e4nder"
+        },
+        {
+          "event_id": 160,
+          "event_type": "game_sort",
+          "item_id": "metalle"
+        },
+        {
+          "event_id": 161,
+          "event_type": "game_sort",
+          "item_id": "regentonne"
+        },
+        {
+          "event_id": 162,
+          "event_type": "game_sort",
+          "item_id": "nachtspeicherofen"
+        },
+        {
+          "event_id": 163,
+          "event_type": "game_sort",
+          "item_id": "diskette"
+        },
+        {
+          "event_id": 164,
+          "event_type": "game_sort",
+          "item_id": "spiegel"
+        },
+        {
+          "event_id": 165,
+          "event_type": "game_sort",
+          "item_id": "blumentopf"
+        },
+        {
+          "event_id": 166,
+          "event_type": "game_sort",
+          "item_id": "pflanzenschutzmittel"
+        },
+        {
+          "event_id": 167,
+          "event_type": "identify",
+          "item_id": "kleidung",
+          "image_path": "sim_images/kleidung_167.jpg"
+        },
+        {
+          "event_id": 168,
+          "event_type": "game_sort",
+          "item_id": "schallplatte"
+        },
+        {
+          "event_id": 169,
+          "event_type": "game_sort",
+          "item_id": "gasflaschen_gaspatronen"
+        },
+        {
+          "event_id": 170,
+          "event_type": "game_sort",
+          "item_id": "asche_kalt"
+        },
+        {
+          "event_id": 171,
+          "event_type": "game_sort",
+          "item_id": "bett"
+        },
+        {
+          "event_id": 172,
+          "event_type": "identify",
+          "item_id": "einweggeschirr_besteck_sauber",
+          "image_path": "sim_images/einweggeschirr_besteck_sauber_172.jpg"
+        },
+        {
+          "event_id": 173,
+          "event_type": "game_sort",
+          "item_id": "computer"
+        },
+        {
+          "event_id": 174,
+          "event_type": "identify",
+          "item_id": "nagellack_fl\u00fcssiger_zustand",
+          "image_path": "sim_images/nagellack_fl\u00fcssiger_zustand_174.jpg"
+        },
+        {
+          "event_id": 175,
+          "event_type": "game_sort",
+          "item_id": "altmedikament"
+        },
+        {
+          "event_id": 176,
+          "event_type": "game_sort",
+          "item_id": "regentonne"
+        },
+        {
+          "event_id": 177,
+          "event_type": "identify",
+          "item_id": "wasserstoffperoxid",
+          "image_path": "sim_images/wasserstoffperoxid_177.jpg"
+        },
+        {
+          "event_id": 178,
+          "event_type": "game_sort",
+          "item_id": "papiertaschent\u00fccher"
+        },
+        {
+          "event_id": 179,
+          "event_type": "identify",
+          "item_id": "pfanne_kochtopf",
+          "image_path": "sim_images/pfanne_kochtopf_179.jpg"
+        },
+        {
+          "event_id": 180,
+          "event_type": "game_sort",
+          "item_id": "textilien"
+        },
+        {
+          "event_id": 181,
+          "event_type": "game_sort",
+          "item_id": "sensitive_documents"
+        },
+        {
+          "event_id": 182,
+          "event_type": "game_sort",
+          "item_id": "altpapier"
+        },
+        {
+          "event_id": 183,
+          "event_type": "identify",
+          "item_id": "hygieneartikel",
+          "image_path": "sim_images/hygieneartikel_183.jpg"
+        },
+        {
+          "event_id": 184,
+          "event_type": "game_sort",
+          "item_id": "dose"
+        },
+        {
+          "event_id": 185,
+          "event_type": "game_sort",
+          "item_id": "\u00f6lofen"
+        },
+        {
+          "event_id": 186,
+          "event_type": "game_sort",
+          "item_id": "tierkadaver"
+        },
+        {
+          "event_id": 187,
+          "event_type": "game_sort",
+          "item_id": "schrott"
+        },
+        {
+          "event_id": 188,
+          "event_type": "game_sort",
+          "item_id": "couch"
+        },
+        {
+          "event_id": 189,
+          "event_type": "game_sort",
+          "item_id": "akten"
+        },
+        {
+          "event_id": 190,
+          "event_type": "identify",
+          "item_id": "babywindeln",
+          "image_path": "sim_images/babywindeln_190.jpg"
+        },
+        {
+          "event_id": 191,
+          "event_type": "game_sort",
+          "item_id": "spielzeug_elektrisch"
+        },
+        {
+          "event_id": 192,
+          "event_type": "game_sort",
+          "item_id": "flaschen"
+        },
+        {
+          "event_id": 193,
+          "event_type": "game_sort",
+          "item_id": "non_packaging_glass"
+        },
+        {
+          "event_id": 194,
+          "event_type": "game_sort",
+          "item_id": "bodenaushub"
+        },
+        {
+          "event_id": 195,
+          "event_type": "game_sort",
+          "item_id": "bett"
+        },
+        {
+          "event_id": 196,
+          "event_type": "game_sort",
+          "item_id": "ski_skist\u00f6cke"
+        },
+        {
+          "event_id": 197,
+          "event_type": "game_sort",
+          "item_id": "sessel"
+        },
+        {
+          "event_id": 198,
+          "event_type": "identify",
+          "item_id": "mineralwolle",
+          "image_path": "sim_images/mineralwolle_198.jpg"
+        },
+        {
+          "event_id": 199,
+          "event_type": "identify",
+          "item_id": "telefon",
+          "image_path": "sim_images/telefon_199.jpg"
+        },
+        {
+          "event_id": 200,
+          "event_type": "game_sort",
+          "item_id": "polsterm\u00f6bel"
+        }
+      ]
+    },
+    {
+      "scenario_id": "hazardous_focus_200",
+      "description": "200 interactions focusing on common household hazardous waste items, testing awareness of separate collection and safety notes.",
+      "user_profile": {
+        "type": "cautious_but_unsure",
+        "initial_error_rate": 0.2,
+        "learning_rate": 0.12,
+        "known_bias": {
+          "altmedikament": {
+            "target_bin": "Residual Waste Bin",
+            "error_prob_boost": 0.3
+          },
+          "abflussreiniger": {
+            "target_bin": "Residual Waste Bin",
+            "error_prob_boost": 0.3
+          }
+        }
+      },
+      "events": [
+        {
+          "event_id": 1,
+          "event_type": "identify",
+          "item_id": "altmedikament",
+          "image_path": "sim_images/altmedikament_1.jpg"
+        },
+        {
+          "event_id": 2,
+          "event_type": "game_sort",
+          "item_id": "speisereste"
+        },
+        {
+          "event_id": 3,
+          "event_type": "identify",
+          "item_id": "abflussreiniger",
+          "image_path": "sim_images/abflussreiniger_3.jpg"
+        },
+        {
+          "event_id": 4,
+          "event_type": "identify",
+          "item_id": "schrott",
+          "image_path": "sim_images/schrott_4.jpg"
+        },
+        {
+          "event_id": 5,
+          "event_type": "identify",
+          "item_id": "grillanz\u00fcnder",
+          "image_path": "sim_images/grillanz\u00fcnder_5.jpg"
+        },
+        {
+          "event_id": 6,
+          "event_type": "identify",
+          "item_id": "abflussreiniger",
+          "image_path": "sim_images/abflussreiniger_6.jpg"
+        },
+        {
+          "event_id": 7,
+          "event_type": "identify",
+          "item_id": "maschendrahtzaun",
+          "image_path": "sim_images/maschendrahtzaun_7.jpg"
+        },
+        {
+          "event_id": 8,
+          "event_type": "game_sort",
+          "item_id": "klebstoffe_fester_zustand"
+        },
+        {
+          "event_id": 9,
+          "event_type": "game_sort",
+          "item_id": "altreifen_autoreifen"
+        },
+        {
+          "event_id": 10,
+          "event_type": "game_sort",
+          "item_id": "neonr\u00f6hre"
+        },
+        {
+          "event_id": 11,
+          "event_type": "game_sort",
+          "item_id": "toaster"
+        },
+        {
+          "event_id": 12,
+          "event_type": "game_sort",
+          "item_id": "autowrack"
+        },
+        {
+          "event_id": 13,
+          "event_type": "game_sort",
+          "item_id": "klebstofftube_geleert"
+        },
+        {
+          "event_id": 14,
+          "event_type": "game_sort",
+          "item_id": "lumpen"
+        },
+        {
+          "event_id": 15,
+          "event_type": "game_sort",
+          "item_id": "rollo"
+        },
+        {
+          "event_id": 16,
+          "event_type": "game_sort",
+          "item_id": "haare_federn"
+        },
+        {
+          "event_id": 17,
+          "event_type": "identify",
+          "item_id": "b\u00fccher",
+          "image_path": "sim_images/b\u00fccher_17.jpg"
+        },
+        {
+          "event_id": 18,
+          "event_type": "identify",
+          "item_id": "babywindeln",
+          "image_path": "sim_images/babywindeln_18.jpg"
+        },
+        {
+          "event_id": 19,
+          "event_type": "identify",
+          "item_id": "ski_skist\u00f6cke",
+          "image_path": "sim_images/ski_skist\u00f6cke_19.jpg"
+        },
+        {
+          "event_id": 20,
+          "event_type": "game_sort",
+          "item_id": "pflanzenschutzmittel"
+        },
+        {
+          "event_id": 21,
+          "event_type": "game_sort",
+          "item_id": "fleckentferner"
+        },
+        {
+          "event_id": 22,
+          "event_type": "game_sort",
+          "item_id": "orangenschale"
+        },
+        {
+          "event_id": 23,
+          "event_type": "game_sort",
+          "item_id": "smartphone"
+        },
+        {
+          "event_id": 24,
+          "event_type": "identify",
+          "item_id": "fett",
+          "image_path": "sim_images/fett_24.jpg"
+        },
+        {
+          "event_id": 25,
+          "event_type": "game_sort",
+          "item_id": "altmedikament"
+        },
+        {
+          "event_id": 26,
+          "event_type": "game_sort",
+          "item_id": "fussboden"
+        },
+        {
+          "event_id": 27,
+          "event_type": "game_sort",
+          "item_id": "leim_fl\u00fcssiger_zustand"
+        },
+        {
+          "event_id": 28,
+          "event_type": "identify",
+          "item_id": "wellasbest",
+          "image_path": "sim_images/wellasbest_28.jpg"
+        },
+        {
+          "event_id": 29,
+          "event_type": "identify",
+          "item_id": "windel",
+          "image_path": "sim_images/windel_29.jpg"
+        },
+        {
+          "event_id": 30,
+          "event_type": "game_sort",
+          "item_id": "abflussreiniger"
+        },
+        {
+          "event_id": 31,
+          "event_type": "game_sort",
+          "item_id": "uhr_rein_mechanisch"
+        },
+        {
+          "event_id": 32,
+          "event_type": "game_sort",
+          "item_id": "dachpappe"
+        },
+        {
+          "event_id": 33,
+          "event_type": "game_sort",
+          "item_id": "tasche_handtasche"
+        },
+        {
+          "event_id": 34,
+          "event_type": "game_sort",
+          "item_id": "jalousie_innen"
+        },
+        {
+          "event_id": 35,
+          "event_type": "identify",
+          "item_id": "uhr_rein_mechanisch",
+          "image_path": "sim_images/uhr_rein_mechanisch_35.jpg"
+        },
+        {
+          "event_id": 36,
+          "event_type": "game_sort",
+          "item_id": "leuchte"
+        },
+        {
+          "event_id": 37,
+          "event_type": "game_sort",
+          "item_id": "blumen"
+        },
+        {
+          "event_id": 38,
+          "event_type": "game_sort",
+          "item_id": "grillanz\u00fcnder"
+        },
+        {
+          "event_id": 39,
+          "event_type": "game_sort",
+          "item_id": "herd"
+        },
+        {
+          "event_id": 40,
+          "event_type": "game_sort",
+          "item_id": "bettdecke"
+        },
+        {
+          "event_id": 41,
+          "event_type": "identify",
+          "item_id": "\u00f6lofen",
+          "image_path": "sim_images/\u00f6lofen_41.jpg"
+        },
+        {
+          "event_id": 42,
+          "event_type": "game_sort",
+          "item_id": "glaswolle"
+        },
+        {
+          "event_id": 43,
+          "event_type": "game_sort",
+          "item_id": "led_lampe"
+        },
+        {
+          "event_id": 44,
+          "event_type": "identify",
+          "item_id": "chemikalien",
+          "image_path": "sim_images/chemikalien_44.jpg"
+        },
+        {
+          "event_id": 45,
+          "event_type": "identify",
+          "item_id": "r\u00fchrger\u00e4t",
+          "image_path": "sim_images/r\u00fchrger\u00e4t_45.jpg"
+        },
+        {
+          "event_id": 46,
+          "event_type": "game_sort",
+          "item_id": "sofa"
+        },
+        {
+          "event_id": 47,
+          "event_type": "game_sort",
+          "item_id": "windel"
+        },
+        {
+          "event_id": 48,
+          "event_type": "game_sort",
+          "item_id": "textilien"
+        },
+        {
+          "event_id": 49,
+          "event_type": "game_sort",
+          "item_id": "desinfektionsmittel"
+        },
+        {
+          "event_id": 50,
+          "event_type": "game_sort",
+          "item_id": "used_fat"
+        },
+        {
+          "event_id": 51,
+          "event_type": "game_sort",
+          "item_id": "haushaltsger\u00e4te"
+        },
+        {
+          "event_id": 52,
+          "event_type": "game_sort",
+          "item_id": "uhr_elektroger\u00e4t"
+        },
+        {
+          "event_id": 53,
+          "event_type": "identify",
+          "item_id": "pflanzen\u00f6l",
+          "image_path": "sim_images/pflanzen\u00f6l_53.jpg"
+        },
+        {
+          "event_id": 54,
+          "event_type": "game_sort",
+          "item_id": "quecksilberentladungslampen"
+        },
+        {
+          "event_id": 55,
+          "event_type": "game_sort",
+          "item_id": "wcreiniger"
+        },
+        {
+          "event_id": 56,
+          "event_type": "identify",
+          "item_id": "autowrack",
+          "image_path": "sim_images/autowrack_56.jpg"
+        },
+        {
+          "event_id": 57,
+          "event_type": "game_sort",
+          "item_id": "unkrautbek\u00e4mpfungsmittel"
+        },
+        {
+          "event_id": 58,
+          "event_type": "game_sort",
+          "item_id": "videokassette"
+        },
+        {
+          "event_id": 59,
+          "event_type": "game_sort",
+          "item_id": "lauge"
+        },
+        {
+          "event_id": 60,
+          "event_type": "identify",
+          "item_id": "schnellhefter_pvc",
+          "image_path": "sim_images/schnellhefter_pvc_60.jpg"
+        },
+        {
+          "event_id": 61,
+          "event_type": "game_sort",
+          "item_id": "w\u00e4schest\u00e4nder"
+        },
+        {
+          "event_id": 62,
+          "event_type": "identify",
+          "item_id": "musikkasette",
+          "image_path": "sim_images/musikkasette_62.jpg"
+        },
+        {
+          "event_id": 63,
+          "event_type": "identify",
+          "item_id": "bett",
+          "image_path": "sim_images/bett_63.jpg"
+        },
+        {
+          "event_id": 64,
+          "event_type": "game_sort",
+          "item_id": "speisereste"
+        },
+        {
+          "event_id": 65,
+          "event_type": "game_sort",
+          "item_id": "schlauchboot"
+        },
+        {
+          "event_id": 66,
+          "event_type": "game_sort",
+          "item_id": "topf"
+        },
+        {
+          "event_id": 67,
+          "event_type": "game_sort",
+          "item_id": "speisereste"
+        },
+        {
+          "event_id": 68,
+          "event_type": "game_sort",
+          "item_id": "lack_fl\u00fcssiger_zustand"
+        },
+        {
+          "event_id": 69,
+          "event_type": "game_sort",
+          "item_id": "non_packaging_glass"
+        },
+        {
+          "event_id": 70,
+          "event_type": "identify",
+          "item_id": "zementsack",
+          "image_path": "sim_images/zementsack_70.jpg"
+        },
+        {
+          "event_id": 71,
+          "event_type": "identify",
+          "item_id": "d\u00fcngemittel",
+          "image_path": "sim_images/d\u00fcngemittel_71.jpg"
+        },
+        {
+          "event_id": 72,
+          "event_type": "game_sort",
+          "item_id": "obstreste"
+        },
+        {
+          "event_id": 73,
+          "event_type": "game_sort",
+          "item_id": "damenbinde"
+        },
+        {
+          "event_id": 74,
+          "event_type": "game_sort",
+          "item_id": "bodenaushub"
+        },
+        {
+          "event_id": 75,
+          "event_type": "game_sort",
+          "item_id": "autobatterie"
+        },
+        {
+          "event_id": 76,
+          "event_type": "identify",
+          "item_id": "mal_und_filzstifte",
+          "image_path": "sim_images/mal_und_filzstifte_76.jpg"
+        },
+        {
+          "event_id": 77,
+          "event_type": "game_sort",
+          "item_id": "pilzbek\u00e4mpfungsmittel_fungizid"
+        },
+        {
+          "event_id": 78,
+          "event_type": "game_sort",
+          "item_id": "schuhe"
+        },
+        {
+          "event_id": 79,
+          "event_type": "identify",
+          "item_id": "teppich_teppichboden",
+          "image_path": "sim_images/teppich_teppichboden_79.jpg"
+        },
+        {
+          "event_id": 80,
+          "event_type": "game_sort",
+          "item_id": "cds_dvds"
+        },
+        {
+          "event_id": 81,
+          "event_type": "identify",
+          "item_id": "weihnachtsbaum",
+          "image_path": "sim_images/weihnachtsbaum_81.jpg"
+        },
+        {
+          "event_id": 82,
+          "event_type": "game_sort",
+          "item_id": "d\u00fcngemittel"
+        },
+        {
+          "event_id": 83,
+          "event_type": "identify",
+          "item_id": "reifen",
+          "image_path": "sim_images/reifen_83.jpg"
+        },
+        {
+          "event_id": 84,
+          "event_type": "identify",
+          "item_id": "milchkarton",
+          "image_path": "sim_images/milchkarton_84.jpg"
+        },
+        {
+          "event_id": 85,
+          "event_type": "game_sort",
+          "item_id": "leder"
+        },
+        {
+          "event_id": 86,
+          "event_type": "game_sort",
+          "item_id": "chemikalien"
+        },
+        {
+          "event_id": 87,
+          "event_type": "identify",
+          "item_id": "wasserstoffperoxid",
+          "image_path": "sim_images/wasserstoffperoxid_87.jpg"
+        },
+        {
+          "event_id": 88,
+          "event_type": "game_sort",
+          "item_id": "schallplatte"
+        },
+        {
+          "event_id": 89,
+          "event_type": "identify",
+          "item_id": "thermoskanne",
+          "image_path": "sim_images/thermoskanne_89.jpg"
+        },
+        {
+          "event_id": 90,
+          "event_type": "identify",
+          "item_id": "\u00f6lfilter",
+          "image_path": "sim_images/\u00f6lfilter_90.jpg"
+        },
+        {
+          "event_id": 91,
+          "event_type": "identify",
+          "item_id": "energiesparlampen",
+          "image_path": "sim_images/energiesparlampen_91.jpg"
+        },
+        {
+          "event_id": 92,
+          "event_type": "identify",
+          "item_id": "konservendose",
+          "image_path": "sim_images/konservendose_92.jpg"
+        },
+        {
+          "event_id": 93,
+          "event_type": "identify",
+          "item_id": "fotochemikalien",
+          "image_path": "sim_images/fotochemikalien_93.jpg"
+        },
+        {
+          "event_id": 94,
+          "event_type": "game_sort",
+          "item_id": "chemikalien"
+        },
+        {
+          "event_id": 95,
+          "event_type": "identify",
+          "item_id": "b\u00fcgeleisen",
+          "image_path": "sim_images/b\u00fcgeleisen_95.jpg"
+        },
+        {
+          "event_id": 96,
+          "event_type": "game_sort",
+          "item_id": "sensitive_documents"
+        },
+        {
+          "event_id": 97,
+          "event_type": "game_sort",
+          "item_id": "pflanzen\u00f6l"
+        },
+        {
+          "event_id": 98,
+          "event_type": "game_sort",
+          "item_id": "altlack_altfarben_fl\u00fcssig"
+        },
+        {
+          "event_id": 99,
+          "event_type": "game_sort",
+          "item_id": "metallzaun"
+        },
+        {
+          "event_id": 100,
+          "event_type": "game_sort",
+          "item_id": "kinderautositz"
+        },
+        {
+          "event_id": 101,
+          "event_type": "game_sort",
+          "item_id": "maschendrahtzaun"
+        },
+        {
+          "event_id": 102,
+          "event_type": "identify",
+          "item_id": "leder",
+          "image_path": "sim_images/leder_102.jpg"
+        },
+        {
+          "event_id": 103,
+          "event_type": "game_sort",
+          "item_id": "pc"
+        },
+        {
+          "event_id": 104,
+          "event_type": "game_sort",
+          "item_id": "jalousie_aussen"
+        },
+        {
+          "event_id": 105,
+          "event_type": "game_sort",
+          "item_id": "dreirad"
+        },
+        {
+          "event_id": 106,
+          "event_type": "game_sort",
+          "item_id": "lauge"
+        },
+        {
+          "event_id": 107,
+          "event_type": "game_sort",
+          "item_id": "d\u00fcngemittel"
+        },
+        {
+          "event_id": 108,
+          "event_type": "game_sort",
+          "item_id": "matratze"
+        },
+        {
+          "event_id": 109,
+          "event_type": "game_sort",
+          "item_id": "nagellackentferner"
+        },
+        {
+          "event_id": 110,
+          "event_type": "game_sort",
+          "item_id": "herd"
+        },
+        {
+          "event_id": 111,
+          "event_type": "identify",
+          "item_id": "korkfussboden",
+          "image_path": "sim_images/korkfussboden_111.jpg"
+        },
+        {
+          "event_id": 112,
+          "event_type": "identify",
+          "item_id": "altmedikament",
+          "image_path": "sim_images/altmedikament_112.jpg"
+        },
+        {
+          "event_id": 113,
+          "event_type": "game_sort",
+          "item_id": "holzzaun"
+        },
+        {
+          "event_id": 114,
+          "event_type": "game_sort",
+          "item_id": "drucker"
+        },
+        {
+          "event_id": 115,
+          "event_type": "game_sort",
+          "item_id": "bodenaushub"
+        },
+        {
+          "event_id": 116,
+          "event_type": "game_sort",
+          "item_id": "nachtspeicherofen"
+        },
+        {
+          "event_id": 117,
+          "event_type": "identify",
+          "item_id": "abflussreiniger",
+          "image_path": "sim_images/abflussreiniger_117.jpg"
+        },
+        {
+          "event_id": 118,
+          "event_type": "game_sort",
+          "item_id": "satellitensch\u00fcssel"
+        },
+        {
+          "event_id": 119,
+          "event_type": "game_sort",
+          "item_id": "spielzeug_kein_elektroger\u00e4t"
+        },
+        {
+          "event_id": 120,
+          "event_type": "game_sort",
+          "item_id": "old_paint"
+        },
+        {
+          "event_id": 121,
+          "event_type": "identify",
+          "item_id": "desinfektionsmittel",
+          "image_path": "sim_images/desinfektionsmittel_121.jpg"
+        },
+        {
+          "event_id": 122,
+          "event_type": "game_sort",
+          "item_id": "abflussreiniger"
+        },
+        {
+          "event_id": 123,
+          "event_type": "identify",
+          "item_id": "schleifpapier",
+          "image_path": "sim_images/schleifpapier_123.jpg"
+        },
+        {
+          "event_id": 124,
+          "event_type": "identify",
+          "item_id": "zellstofft\u00fccher",
+          "image_path": "sim_images/zellstofft\u00fccher_124.jpg"
+        },
+        {
+          "event_id": 125,
+          "event_type": "identify",
+          "item_id": "quecksilberentladungslampen",
+          "image_path": "sim_images/quecksilberentladungslampen_125.jpg"
+        },
+        {
+          "event_id": 126,
+          "event_type": "game_sort",
+          "item_id": "pappe"
+        },
+        {
+          "event_id": 127,
+          "event_type": "game_sort",
+          "item_id": "rohrreiniger"
+        },
+        {
+          "event_id": 128,
+          "event_type": "game_sort",
+          "item_id": "lack_fl\u00fcssiger_zustand"
+        },
+        {
+          "event_id": 129,
+          "event_type": "identify",
+          "item_id": "plexiglas",
+          "image_path": "sim_images/plexiglas_129.jpg"
+        },
+        {
+          "event_id": 130,
+          "event_type": "identify",
+          "item_id": "kamelitwolle",
+          "image_path": "sim_images/kamelitwolle_130.jpg"
+        },
+        {
+          "event_id": 131,
+          "event_type": "game_sort",
+          "item_id": "t\u00fcr"
+        },
+        {
+          "event_id": 132,
+          "event_type": "identify",
+          "item_id": "kochtopf_pfanne_metall",
+          "image_path": "sim_images/kochtopf_pfanne_metall_132.jpg"
+        },
+        {
+          "event_id": 133,
+          "event_type": "game_sort",
+          "item_id": "zahnb\u00fcrste_nicht_elektrisch"
+        },
+        {
+          "event_id": 134,
+          "event_type": "game_sort",
+          "item_id": "zigarettenkippen"
+        },
+        {
+          "event_id": 135,
+          "event_type": "game_sort",
+          "item_id": "zelt_campingzelt"
+        },
+        {
+          "event_id": 136,
+          "event_type": "game_sort",
+          "item_id": "kan\u00fcle"
+        },
+        {
+          "event_id": 137,
+          "event_type": "game_sort",
+          "item_id": "toaster"
+        },
+        {
+          "event_id": 138,
+          "event_type": "game_sort",
+          "item_id": "inkontinenzartikel"
+        },
+        {
+          "event_id": 139,
+          "event_type": "game_sort",
+          "item_id": "videoger\u00e4t_dvd"
+        },
+        {
+          "event_id": 140,
+          "event_type": "game_sort",
+          "item_id": "toilettenbecken"
+        },
+        {
+          "event_id": 141,
+          "event_type": "game_sort",
+          "item_id": "schrott"
+        },
+        {
+          "event_id": 142,
+          "event_type": "identify",
+          "item_id": "sanit\u00e4rreiniger",
+          "image_path": "sim_images/sanit\u00e4rreiniger_142.jpg"
+        },
+        {
+          "event_id": 143,
+          "event_type": "game_sort",
+          "item_id": "bauschutt"
+        },
+        {
+          "event_id": 144,
+          "event_type": "identify",
+          "item_id": "cds_dvds",
+          "image_path": "sim_images/cds_dvds_144.jpg"
+        },
+        {
+          "event_id": 145,
+          "event_type": "game_sort",
+          "item_id": "herd"
+        },
+        {
+          "event_id": 146,
+          "event_type": "game_sort",
+          "item_id": "druckerpatrone"
+        },
+        {
+          "event_id": 147,
+          "event_type": "game_sort",
+          "item_id": "handy"
+        },
+        {
+          "event_id": 148,
+          "event_type": "identify",
+          "item_id": "kaffeesatz",
+          "image_path": "sim_images/kaffeesatz_148.jpg"
+        },
+        {
+          "event_id": 149,
+          "event_type": "identify",
+          "item_id": "rasenschnitt",
+          "image_path": "sim_images/rasenschnitt_149.jpg"
+        },
+        {
+          "event_id": 150,
+          "event_type": "game_sort",
+          "item_id": "laub"
+        },
+        {
+          "event_id": 151,
+          "event_type": "game_sort",
+          "item_id": "schlauchboot"
+        },
+        {
+          "event_id": 152,
+          "event_type": "identify",
+          "item_id": "putz",
+          "image_path": "sim_images/putz_152.jpg"
+        },
+        {
+          "event_id": 153,
+          "event_type": "game_sort",
+          "item_id": "mp3_ger\u00e4t"
+        },
+        {
+          "event_id": 154,
+          "event_type": "identify",
+          "item_id": "verd\u00fcnner",
+          "image_path": "sim_images/verd\u00fcnner_154.jpg"
+        },
+        {
+          "event_id": 155,
+          "event_type": "game_sort",
+          "item_id": "spiegelscherben"
+        },
+        {
+          "event_id": 156,
+          "event_type": "identify",
+          "item_id": "d\u00fcngemittel",
+          "image_path": "sim_images/d\u00fcngemittel_156.jpg"
+        },
+        {
+          "event_id": 157,
+          "event_type": "identify",
+          "item_id": "bett",
+          "image_path": "sim_images/bett_157.jpg"
+        },
+        {
+          "event_id": 158,
+          "event_type": "game_sort",
+          "item_id": "grillanz\u00fcnder"
+        },
+        {
+          "event_id": 159,
+          "event_type": "game_sort",
+          "item_id": "zementsack"
+        },
+        {
+          "event_id": 160,
+          "event_type": "game_sort",
+          "item_id": "\u00f6lfilter"
+        },
+        {
+          "event_id": 161,
+          "event_type": "game_sort",
+          "item_id": "leim_fl\u00fcssiger_zustand"
+        },
+        {
+          "event_id": 162,
+          "event_type": "identify",
+          "item_id": "kan\u00fcle",
+          "image_path": "sim_images/kan\u00fcle_162.jpg"
+        },
+        {
+          "event_id": 163,
+          "event_type": "identify",
+          "item_id": "laub",
+          "image_path": "sim_images/laub_163.jpg"
+        },
+        {
+          "event_id": 164,
+          "event_type": "identify",
+          "item_id": "grillanz\u00fcnder",
+          "image_path": "sim_images/grillanz\u00fcnder_164.jpg"
+        },
+        {
+          "event_id": 165,
+          "event_type": "identify",
+          "item_id": "kaffeesatz",
+          "image_path": "sim_images/kaffeesatz_165.jpg"
+        },
+        {
+          "event_id": 166,
+          "event_type": "game_sort",
+          "item_id": "bettdecke"
+        },
+        {
+          "event_id": 167,
+          "event_type": "game_sort",
+          "item_id": "gartenschlauch"
+        },
+        {
+          "event_id": 168,
+          "event_type": "game_sort",
+          "item_id": "kochtopf_pfanne_metall"
+        },
+        {
+          "event_id": 169,
+          "event_type": "identify",
+          "item_id": "farbreste_fester_zustand",
+          "image_path": "sim_images/farbreste_fester_zustand_169.jpg"
+        },
+        {
+          "event_id": 170,
+          "event_type": "identify",
+          "item_id": "wellasbest",
+          "image_path": "sim_images/wellasbest_170.jpg"
+        },
+        {
+          "event_id": 171,
+          "event_type": "game_sort",
+          "item_id": "spielzeug_kein_elektroger\u00e4t"
+        },
+        {
+          "event_id": 172,
+          "event_type": "game_sort",
+          "item_id": "tampon"
+        },
+        {
+          "event_id": 173,
+          "event_type": "game_sort",
+          "item_id": "reisetasche_koffer"
+        },
+        {
+          "event_id": 174,
+          "event_type": "game_sort",
+          "item_id": "laub"
+        },
+        {
+          "event_id": 175,
+          "event_type": "identify",
+          "item_id": "katzenstreu",
+          "image_path": "sim_images/katzenstreu_175.jpg"
+        },
+        {
+          "event_id": 176,
+          "event_type": "game_sort",
+          "item_id": "papier"
+        },
+        {
+          "event_id": 177,
+          "event_type": "game_sort",
+          "item_id": "rohrreiniger"
+        },
+        {
+          "event_id": 178,
+          "event_type": "game_sort",
+          "item_id": "maschendrahtzaun"
+        },
+        {
+          "event_id": 179,
+          "event_type": "game_sort",
+          "item_id": "entkalker"
+        },
+        {
+          "event_id": 180,
+          "event_type": "game_sort",
+          "item_id": "sessel"
+        },
+        {
+          "event_id": 181,
+          "event_type": "game_sort",
+          "item_id": "chemikalien"
+        },
+        {
+          "event_id": 182,
+          "event_type": "game_sort",
+          "item_id": "altmedikament"
+        },
+        {
+          "event_id": 183,
+          "event_type": "game_sort",
+          "item_id": "d\u00fcngemittel"
+        },
+        {
+          "event_id": 184,
+          "event_type": "game_sort",
+          "item_id": "speisereste"
+        },
+        {
+          "event_id": 185,
+          "event_type": "game_sort",
+          "item_id": "baumschnitt"
+        },
+        {
+          "event_id": 186,
+          "event_type": "game_sort",
+          "item_id": "autowrack"
+        },
+        {
+          "event_id": 187,
+          "event_type": "game_sort",
+          "item_id": "flaschen"
+        },
+        {
+          "event_id": 188,
+          "event_type": "game_sort",
+          "item_id": "schlauchboot"
+        },
+        {
+          "event_id": 189,
+          "event_type": "game_sort",
+          "item_id": "lumpen"
+        },
+        {
+          "event_id": 190,
+          "event_type": "game_sort",
+          "item_id": "sessel"
+        },
+        {
+          "event_id": 191,
+          "event_type": "game_sort",
+          "item_id": "lampe"
+        },
+        {
+          "event_id": 192,
+          "event_type": "identify",
+          "item_id": "k\u00e4fig",
+          "image_path": "sim_images/k\u00e4fig_192.jpg"
+        },
+        {
+          "event_id": 193,
+          "event_type": "game_sort",
+          "item_id": "kochtopf_pfanne_metall"
+        },
+        {
+          "event_id": 194,
+          "event_type": "identify",
+          "item_id": "chemikalien",
+          "image_path": "sim_images/chemikalien_194.jpg"
+        },
+        {
+          "event_id": 195,
+          "event_type": "game_sort",
+          "item_id": "fleckentferner"
+        },
+        {
+          "event_id": 196,
+          "event_type": "identify",
+          "item_id": "smartphone",
+          "image_path": "sim_images/smartphone_196.jpg"
+        },
+        {
+          "event_id": 197,
+          "event_type": "game_sort",
+          "item_id": "fett"
+        },
+        {
+          "event_id": 198,
+          "event_type": "identify",
+          "item_id": "konservendose",
+          "image_path": "sim_images/konservendose_198.jpg"
+        },
+        {
+          "event_id": 199,
+          "event_type": "identify",
+          "item_id": "federbett",
+          "image_path": "sim_images/federbett_199.jpg"
+        },
+        {
+          "event_id": 200,
+          "event_type": "game_sort",
+          "item_id": "kinderautositz"
+        }
+      ]
+    }
+  ]
+}

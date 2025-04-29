@@ -1,0 +1,2146 @@
+[
+  {
+    "ItemID": "abflussreiniger",
+    "ItemName_DE": "Abflussreiniger",
+    "ItemName_EN": "Drainage cleaner",
+    "CorrectBin_Magdeburg": "Recycling Center",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen\n- Siebeinsätze bei Abflüssen verhindern Verstopfungen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together\n- Sieve inserts in the event of drainage prevent constipation"
+  },
+  {
+    "ItemID": "akkus",
+    "ItemName_DE": "Akkus",
+    "ItemName_EN": "Battery",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point / Recycling Center",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "akten",
+    "ItemName_DE": "Akten",
+    "ItemName_EN": "Files",
+    "CorrectBin_Magdeburg": "Blue Bin",
+    "Notes_DE": "Metallische Gegenstände (z.B. Heftstreifen oder Aktenordner) vor der Entsorgung entfernen. Die ordnungsgemäße Vernichtung von sensiblen Akten (mit personen-gebundenen Daten) nach dem Bundesdatenschutzgesetz erfolgt ausschließlich durch ausgewählte Aktenvernichtungsfirmen.\n\nAchten Sie beim Kauf von Schreibpapier auf Umweltzeichen, wie z.B. der Blaue Engel.",
+    "Notes_EN": "Remove metallic objects (e.g. steels or files) before disposal.The proper destruction of sensitive files (with personal data) according to the Federal Data Protection Act is only carried out by selected file destruction companies.\n\nWhen buying writing paper, pay attention to environmental signs, such as the blue angel."
+  },
+  {
+    "ItemID": "sensitive_documents",
+    "ItemName_DE": "Empfindliche Unterlagen (personenbezogene Daten)",
+    "ItemName_EN": "Sensitive Documents (Personal Data)",
+    "CorrectBin_Magdeburg": "Selected Document Destruction Companies",
+    "Notes_DE": "Zerstörung gemäß BDSG nur durch ausgewählte Firmen. Umweltlabel wie den Blauen Engel beachten.",
+    "Notes_EN": "Proper destruction must be carried out by selected companies in accordance with the Federal Data Protection Act."
+  },
+  {
+    "ItemID": "aktenordner",
+    "ItemName_DE": "Aktenordner",
+    "ItemName_EN": "Filing folder",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "used_fat",
+    "ItemName_DE": "Gebrauchtes Fett",
+    "ItemName_EN": "Used fat",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Recycling Center (Hängelsberge, Cracauer Anger)",
+    "Notes_DE": "Nicht im Restmüll entsorgen oder ins Abwasser spülen – verursacht Verschmutzung!",
+    "Notes_EN": "Do not dispose of in residual waste or flush into wastewater – may pollute the environment!"
+  },
+  {
+    "ItemID": "altkleider",
+    "ItemName_DE": "Alte Kleidung (Kleider, Jacken, Hosen u.ä.)",
+    "ItemName_EN": "Old Clothing (Dresses, Coats, Trousers etc.)",
+    "CorrectBin_Magdeburg": "Textile Container / Charitable Donation",
+    "Notes_DE": "Gut erhaltenes Kleingut direkt spenden: DRK, Malteser Hilfsdienst, Magdeburger Stadtmission e.V., Adventist Church",
+    "Notes_EN": "Donate well-preserved clothing directly to DRK, Malteser Relief Service, Magdeburger Stadtmission e.V., or the Adventist church."
+  },
+  {
+    "ItemID": "altlack_altfarben_fest",
+    "ItemName_DE": "Altlack, Altfarben (fest)",
+    "ItemName_EN": "Altlack, old colors (firm)",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Völlig ausgehärtete feste Farbreste gehören in die Restabfalltonne.",
+    "Notes_EN": "Completely hardened solid color residues belong in the residual waste bin."
+  },
+  {
+    "ItemID": "altlack_altfarben_flüssig",
+    "ItemName_DE": "Altlack, Altfarben (flüssig)",
+    "ItemName_EN": "Altlack, old colors (liquid)",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen\n- Achten Sie beim Kauf auf Umweltzeichen, wie z.B. der Blaue Engel.",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together\n- Pay attention to environmental signs when buying, such as the blue angel."
+  },
+  {
+    "ItemID": "altmedikament",
+    "ItemName_DE": "Altmedikament",
+    "ItemName_EN": "Old medication",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Altmedikamente bitte so verpackt in die Restabfalltonne entsorgen, dass sie vor einem Zugriff gesichert sind.\n\nSichere  Entsorgungswege für Altmedikamente sind die Abgabe beim  Schadstoffmobil, bei der Schadstoffsammlung oder die Abgabe in der  Apotheke.\n\n- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen\n- Medikamente nicht über die Spüle oder Toilette entsorgen",
+    "Notes_EN": "Please dispose of old medication packed in the residual waste bin so that they are secured before access.\n\nSafe disposal routes for old medication are the delivery of the pollutant mobile, in the collection of pollutants or the delivery in the pharmacy.\n\n- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together\n- Do not dispose of medication via the sink or toilet"
+  },
+  {
+    "ItemID": "altpapier",
+    "ItemName_DE": "Altpapier",
+    "ItemName_EN": "Waste paper",
+    "CorrectBin_Magdeburg": "Blue Bin",
+    "Notes_DE": "Achten Sie beim Kauf von Schreibpapier auf Umweltzeichen, wie z.B. der Blaue Engel.",
+    "Notes_EN": "When buying writing paper, pay attention to environmental signs, such as the blue angel."
+  },
+  {
+    "ItemID": "altreifen_autoreifen",
+    "ItemName_DE": "Altreifen, Autoreifen",
+    "ItemName_EN": "Altroops, car tires",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Die Abgabe von Autoreifen mit oder ohne Felge auf den Wertstoffhöfen ist nach der Abfallgebührensatzung kostenpflichtig.\n\nDer Gummianteil der Altreifen kann recycelt werden. Hierzu werden Altreifen zerkleinert und hochwertige Gummigranulate hergestellt.",
+    "Notes_EN": "The submission of car tires with or without rim on the recycling centers is subject to a fee according to the waste fee statute.\n\nThe rubber content of the old tires can be recycled.For this purpose, altar tires are crushed and high -quality rubber granules are produced."
+  },
+  {
+    "ItemID": "altöl",
+    "ItemName_DE": "Altöl",
+    "ItemName_EN": "Old oil",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Die Händler sind zur Rücknahme von Altöl verpflichtet. An den  Verkaufsstellen wird die Menge Altöl zurückgenommen, die verkauft wurde.  Der Händler kann bei der Abgabe des Altöls den Kaufbeleg verlangen.\n\nKleine Mengen Altöl können Sie beim Schadstoffmobil abgeben.",
+    "Notes_EN": "The dealers are obliged to withdraw old oil.At the sales outlets, the amount of old oil is withdrawn.The dealer can request the purchase receipt when submitting the old oil.\n\nYou can hand in small amounts of waste oil from the pollutant mobile."
+  },
+  {
+    "ItemID": "asbest",
+    "ItemName_DE": "Asbest",
+    "ItemName_EN": "asbestos",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Asbest wurde als Baustoff in Gebäuden, Verbundbaustoff und in Geräten verwendet. Aufgrund der krebserregenden Eigenschaften, wird Asbest als Gefahrstoff eingestuft.",
+    "Notes_EN": "Asbestos was used as a building material in buildings, composite building material and devices.Due to the carcinogenic properties, asbestos is classified as a hazardous substance."
+  },
+  {
+    "ItemID": "asche_kalt",
+    "ItemName_DE": "Asche (kalt)",
+    "ItemName_EN": "Ash (cold)",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Asche völlig auskühlen lassen.",
+    "Notes_EN": "Let ashes cool completely."
+  },
+  {
+    "ItemID": "autobatterie",
+    "ItemName_DE": "Autobatterie",
+    "ItemName_EN": "Car battery",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Sie können verbrauchte Autobatterien kostenlos bei den Händlern bzw. Verkaufsstellen zurückgeben. Der  Händler verlangt beim Kauf einer neuen Autobatterie ein Pfand, das bei  der Rückgabe der alten Autobatterie wieder erstattet wird.\n\nAutobatterien werden nicht am Schadstoffmobil angenommen!",
+    "Notes_EN": "You can return used car batteries free of charge at the dealers or sales outlets.When buying a new car battery, the dealer demands a deposit that will be reimbursed when returning the old car battery.\n\nCar batteries are not adopted on the pollutant mobile!"
+  },
+  {
+    "ItemID": "autowrack",
+    "ItemName_DE": "Autowrack",
+    "ItemName_EN": "Car",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Alte Fahrzeuge sind anerkannten Annahme- und Rücknahmestellen oder anerkannten Demontagebetrieben (Kfz Werkstätten) zu überlassen. Kraftfahrzeugteile gehören nicht zum Sperrmüll!",
+    "Notes_EN": "Old vehicles are to be left to recognized acceptance and return offices or recognized dismantling drives (motor vehicle workshops).Motor vehicle parts are not part of bulky waste!"
+  },
+  {
+    "ItemID": "babywindeln",
+    "ItemName_DE": "Babywindeln",
+    "ItemName_EN": "Baby diapers",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "batterie",
+    "ItemName_DE": "Batterie",
+    "ItemName_EN": "battery",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Batterien werden getrennt gesammelt und gehören nicht in den Restabfall.\n\nSeit 2009 gilt das Batteriegesetz in Deutschland. Der Handel ist danach verpflichtet, alte Gerätebatterien und Akkus kostenlos zurückzunehmen. Die kostenlose Abholung der Batterien bei den Sammelstellen der Stadt und beim Handel wird von der Stiftung Gemeinsames Rücknahmesystem Batterien (GRS) organisiert.",
+    "Notes_EN": "Batteries are collected separately and do not belong in the residual waste.\n\nThe battery law has been in Germany since 2009.The trade is then obliged to withdraw old device batteries and batteries free of charge.The free collection of the batteries at the city's collection points and trading is organized by the Foundation Common Returning System Batteries (GRS)."
+  },
+  {
+    "ItemID": "baumschnitt",
+    "ItemName_DE": "Baumschnitt",
+    "ItemName_EN": "Treetop",
+    "CorrectBin_Magdeburg": "Organic Waste Bin",
+    "Notes_DE": "Für die Abgabe von Grünabfall auf den Wertstoffhöfen gelten Gebührenregelungen. Die Stellung eines Grünabfallcontainers für einen einzelnen Haushalt ist gebühren-pflichtig.\n\nAnstelle einer gebührenfreien Sperrmüllabholung können Sie einmal jährlich 2 m³ gebündelten Baum- und Strauchschnitt zur Abholung kostenfrei anmelden.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Fee regulations apply to the submission of green waste at the recycling centers.The position of a green waste container for a single household is subject to a fee.\n\nInstead of a toll-free lock-up collection, you can register 2 m³ of bundled tree and shrub cuts for collection once a year.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "bauschutt",
+    "ItemName_DE": "Bauschutt",
+    "ItemName_EN": "Building rubble",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Bauschutt sind Stoffe, die bei Baumaßnahmen anfallen. Diese Materialien bestehen überwiegend aus mineralischen Bestandteilen und sind nicht chemisch verunreinigt.\n\nFür die Abgabe auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Building is substances that occur during construction work.These materials mainly consist of mineral components and are not chemically contaminated.\n\nFee regulations apply to the delivery at the recycling centers or for the container position.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "baustellenabfälle",
+    "ItemName_DE": "Baustellenabfälle",
+    "ItemName_EN": "Construction site waste",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Baustellenabfälle sind nicht chemisch verunreinigte Abfälle, die beim Neubau, Umbau, der Renovierung oder der Reparatur von Bauwerken anfallen.\n\nFür die Abgabe von Baustellenabfällen auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Construction site waste is not chemically contaminated waste that arises during the new building, renovation, renovation or repair of buildings.\n\nFee regulations apply to the submission of construction site waste at the recycling centers or the container position.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "bett",
+    "ItemName_DE": "Bett",
+    "ItemName_EN": "Bed",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Betten ohne Bettdecke und Kopfkissen gehören zum Sperrmüll. Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Beds without a duvet and pillow are part of the bulky waste.Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste at the recycling centers or for the container position.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "bettdecke",
+    "ItemName_DE": "Bettdecke",
+    "ItemName_EN": "Duvet",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Sie können gut erhaltende Bettdecken bei folgenden Einrichtungen direkt abgeben:\n\n- DRK, Kleiderkammer\n- Malteser Hilfsdienst",
+    "Notes_EN": "You can hand in well -preserved duvets directly from the following facilities:\n\n- DRK, clothing store\n- Maltese relief service"
+  },
+  {
+    "ItemID": "blumen",
+    "ItemName_DE": "Blumen",
+    "ItemName_EN": "Flowers",
+    "CorrectBin_Magdeburg": "Organic Waste Bin",
+    "Notes_DE": "Für die Abgabe von Grünabfall auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Fee regulations apply to the submission of green waste at the recycling centers or the container position.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "blumenkasten",
+    "ItemName_DE": "Blumenkasten",
+    "ItemName_EN": "Flower box",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste on the recycling centers.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "blumentopf",
+    "ItemName_DE": "Blumentopf",
+    "ItemName_EN": "Flowerpot",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "bodenaushub",
+    "ItemName_DE": "Bodenaushub",
+    "ItemName_EN": "Excavation",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Bodenaushub ist natürlich gewachsenes oder bereits verwendetes Erd- und Felsmaterial. Der Bodenaushub darf nicht nachteilig verändert oder mit anderem Abfall, wie z.B. Bauschutt oder Baustellenabfall, vermischt sein.\n\nFür die Abgabe von Bodenaushub auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Excavation excavation is of course grown or already used earth and rock material.The excavation excavation must not be disadvantageous or mixed with other waste, such as building rubble or construction site drop.\n\nFee regulations apply to the submission of soil excavation at the recycling centers or the container position.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "bücher",
+    "ItemName_DE": "Bücher",
+    "ItemName_EN": "Books",
+    "CorrectBin_Magdeburg": "Blue Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "bügeleisen",
+    "ItemName_DE": "Bügeleisen",
+    "ItemName_EN": "iron",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Bügeleisen gehören zu den Elektrokleingeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nKleine einzelne Geräte können Sie bei der Abfallberatung des Städtischen Abfallwirtschaftsbetriebes oder beim Schadstoffmobil gebührenfrei abgeben. Größere Mengen an Elektrokleingeräten aus privaten Haushalten können Sie kostenlos auf den Wertstoffhöfen abgeben.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es beim Gratis-Flohmarkt oder der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Irons belong to the electrical cladding devices that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nYou can hand over small individual devices to the waste advice from the municipal waste management company or the pollutant mobile.Larger amounts of electrical cleaning devices from private households can be handed over free of charge at the recycling centers.\n\nIf the electrical device is still useful, it can be offered at the free flea market or the free exchange."
+  },
+  {
+    "ItemID": "cds_dvds",
+    "ItemName_DE": "CDs, DVDs",
+    "ItemName_EN": "CDs, DVDs",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Bitte sammeln Sie CDs und DVDs . Diese werden an eine Recyclingfirma weitergegeben.\n\nCD -/ DVD -Hüllen die nicht zur dauerhafte Aufbewahrung des Datenträgers gedacht sind gehören in die Gelbe Tonne. Hüllen zur dauerhaften Aufbewarung sind Teil des Produkts und zählen damit nicht als Verpackung. Diese Hüllen können am Wertsoffhof und am Wertstoffmobil abggeben werden. Ist dies nicht möglich kann auch eine Enstorgung im Restabfall erfolgen.",
+    "Notes_EN": "Please collect CDs and DVDs.These are passed on to a recycling company.\n\nCD -/ DVD envelopes that are not intended for permanent storage of the data carrier are part of the yellow bin.Cases for permanent upset are part of the product and therefore do not count as packaging.These covers can be handed over at the value officer and the recycling mobile.If this is not possible, there may also be a supply in the residual waste."
+  },
+  {
+    "ItemID": "chemikalien",
+    "ItemName_DE": "Chemikalien",
+    "ItemName_EN": "Chemicals",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermis",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Liquids containing pollutants not missing together"
+  },
+  {
+    "ItemID": "computer",
+    "ItemName_DE": "Computer",
+    "ItemName_EN": "computer",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Computer gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es beim Gratis-Flohmarkt oder der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Computers are one of the electrical appliances that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection.\n\nIf the electrical device is still useful, it can be offered at the free flea market or the free exchange."
+  },
+  {
+    "ItemID": "couch",
+    "ItemName_DE": "Couch",
+    "ItemName_EN": "couch",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste at the recycling centers or for the container position.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "dvd",
+    "ItemName_DE": "DVD-",
+    "ItemName_EN": "DVD-",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Videogeräte, wie DVD- oder Blu-ray-Player, gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es beim Gratis-Flohmarkt oder der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Video devices, such as DVD or Blu-ray players, are among the electrical appliances that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection.\n\nIf the electrical device is still useful, it can be offered at the free flea market or the free exchange."
+  },
+  {
+    "ItemID": "dachpappe",
+    "ItemName_DE": "Dachpappe",
+    "ItemName_EN": "Roofing felt",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Dachpappen sind teer- oder bitumenhaltige Bahnen, die umweltbelastende Stoffe enthalten.\n\nFür die Abgabe von Dachpappe auf den Wertstoffhöfen gelten Gebührenregelungen.",
+    "Notes_EN": "Roofing sticks are tar or bitumen-containing railways that contain environmentally polluting fabrics.\n\nFee control regulations apply to the submission of roofing felt at the recycling centers."
+  },
+  {
+    "ItemID": "damenbinde",
+    "ItemName_DE": "Damenbinde",
+    "ItemName_EN": "Ladies' bond",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Entsorgen Sie Damenbinden und ähnliche Artikel nicht über die Toilette. Das führt zu Verstopfungen in den Rohrleitungen.",
+    "Notes_EN": "Do not dispose of women's bandages and similar items via the toilet.This leads to constipation in the pipelines."
+  },
+  {
+    "ItemID": "desinfektionsmittel",
+    "ItemName_DE": "Desinfektionsmittel",
+    "ItemName_EN": "Disinfectant",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "diskette",
+    "ItemName_DE": "Diskette",
+    "ItemName_EN": "diskette",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "dose",
+    "ItemName_DE": "Dose",
+    "ItemName_EN": "Can",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Sie können in den Geschäften pfandpflichtige Getränke-verpackungen zurückgeben.\n\nIn die Gelbe Tonne gehören Verpackungen, die mit dem Markenzeichen (Grüner Punkt) des DSD (Duales System Deutschland GmbH) gekennzeichnet sind.",
+    "Notes_EN": "You can return beverage packaging in the shops.\n\nThe yellow bin includes packaging, which are marked with the trademark (green dot) of the DSD (Duales System Deutschland GmbH)."
+  },
+  {
+    "ItemID": "dreirad",
+    "ItemName_DE": "Dreirad",
+    "ItemName_EN": "tricycle",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt. Für die Abgabe von Sperrmüll auf den Wertstoffhöfen gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.Fee regulations apply to the delivery of bulky waste on the recycling centers.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "drucker",
+    "ItemName_DE": "Drucker",
+    "ItemName_EN": "Printer",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Drucker gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es beim Gratis-Flohmarkt oder der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Printers are among the electrical appliances that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection.\n\nIf the electrical device is still useful, it can be offered at the free flea market or the free exchange."
+  },
+  {
+    "ItemID": "druckerpatrone",
+    "ItemName_DE": "Druckerpatrone",
+    "ItemName_EN": "Printer cartridge",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Druckerpatronen bestehen zu großen Teilen aus Kunststoff und Metallen. Sie gehören nicht in die Gelbe Tonne oder in den Restabfall!",
+    "Notes_EN": "Printer cartridges are largely made of plastic and metals.They do not belong in the yellow bin or in the residual waste!"
+  },
+  {
+    "ItemID": "düngemittel",
+    "ItemName_DE": "Düngemittel",
+    "ItemName_EN": "Fertilizer",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "eierschale",
+    "ItemName_DE": "Eierschale",
+    "ItemName_EN": "Eggshell",
+    "CorrectBin_Magdeburg": "Organic Waste Bin",
+    "Notes_DE": "Eierschalen sind kompostierbar.",
+    "Notes_EN": "Egg shells are compostable."
+  },
+  {
+    "ItemID": "eimer",
+    "ItemName_DE": "Eimer",
+    "ItemName_EN": "Bucket",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt. Für die Abgabe von Sperrmüll auf den Wertstoffhöfen gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.Fee regulations apply to the delivery of bulky waste on the recycling centers.\n\nPlease register your bulky waste early."
+  },
+  {
+    "ItemID": "einweggeschirr_besteck_sauber",
+    "ItemName_DE": "Einweggeschirr, Besteck (sauber)",
+    "ItemName_EN": "Disposable dishes, cutlery (clean)",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Vermeiden Sie Einweggeschirr.",
+    "Notes_EN": "Avoid disposable dishes."
+  },
+  {
+    "ItemID": "einweggeschirr_besteck_verschmutzt",
+    "ItemName_DE": "Einweggeschirr, Besteck (verschmutzt)",
+    "ItemName_EN": "Disposable dishes, cutlery (dirty)",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Vermeiden Sie Einweggeschirr. Verschmutztes Einweggeschirr ist für eine Verwertung nicht geeignet.",
+    "Notes_EN": "Avoid disposable dishes.Polluted disposable dishes are not suitable for recycling."
+  },
+  {
+    "ItemID": "elektroaltgerät",
+    "ItemName_DE": "Elektroaltgerät",
+    "ItemName_EN": "Electrical device",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "EDV-Geräte gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen.",
+    "Notes_EN": "EDP ​​devices are among the electrical appliances that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection."
+  },
+  {
+    "ItemID": "energiesparlampen",
+    "ItemName_DE": "Energiesparlampen",
+    "ItemName_EN": "Energy -saving lamps",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Energiesparlampen nicht in die Restabfalltonne oder Glascontainer entsorgen.\n\nWenn eine Energiesparlampe zerbricht, kehren Sie bitte die Splitter mit einem Papier zusammen und geben Sie den Bruch in einem festen Behälter bei den Sammelstellen ab. Verwenden Sie keinen Staubsauger, der die Schadstoffe in der Raumluft verteilt!\n\nDie Rückgabe von Energiesparlampen aus privaten Haushalten ist gebührenfrei",
+    "Notes_EN": "Do not dispose of energy -saving lamps into the residual waste bin or glass container.\n\nIf an energy -saving lamp breaks, please return the splinters with a paper and give the break in a fixed container at the collection points.Do not use a vacuum cleaner that distributes the pollutants in the room air!\n\nThe return of energy -saving lamps from private households is free of charge"
+  },
+  {
+    "ItemID": "entfroster",
+    "ItemName_DE": "Entfroster",
+    "ItemName_EN": "Frost",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "entkalker",
+    "ItemName_DE": "Entkalker",
+    "ItemName_EN": "Descaler",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "fahrrad",
+    "ItemName_DE": "Fahrrad",
+    "ItemName_EN": "Bicycle",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nPlease register your bulky waste early."
+  },
+  {
+    "ItemID": "farbreste_fester_zustand",
+    "ItemName_DE": "Farbreste, fester Zustand",
+    "ItemName_EN": "Color residues, solid condition",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Nur völlig ausgehärtete feste Farbreste gehören in die Restabfalltonne.",
+    "Notes_EN": "Only fully hardened solid color resists belong in the residual waste bin."
+  },
+  {
+    "ItemID": "farbreste_flüssiger_zustand",
+    "ItemName_DE": "Farbreste, flüssiger Zustand",
+    "ItemName_EN": "Color residues, liquid condition",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen\n- Achten Sie beim Kauf auf Umweltzeichen, wie z.B. der Blaue Engel.",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together\n- Pay attention to environmental signs when buying, such as the blue angel."
+  },
+  {
+    "ItemID": "federbett",
+    "ItemName_DE": "Federbett",
+    "ItemName_EN": "Feather bed",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Zerschlissenen Kopfkissen, Bettdecken oder Lumpen gehören in den Restabfall.\n\nSie können gut erhaltende Bettdecken bei folgenden Einrichtungen direkt abgeben:\n\n- DRK, Kleiderkammer\n- Malteser Hilfsdienst",
+    "Notes_EN": "Snacked pillows, duvets or rags belong in the residual waste.\n\nYou can hand in well -preserved duvets directly from the following facilities:\n\n- DRK, clothing store\n- Maltese relief service"
+  },
+  {
+    "ItemID": "federn_haare",
+    "ItemName_DE": "Federn, Haare",
+    "ItemName_EN": "Springs, hair",
+    "CorrectBin_Magdeburg": "Organic Waste Bin / Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "fernsehgerät",
+    "ItemName_DE": "Fernsehgerät",
+    "ItemName_EN": "Television",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Fernsehgeräte gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen.",
+    "Notes_EN": "TV devices are among the electrical appliances that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection."
+  },
+  {
+    "ItemID": "fett",
+    "ItemName_DE": "Fett",
+    "ItemName_EN": "Fat",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Fette und Öle dürfen nicht in den Restabfall oder über die Toilette in das Abwasser gelangen.",
+    "Notes_EN": "Fats and oils must not get into the wastewater in the residual waste or via the toilet."
+  },
+  {
+    "ItemID": "feuerlöscher",
+    "ItemName_DE": "Feuerlöscher",
+    "ItemName_EN": "Fire extinguisher",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Feuerlöscher müssen regelmäßig gewartet werden. Das Datum der letzten Prüfung steht auf der Prüfplakette.",
+    "Notes_EN": "Fire extinguishers must be serviced regularly.The date of the last exam is on the test sticker."
+  },
+  {
+    "ItemID": "flaschen",
+    "ItemName_DE": "Flaschen",
+    "ItemName_EN": "Bottle",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Bitte trennen Sie das Altglas nach den Farben Weiß, Grün und Braun. Anders farbiges Glas wird in den Grünglascontainer entsorgt.",
+    "Notes_EN": "Please separate the old glass according to the colors white, green and brown.Different colored glass is disposed of in the green glass container."
+  },
+  {
+    "ItemID": "non_packaging_glass",
+    "ItemName_DE": "Nichtverpackungsglas (Getränkegläser, Flachglas, Kristallglas, Bleiglas usw.)",
+    "ItemName_EN": "Non-Packaging Glass (Drinking Glasses, Flat Glass, Crystal Glass, Lead Glass, etc.)",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Nichtverpackungsglas darf nicht in den Glascontainer gegeben werden, da es eine andere Zusammensetzung hat. Nur Glasverpackungen (Glasflaschen und -gläser) gehören in die sortierten Glascontainer (weiß/grün/braun). Andere Gläser in den Restmüll.",
+    "Notes_EN": "Non-packaging glass must not be disposed of in the glass recycling containers due to its different composition. Glass packaging (bottles/jars) should go into sorted containers by white/green/brown. Other types belong in residual waste."
+  },
+  {
+    "ItemID": "fleckentferner",
+    "ItemName_DE": "Fleckentferner",
+    "ItemName_EN": "Stain remover",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "fliesen",
+    "ItemName_DE": "Fliesen",
+    "ItemName_EN": "Tiles",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Fliesen gehören zum Bauschutt.\n\nFür die Abgabe von Fliesen auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Tiles are part of the building rubble.\n\nFee regulations apply to the submission of tiles at the recycling centers or for the container position.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "foto",
+    "ItemName_DE": "Foto",
+    "ItemName_EN": "photo",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Fotopapier und Fotos sind beschichtet und können nicht wieder verwertet werden.",
+    "Notes_EN": "Photo paper and photos are coated and cannot be used again."
+  },
+  {
+    "ItemID": "fotoapparat",
+    "ItemName_DE": "Fotoapparat",
+    "ItemName_EN": "Camera",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Fotoapparate gehören zu den Elektrokleingeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nKleine einzelne Geräte können Sie bei der Abfallberatung des Städtischen Abfallwirtschaftsbetriebes oder beim Schadstoffmobil gebührenfrei abgeben. Größere Mengen an Elektrokleingeräten aus privaten Haushalten können Sie kostenlos auf den Wertstoffhöfen abgeben.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es beim Gratis-Flohmarkt oder der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Photo apparatus is one of the electrical appliances that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nYou can hand over small individual devices to the waste advice from the municipal waste management company or the pollutant mobile.Larger amounts of electrical cleaning devices from private households can be handed over free of charge at the recycling centers.\n\nIf the electrical device is still useful, it can be offered at the free flea market or the free exchange."
+  },
+  {
+    "ItemID": "fotochemikalien",
+    "ItemName_DE": "Fotochemikalien",
+    "ItemName_EN": "Photo chemicals",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "fussboden",
+    "ItemName_DE": "Fussboden",
+    "ItemName_EN": "Floor",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Für die Abgabe auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Fee regulations apply to the delivery at the recycling centers or for the container position.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "fussbodenbelag",
+    "ItemName_DE": "Fussbodenbelag",
+    "ItemName_EN": "Flooring",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt. Für die Abgabe auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\nLaminat, Parkett, Furnierparkett, Korkfußboden oder Massiv-holzdielen werden nicht mit dem Sperrmüll entsorgt! Diese Fußböden können Sie auf den Wertstoffhöfen abgeben.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.Fee regulations apply to the delivery at the recycling centers or for the container position.\n\nLaminate, parquet, veneer parquet, cork floor or solid wood flooring are not disposed of with bulky waste!You can hand in these floors at the recycling centers.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "föhn",
+    "ItemName_DE": "Föhn",
+    "ItemName_EN": "hairdryer",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Föhne gehören zu den Elektrokleingeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nKleine einzelne Geräte können Sie bei der Abfallberatung des Städtischen Abfallwirtschaftsbetriebes oder beim Schadstoffmobil gebührenfrei abgeben. Größere Mengen an Elektrokleingeräten aus privaten Haushalten können Sie kostenlos auf den Wertstoffhöfen abgeben.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es in der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Smowing is one of the electrical cladding devices that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nYou can hand over small individual devices to the waste advice from the municipal waste management company or the pollutant mobile.Larger amounts of electrical cleaning devices from private households can be handed over free of charge at the recycling centers.\n\nIf the electrical device is still useful, it can be offered in the free exchange."
+  },
+  {
+    "ItemID": "garten_und_grünabfälle",
+    "ItemName_DE": "Garten- und Grünabfälle",
+    "ItemName_EN": "Garden and green waste",
+    "CorrectBin_Magdeburg": "Organic Waste Bin",
+    "Notes_DE": "Für die Abgabe von Grünabfall auf den Wertstoffhöfen gelten Gebührenregelungen.\n\nDie Stellung eines Grünabfall-containers für einen einzelnen Haushalt ist gebührenpflichtig.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Fee regulations apply to the submission of green waste at the recycling centers.\n\nThe position of a green waste container for a single household is subject to a fee.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "gartenmöbel",
+    "ItemName_DE": "Gartenmöbel",
+    "ItemName_EN": "Garden furniture",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste at the recycling centers or for the container position.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "gartenschlauch",
+    "ItemName_DE": "Gartenschlauch",
+    "ItemName_EN": "Garden hose",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste on the recycling centers.\n\nPlease register your bulky waste early."
+  },
+  {
+    "ItemID": "gasflaschen_gaspatronen",
+    "ItemName_DE": "Gasflaschen, Gaspatronen",
+    "ItemName_EN": "Gas bottles, gas cartridges",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Leere Gasflaschen werden im Fachhandel dort wieder angenommen, wo sie gekauft wurden. Hinweis: Häufig handelt es sich um pfandflichtige Mehrwegflaschen.\n\nGasflaschen werden auf den Wertstoffhöfen angenommen.",
+    "Notes_EN": "Empty gas bottles are accepted in specialist retailers where they were bought.Note: Often it is a pledged reusable bottle.\n\nGas bottles are accepted at the recycling centers."
+  },
+  {
+    "ItemID": "gefrierschrank_truhe",
+    "ItemName_DE": "Gefrierschrank, -truhe",
+    "ItemName_EN": "Freezer, chest",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Gefriergeräte gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es beim Gratis-Flohmarkt oder der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Freezers are among the electrical appliances that have not been disposed of in residual waste since 2006 according to the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection.\n\nIf the electrical device is still useful, it can be offered at the free flea market or the free exchange."
+  },
+  {
+    "ItemID": "geschirr",
+    "ItemName_DE": "Geschirr",
+    "ItemName_EN": "Dishes",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "geschirrspüler",
+    "ItemName_DE": "Geschirrspüler",
+    "ItemName_EN": "Dishwasher",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Geschirrspüler gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen.",
+    "Notes_EN": "Dishwasher are among the electrical appliances that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection."
+  },
+  {
+    "ItemID": "getränkeverpackungen",
+    "ItemName_DE": "Getränkeverpackungen",
+    "ItemName_EN": "Drink packaging",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Verpackungen grob säubern.\n\nIn die Gelbe Tonne gehören Verpackungen, die mit dem Markenzeichen (Grüner Punkt) des DSD (Duales System Deutschland GmbH) gekennzeichnet sind.",
+    "Notes_EN": "Roughly clean packaging.\n\nThe yellow bin includes packaging, which are marked with the trademark (green dot) of the DSD (Duales System Deutschland GmbH)."
+  },
+  {
+    "ItemID": "glas",
+    "ItemName_DE": "Glas",
+    "ItemName_EN": "Glass",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Glas hat je nach Einsatzgebiet eine unterschiedliche Zusammensetzung daher dürfen Gläser wie z. B. Trinkgläser, Flachglas oder Bleiglas nicht in den Altglascontainern entsorgt werden.\n\nVerpackungsglas (Glasflaschen und Konservengläser) bitte in die dafür vorgesehenen Altglascontainer nach den Farben Weiß, Grün und Braun getrennt entsorgen. Anders farbiges Glas wird in den Grünglascontainer entsorgt.",
+    "Notes_EN": "Glass has a different composition depending on the area of ​​application, so glasses such asB. drinking glasses, flat glass or lead glass are not disposed of in the old glass containers.\n\nPlease dispose of the packaging glass (glass bottles and canned glasses) into the intended old glass containers according to the colors white, green and brown separately.Different colored glass is disposed of in the green glass container."
+  },
+  {
+    "ItemID": "glaswolle",
+    "ItemName_DE": "Glaswolle",
+    "ItemName_EN": "Glass wool",
+    "CorrectBin_Magdeburg": "Landfill (Specific)",
+    "Notes_DE": "Glaswolle gehört zu den künstlichen Mineralfaserabfällen.\n\nBitte melden Sie sich vor der Selbstanlieferung von Glaswolle auf der Deponie Hängelsberge (Telefon: 0391 635 7274) an.",
+    "Notes_EN": "Glass wool is one of the artificial mineral fiber waste.\n\nPlease register at the Hängelsberge landfill (telephone: 0391 635 7274) before delivery of glass wool."
+  },
+  {
+    "ItemID": "glühbirne",
+    "ItemName_DE": "Glühbirne",
+    "ItemName_EN": "Light bulb",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "In die Restabfalltonne können die herkömmlichen Glühlampen und die meisten Halogenglühlampen entsorgt werden.\n\nHalogenglühlampen mit eingebautem Vorschaltgerät gehören zu den Elektroaltgeräten und müssen deshalb bei der Abfallberatung in der Sternstraße 13, beim Schadstoffmobil oder auf den Wertstoffhöfen abgeben werden.",
+    "Notes_EN": "The conventional incandescent lamps and most halogen smooth lamps can be disposed of in the residual waste bin.\n\nHalogen light lamps with a built -in ballast belong to the electrical devices and must therefore be handed over to waste advice at Sternstraße 13, at the pollutant mobile or at the recycling centers."
+  },
+  {
+    "ItemID": "grillanzünder",
+    "ItemName_DE": "Grillanzünder",
+    "ItemName_EN": "Grill lighter",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermische",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "gummi",
+    "ItemName_DE": "Gummi",
+    "ItemName_EN": "rubber",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "haare_federn",
+    "ItemName_DE": "Haare, Federn",
+    "ItemName_EN": "Hair, springs",
+    "CorrectBin_Magdeburg": "Organic Waste Bin / Residual Waste Bin",
+    "Notes_DE": "Haare, die im Waschbecken oder in der Toilette entsorgt werden, können zu Verstopfungen in den Abwasserrohrleitungen führen.",
+    "Notes_EN": "Hairs that are disposed of in the sink or in the toilet can lead to blockages in the sewage pipes."
+  },
+  {
+    "ItemID": "haarfärbemittel",
+    "ItemName_DE": "Haarfärbemittel",
+    "ItemName_EN": "Hair dye",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "handy",
+    "ItemName_DE": "Handy",
+    "ItemName_EN": "Cell phone",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Handys gehören zu den Elektrokleingeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nKleine einzelne Geräte können Sie bei der Abfallberatung des Städtischen Abfallwirtschaftsbetriebes oder beim Schadstoffmobil gebührenfrei abgeben. Größere Mengen an Elektrokleingeräten aus privaten Haushalten können Sie kostenlos auf den Wertstoffhöfen abgeben.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es beim Gratis-Flohmarkt oder der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Cell phones belong to the electrical cleaning devices that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nYou can hand over small individual devices to the waste advice from the municipal waste management company or the pollutant mobile.Larger amounts of electrical cleaning devices from private households can be handed over free of charge at the recycling centers.\n\nIf the electrical device is still useful, it can be offered at the free flea market or the free exchange."
+  },
+  {
+    "ItemID": "haushaltsgeräte",
+    "ItemName_DE": "Haushaltsgeräte",
+    "ItemName_EN": "Household appliances",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Haushaltsgeräte gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen.",
+    "Notes_EN": "Household appliances are among the electrical appliances that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection."
+  },
+  {
+    "ItemID": "heizkörper",
+    "ItemName_DE": "Heizkörper",
+    "ItemName_EN": "radiator",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Heizkörper werden nicht bei der Sperrmüllsammlung abgeholt.",
+    "Notes_EN": "Radiators are not picked up at the bulky waste collection."
+  },
+  {
+    "ItemID": "herd",
+    "ItemName_DE": "Herd",
+    "ItemName_EN": "Stove",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Herde gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen.",
+    "Notes_EN": "Herd are among the electrical devices that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection."
+  },
+  {
+    "ItemID": "holz",
+    "ItemName_DE": "Holz",
+    "ItemName_EN": "Wood",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Abbruchholz fällt beim Neubau, Umbau, der Renovierung oder der Reparatur von Bauwerken an. Laminat, Parkett, Furnierparkett oder Massivholzdielen gehören hierzu.\n\nFür die Abgabe von Bau- und Abbruchholz auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Demolition is incurred during the new building, conversion, renovation or repair of buildings.This includes laminate, parquet, veneer parquet or solid wood flooring.\n\nFee regulations apply to the submission of construction and demolition wood on the recycling centers or the container position.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "holzschutzmittel",
+    "ItemName_DE": "Holzschutzmittel",
+    "ItemName_EN": "Wood preservative",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "holzzaun",
+    "ItemName_DE": "Holzzaun",
+    "ItemName_EN": "Wooden fence",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Holzzäune gehören nicht zum Sperrmüll.\n\nFür die Abgabe von Abfall auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Wood fences are not part of bulky waste.\n\nFee regulations apply to the submission of waste at the recycling centers or the container position.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "hygieneartikel",
+    "ItemName_DE": "Hygieneartikel",
+    "ItemName_EN": "Hygiene articles",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Entsorgen Sie bitte Hygieneartikel nicht über die Toilette. Das führt zu Verstopfungen in den Abwasserrohrleitungen.",
+    "Notes_EN": "Please do not dispose of hygiene items via the toilet.This leads to constipation in the sewage pipes."
+  },
+  {
+    "ItemID": "imprägniermittel",
+    "ItemName_DE": "Imprägniermittel",
+    "ItemName_EN": "Impregnation",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "inkontinenzartikel",
+    "ItemName_DE": "Inkontinenzartikel",
+    "ItemName_EN": "Incontinence articles",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Inkontinenzartikel nicht über die Toilette entsorgen. Das führt zu Verstopfungen in den Abwasserrohrleitungen.",
+    "Notes_EN": "Do not dispose of incontinence items via the toilet.This leads to constipation in the sewage pipes."
+  },
+  {
+    "ItemID": "insektenbekämpfungsmittel_insektizid",
+    "ItemName_DE": "Insektenbekämpfungsmittel (Insektizid)",
+    "ItemName_EN": "Insect assemblies (insecticide)",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "jalousie_aussen",
+    "ItemName_DE": "Jalousie, aussen",
+    "ItemName_EN": "Blind, outside",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Baustellenabfälle sind nicht chemisch verunreinigte Abfälle, die beim Neubau, Umbau, der Renovierung oder der Reparatur von Bauwerken anfallen.\n\nFür die Abgabe von Baustellenabfällen auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Construction site waste is not chemically contaminated waste that arises during the new building, renovation, renovation or repair of buildings.\n\nFee regulations apply to the submission of construction site waste at the recycling centers or the container position.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "jalousie_innen",
+    "ItemName_DE": "Jalousie, innen",
+    "ItemName_EN": "Blind, inside",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nPlease register your bulky waste early."
+  },
+  {
+    "ItemID": "jogurtbecher",
+    "ItemName_DE": "Jogurtbecher",
+    "ItemName_EN": "Yoghurt cup",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Verpackungen grob säubern. In die Gelbe Tonne gehören Verpackungen, die mit dem Markenzeichen (Grüner Punkt) des DSD (Duales System Deutschland GmbH) gekennzeichnet sind.",
+    "Notes_EN": "Roughly clean packaging.The yellow bin includes packaging, which are marked with the trademark (green dot) of the DSD (Duales System Deutschland GmbH)."
+  },
+  {
+    "ItemID": "kaffeemaschine",
+    "ItemName_DE": "Kaffeemaschine",
+    "ItemName_EN": "Coffee machine",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Kaffeemaschinen gehören zu den Elektrokleingeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nKleine einzelne Geräte können Sie bei der Abfallberatung des Städtischen Abfallwirtschaftsbetriebes oder beim Schadstoffmobil gebührenfrei abgeben. Größere Mengen an Elektrokleingeräten aus privaten Haushalten können Sie kostenlos auf den Wertstoffhöfen abgeben.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es beim Gratis-Flohmarkt oder der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Coffee machines are one of the electrical appliances that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nYou can hand over small individual devices to the waste advice from the municipal waste management company or the pollutant mobile.Larger amounts of electrical cleaning devices from private households can be handed over free of charge at the recycling centers.\n\nIf the electrical device is still useful, it can be offered at the free flea market or the free exchange."
+  },
+  {
+    "ItemID": "kaffeesatz",
+    "ItemName_DE": "Kaffeesatz",
+    "ItemName_EN": "Coffee grounds",
+    "CorrectBin_Magdeburg": "Organic Waste Bin",
+    "Notes_DE": "Kaffeesatz mit Kaffeefilter ist kompostierbar.",
+    "Notes_EN": "Coffee grounds with a coffee filter can be compostable."
+  },
+  {
+    "ItemID": "kamelitwolle",
+    "ItemName_DE": "Kamelitwolle",
+    "ItemName_EN": "Camels",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Kamelitwolle ist eine umgangssprachliche Bezeichnung für Glaswolle. Diese gehört zu den künstlichen Mineralfaserabfällen.\n\nBitte melden Sie sich vor der Selbstanlieferung von Glaswolle auf der Deponie Hängelsberge (Telefon: 0391 635 7274) an.",
+    "Notes_EN": "Camelital wool is a colloquial name for glass wool.This is one of the artificial mineral fiber waste.\n\nPlease register at the Hängelsberge landfill (telephone: 0391 635 7274) before delivery of glass wool."
+  },
+  {
+    "ItemID": "kanüle",
+    "ItemName_DE": "Kanüle",
+    "ItemName_EN": "Cannula",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Spitze oder scharfe Gegenstände sind in bruchsicheren, stich- und schnittfesten Behältern in die Restabfalltonne zu entsorgen.",
+    "Notes_EN": "Pointed or sharp objects must be disposed of in the residual waste bin in shatterproof, stab-resistant and cutting-resistant containers."
+  },
+  {
+    "ItemID": "karosserie",
+    "ItemName_DE": "Karosserie",
+    "ItemName_EN": "body",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Alte Fahrzeuge sind anerkannten Annahme- und Rücknahmestellen oder anerkannten Demontagebetrieben (Kfz Werkstätten) zu überlassen. Kraftfahrzeugteile gehören nicht zum Sperrmüll!",
+    "Notes_EN": "Old vehicles are to be left to recognized acceptance and return offices or recognized dismantling drives (motor vehicle workshops).Motor vehicle parts are not part of bulky waste!"
+  },
+  {
+    "ItemID": "katalog",
+    "ItemName_DE": "Katalog",
+    "ItemName_EN": "catalog",
+    "CorrectBin_Magdeburg": "Blue Bin",
+    "Notes_DE": "In die Blaue Tonne gehören Zeitungen, Zeitschriften, Schreibpapier, Kartons, Papierschachteln, Prospekte, Verpackungspapier und Büropapier.",
+    "Notes_EN": "The blue bin includes newspapers, magazines, writing paper, boxes, paper boxes, brochures, packaging paper and office paper."
+  },
+  {
+    "ItemID": "katzenstreu",
+    "ItemName_DE": "Katzenstreu",
+    "ItemName_EN": "Cat litter",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "kehricht",
+    "ItemName_DE": "Kehricht",
+    "ItemName_EN": "Bend",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "kerze",
+    "ItemName_DE": "Kerze",
+    "ItemName_EN": "Candle",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "kinderautositz",
+    "ItemName_DE": "Kinderautositz",
+    "ItemName_EN": "Children's car seat",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste on the recycling centers.\n\nPlease register your bulky waste early."
+  },
+  {
+    "ItemID": "kinderwagen",
+    "ItemName_DE": "Kinderwagen",
+    "ItemName_EN": "Stroller",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste on the recycling centers.\n\nPlease register your bulky waste early."
+  },
+  {
+    "ItemID": "klarsichthülle",
+    "ItemName_DE": "Klarsichthülle",
+    "ItemName_EN": "Transparent cover",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Klarsichthüllen sind keine Verpackungen und gehören nicht in die Gelbe Tonne!",
+    "Notes_EN": "Clear -cars are not packaging and do not belong in the yellow bin!"
+  },
+  {
+    "ItemID": "klebstoffe_fester_zustand",
+    "ItemName_DE": "Klebstoffe (fester Zustand)",
+    "ItemName_EN": "Adhesives (solid condition)",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Völlig ausgehärtete feste Klebstoffreste gehören in die Restabfalltonne.",
+    "Notes_EN": "Completely hardened solid adhesive residues belong in the residual waste bin."
+  },
+  {
+    "ItemID": "klebstoffe_flüssiger_zustand",
+    "ItemName_DE": "Klebstoffe (flüssiger Zustand)",
+    "ItemName_EN": "Adhesives (liquid condition)",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "klebstofftube_geleert",
+    "ItemName_DE": "Klebstofftube (geleert)",
+    "ItemName_EN": "Adhesive tube (empty)",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Verpackungen ohne Inhaltstoffe entsorgen. In die Gelbe Tonne gehören Verpackungen, die mit dem Markenzeichen (Grüner Punkt) des DSD (Duales System Deutschland GmbH) gekennzeichnet sind.",
+    "Notes_EN": "Dispose of the packaging without ingredients.The yellow bin includes packaging, which are marked with the trademark (green dot) of the DSD (Duales System Deutschland GmbH)."
+  },
+  {
+    "ItemID": "kleidung",
+    "ItemName_DE": "Kleidung",
+    "ItemName_EN": "Clothing",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "direkte Abgabe gut erhaltener Kleidung bei folgenden Einrichtungen:\n\n- DRK, Kleiderkammer\n- Malteser Hilfsdienst\n- Magdeburger Stadtmission e.V.\n- Adventsgemeinde",
+    "Notes_EN": "Direct delivery of well -preserved clothing at the following facilities:\n\n- DRK, clothing store\n- Maltese relief service\n- Magdeburg city mission e.v.\n- Advent community"
+  },
+  {
+    "ItemID": "kleintierstreu",
+    "ItemName_DE": "Kleintierstreu",
+    "ItemName_EN": "Small animal litter",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Katzenstreu gehört in die Restabfalltonne!",
+    "Notes_EN": "Cat litter belongs in the residual waste bin!"
+  },
+  {
+    "ItemID": "kloschüssel",
+    "ItemName_DE": "Kloschüssel",
+    "ItemName_EN": "Toilet bowl",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Bauschutt sind mineralische Stoffe, die bei Baumaßnahmen anfallen. Diese Materialien bestehen überwiegend aus mineralischen Bestandteilen und sind nicht chemisch verunreinigt. Für die Abgabe von Bauschutt auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Building rubble are mineral substances that occur during construction work.These materials mainly consist of mineral components and are not chemically contaminated.Fee regulations apply to the submission of rubble at the recycling centers or for the container position.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "knochen",
+    "ItemName_DE": "Knochen",
+    "ItemName_EN": "Bone",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Geringe Mengen an Knochen aus privaten Haushalten entsorgen Sie bitte in der Restabfalltonne.",
+    "Notes_EN": "Please dispose of small amounts of bones from private households in the residual waste bin."
+  },
+  {
+    "ItemID": "kochtopf_pfanne_metall",
+    "ItemName_DE": "Kochtopf, Pfanne (Metall)",
+    "ItemName_EN": "Pot, pan (metal)",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "--------",
+    "Notes_EN": "---------"
+  },
+  {
+    "ItemID": "koffer",
+    "ItemName_DE": "Koffer",
+    "ItemName_EN": "Suitcase",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste on the recycling centers.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "konservendose",
+    "ItemName_DE": "Konservendose",
+    "ItemName_EN": "Nuclear box",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Verpackungen grob säubern.\n\nIn die Gelbe Tonne gehören Verpackungen, die mit dem Markenzeichen (Grüner Punkt) des DSD (Duales System Deutschland GmbH) gekennzeichnet sind.",
+    "Notes_EN": "Roughly clean packaging.\n\nThe yellow bin includes packaging, which are marked with the trademark (green dot) of the DSD (Duales System Deutschland GmbH)."
+  },
+  {
+    "ItemID": "korken",
+    "ItemName_DE": "Korken",
+    "ItemName_EN": "Cork",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Die gesammelten Korken werden zur Werkstatt für Behinderte nach Kehl-Kork transportiert und dort weiterverarbeitet (Recyclingaktion „Korken für Kork“).",
+    "Notes_EN": "The collected cork are transported to the workshop for the disabled by Kehl-Kork and processed there (recycling campaign \"Cork for Cork\")."
+  },
+  {
+    "ItemID": "korkfussboden",
+    "ItemName_DE": "Korkfussboden",
+    "ItemName_EN": "Cork floor",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Korkfußboden wird nicht über die Sperrmüllsammlung mit abgeholt!\n\nFür die Abgabe von Baustellenabfällen auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Cork flooring is not picked up via the bulky waste collection!\n\nFee regulations apply to the submission of construction site waste at the recycling centers or the container position.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "käfig",
+    "ItemName_DE": "Käfig",
+    "ItemName_EN": "cage",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste on the recycling centers.\n\nPlease register your bulky waste early."
+  },
+  {
+    "ItemID": "led_lampe",
+    "ItemName_DE": "LED Lampe",
+    "ItemName_EN": "LED lamp",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "LED (Light Emitting Diode - lichtemittierende Diode) Lampen enthalten elektronische Bestandteile und gehören zu den Elektroaltgeräten. Aus diesem Grund gehören sie nicht in den Restabfall und werden nicht in die Glascontainer entsorgt.",
+    "Notes_EN": "LED (light emitting diode - light -emitting diode) Lamps contain electronic components and belong to the electrical devices.For this reason, they do not belong in the residual waste and are not disposed of in the glass containers."
+  },
+  {
+    "ItemID": "lack_fester_zustand",
+    "ItemName_DE": "Lack (fester Zustand)",
+    "ItemName_EN": "Lacquer (solid condition)",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Völlig ausgehärtete feste Farbreste gehören in die Restabfalltonne.",
+    "Notes_EN": "Completely hardened solid color residues belong in the residual waste bin."
+  },
+  {
+    "ItemID": "lack_flüssiger_zustand",
+    "ItemName_DE": "Lack (flüssiger Zustand)",
+    "ItemName_EN": "Lacquer (liquid condition)",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen\n- Achten Sie beim Kauf auf Umweltzeichen, wie z.B. der Blaue Engel.",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together\n- Pay attention to environmental signs when buying, such as the blue angel."
+  },
+  {
+    "ItemID": "laminatboden",
+    "ItemName_DE": "Laminatboden",
+    "ItemName_EN": "Laminate flooring",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Laminatboden wird nicht über die Sperrmüllsammlung abgeholt!\n\nFür die Abgabe auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Laminate flooring is not picked up via the bulky waste collection!\n\nFee regulations apply to the delivery at the recycling centers or for the container position.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "lampe",
+    "ItemName_DE": "Lampe",
+    "ItemName_EN": "lamp",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nPlease register your bulky waste early."
+  },
+  {
+    "ItemID": "lasur",
+    "ItemName_DE": "Lasur",
+    "ItemName_EN": "glaze",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen\n- Achten Sie beim Kauf auf Umweltzeichen, wie z.B. der Blaue Engel.",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together\n- Pay attention to environmental signs when buying, such as the blue angel."
+  },
+  {
+    "ItemID": "laub",
+    "ItemName_DE": "Laub",
+    "ItemName_EN": "leaves",
+    "CorrectBin_Magdeburg": "Organic Waste Bin",
+    "Notes_DE": "Für die Abgabe von Grünabfall auf den Wertstoffhöfen gelten Gebührenregelungen. Die Stellung eines Grünabfallcontainers für einen einzelnen Haushalt ist gebühren-pflichtig.\n\nAnstelle einer gebührenfreien Sperrmüllabholung können Sie einmal jährlich 2 m³ gebündelten Baum- und Strauchschnitt zur Abholung kostenfrei anmelden.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Fee regulations apply to the submission of green waste at the recycling centers.The position of a green waste container for a single household is subject to a fee.\n\nInstead of a toll-free lock-up collection, you can register 2 m³ of bundled tree and shrub cuts for collection once a year.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "lauge",
+    "ItemName_DE": "Lauge",
+    "ItemName_EN": "Lye",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "leder",
+    "ItemName_DE": "Leder",
+    "ItemName_EN": "leather",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Lederreste gehören in die Restabfalltonne. Polstermöbel mit Lederbestandteilen werden über die Sperrmüllsammlung entsorgt.",
+    "Notes_EN": "Leather remains belong in the residual waste bin.Upholstered furniture with leather components is disposed of via the bulky waste collection."
+  },
+  {
+    "ItemID": "leim_fester_zustand",
+    "ItemName_DE": "Leim (fester Zustand)",
+    "ItemName_EN": "Glue (solid condition)",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Völlig ausgehärtete feste Leimreste gehören in die Restabfalltonne.",
+    "Notes_EN": "Completely hardened fixed glue residues belong in the residual waste bin."
+  },
+  {
+    "ItemID": "leim_flüssiger_zustand",
+    "ItemName_DE": "Leim (flüssiger Zustand)",
+    "ItemName_EN": "Glue (liquid condition)",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen\n- Achten Sie beim Kauf auf Umweltzeichen, wie z.B. der Blaue Engel.",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together\n- Pay attention to environmental signs when buying, such as the blue angel."
+  },
+  {
+    "ItemID": "leuchte",
+    "ItemName_DE": "Leuchte",
+    "ItemName_EN": "light",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Leuchten gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen. Melden Sie bitte Ihren Sperrmüll frühzeitig an.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es beim Gratis-Flohmarkt oder der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Luminaires are among the electrical appliances that have not been disposed of in residual waste since 2006 according to the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection.Please register your bulky waste early.\n\nIf the electrical device is still useful, it can be offered at the free flea market or the free exchange."
+  },
+  {
+    "ItemID": "leuchtstoffröhre",
+    "ItemName_DE": "Leuchtstoffröhre",
+    "ItemName_EN": "Fluorescent tube",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Konventionelle Leuchtstoffröhren (umgangssprachlich Neonröhren) enthalten geringe Mengen an schädlichem Quecksilber und Leuchtstoffen. Aus diesem Grund gehören Leuchtstoffröhren nicht in den Restabfall und werden nicht in die Glascontainer entsorgt. LED (Light Emitting Diode - lichtemittierende Diode) –Röhren enthalten elektronische Bestandteile und gehören somit zu den Elektroaltgeräten. Aus diesem Grund gehören LED Lampen ebenfalls nicht in den Restabfall oder in die Glascontainer .",
+    "Notes_EN": "Conventional fluorescent tubes (colloquially neon tubes) contain small amounts of harmful mercury and fluorescent.For this reason, fluorescent tubes do not belong in residual waste and are not disposed of in the glass containers.LED (light emitting diode - light -emitting diode) - tubes contain electronic components and are therefore one of the electrical devices.For this reason, LED lamps also do not belong in residual waste or in the glass container."
+  },
+  {
+    "ItemID": "linoleum",
+    "ItemName_DE": "Linoleum",
+    "ItemName_EN": "linoleum",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste at the recycling centers or for the container position.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "lumpen",
+    "ItemName_DE": "Lumpen",
+    "ItemName_EN": "Rag",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Lumpen gehören nicht in die Textilcontainer oder Altkleidersammlung.",
+    "Notes_EN": "Lumps do not belong in the textile containers or old clothing collection."
+  },
+  {
+    "ItemID": "mp3_gerät",
+    "ItemName_DE": "MP3 Gerät",
+    "ItemName_EN": "MP3 device",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "MP3-Geräte gehören zu den Elektrokleingeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nKleine einzelne Geräte können Sie bei der Abfallberatung des Städtischen Abfallwirtschaftsbetriebes oder beim Schadstoffmobil gebührenfrei abgeben. Größere Mengen an Elektrokleingeräten aus privaten Haushalten können Sie kostenlos auf den Wertstoffhöfen abgeben.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es beim Gratis-Flohmarkt oder der Gratis-Börse angeboten werden.",
+    "Notes_EN": "MP3 devices are among the electrical clinic devices that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nYou can hand over small individual devices to the waste advice from the municipal waste management company or the pollutant mobile.Larger amounts of electrical cleaning devices from private households can be handed over free of charge at the recycling centers.\n\nIf the electrical device is still useful, it can be offered at the free flea market or the free exchange."
+  },
+  {
+    "ItemID": "mal_und_filzstifte",
+    "ItemName_DE": "Mal- und Filzstifte",
+    "ItemName_EN": "Painting and felt pens",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "------",
+    "Notes_EN": "-------"
+  },
+  {
+    "ItemID": "old_paint",
+    "ItemName_DE": "Altgemälze (fest)",
+    "ItemName_EN": "Old Paint (Solid State)",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Vollständig geronnene Reste gehören in den Restmüll.",
+    "Notes_EN": "Completely hardened residues belong in the residual waste bin."
+  },
+  {
+    "ItemID": "maschendrahtzaun",
+    "ItemName_DE": "Maschendrahtzaun",
+    "ItemName_EN": "Chain link fence",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nDie Einzelstücke bei der Sperrmüllsammlung dürfen höchstens ein Gewicht von 75 kg haben und die Einzelmaße von 2,20 m x 1,50 m x 0,75 m nicht überschreiten.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nThe unique pieces in the bulky waste collection may at most have a weight of 75 kg and do not exceed the individual dimensions of 2.20 m x 1.50 m x 0.75 m.\n\nPlease register your bulky waste early."
+  },
+  {
+    "ItemID": "matratze",
+    "ItemName_DE": "Matratze",
+    "ItemName_EN": "mattress",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste at the recycling centers or for the container position.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "medikamente",
+    "ItemName_DE": "Medikamente",
+    "ItemName_EN": "Medication",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point / Residual Waste Bin",
+    "Notes_DE": "Altmedikamente bitte so verpackt in die Restabfalltonne entsorgen, dass sie vor einem Zugriff gesichert sind.\n\nSichere Entsorgungswege für Altmedikamente sind die Abgabe beim Schadstoffmobil, bei der Schadstoffsammlung oder die Abgabe in der Apotheke.\n\n- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen\n- Medikamente nicht über die Spüle oder Toilette entsorgen",
+    "Notes_EN": "Please dispose of old medication packed in the residual waste bin so that they are secured before access.\n\nSafe disposal routes for old medication are the delivery of the pollutant mobile, in the collection of pollutants or the delivery in the pharmacy.\n\n- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together\n- Do not dispose of medication via the sink or toilet"
+  },
+  {
+    "ItemID": "metalle",
+    "ItemName_DE": "Metalle",
+    "ItemName_EN": "Metals",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Altmetalle sind z.B. Fahrräder, Bettgestelle, Zinkbadewannen, Schubkarren oder Wäschepfähle. Autoteile gehören nicht dazu!\n\nSperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.",
+    "Notes_EN": "Old metals are e.g. bicycles, bed frames, zinc bathtubs, wheelbarrows or laundry piles.Auto parts are not one of them!\n\nBewer items are picked up via the bulky waste collection after prior registration.\n\nPlease register your bulky waste early."
+  },
+  {
+    "ItemID": "metallzaun",
+    "ItemName_DE": "Metallzaun",
+    "ItemName_EN": "Metal fence",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nDie Einzelstücke bei der Sperrmüllsammlung dürfen höchstens ein Gewicht von 75 kg haben und die Einzelmaße von 2,20 m x 1,50 m x 0,75 m nicht überschreiten.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nThe unique pieces in the bulky waste collection may at most have a weight of 75 kg and do not exceed the individual dimensions of 2.20 m x 1.50 m x 0.75 m.\n\nPlease register your bulky waste early."
+  },
+  {
+    "ItemID": "mikrowelle",
+    "ItemName_DE": "Mikrowelle",
+    "ItemName_EN": "microwave",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Mikrowellen gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen.",
+    "Notes_EN": "Microwaves are one of the electrical appliances that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection."
+  },
+  {
+    "ItemID": "milchkarton",
+    "ItemName_DE": "Milchkarton",
+    "ItemName_EN": "Milk carton",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Verpackungen grob säubern. In die Gelbe Tonne gehören Verpackungen, die mit dem Markenzeichen (Grüner Punkt) des DSD (Duales System Deutschland GmbH) gekennzeichnet sind.",
+    "Notes_EN": "Roughly clean packaging.The yellow bin includes packaging, which are marked with the trademark (green dot) of the DSD (Duales System Deutschland GmbH)."
+  },
+  {
+    "ItemID": "mineralwolle",
+    "ItemName_DE": "Mineralwolle",
+    "ItemName_EN": "Mineral wool",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Mineralwolle gehört zu den künstlichen Mineralfaserabfällen. Bitte melden Sie sich vor der Selbstanlieferung von Mineralwolle auf der Deponie Hängelsberge (Telefon: 0391 635 7274) an.",
+    "Notes_EN": "Mineral wool is one of the artificial mineral fiber waste.Please register at the Hängelsberge landfill (telephone: 0391 635 7274) before delivery of mineral wool."
+  },
+  {
+    "ItemID": "monitor",
+    "ItemName_DE": "Monitor",
+    "ItemName_EN": "monitor",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Monitore gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen.",
+    "Notes_EN": "Monitors are among the electrical appliances that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection."
+  },
+  {
+    "ItemID": "musikkasette",
+    "ItemName_DE": "Musikkasette",
+    "ItemName_EN": "Music cassette",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "möbel",
+    "ItemName_DE": "Möbel",
+    "ItemName_EN": "Furniture",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Betten ohne Bettdecke und Kopfkissen gehören zum Sperrmüll. Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Beds without a duvet and pillow are part of the bulky waste.Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste at the recycling centers or for the container position.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "nachtspeicherofen",
+    "ItemName_DE": "Nachtspeicherofen",
+    "ItemName_EN": "Night storage oven",
+    "CorrectBin_Magdeburg": "Specialist Company",
+    "Notes_DE": "Der Abbau und die Entsorgung sollten von einer sachkundigen Firma erfolgen.",
+    "Notes_EN": "The dismantling and disposal should be carried out by a knowledgeable company."
+  },
+  {
+    "ItemID": "nagellack_fester_zustand",
+    "ItemName_DE": "Nagellack (fester Zustand)",
+    "ItemName_EN": "Nail polish (solid condition)",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Völlig ausgehärteter fester Nagellack gehört in die Restabfalltonne.",
+    "Notes_EN": "Completely hardened solid nail polish belongs to the residual waste bin."
+  },
+  {
+    "ItemID": "nagellack_flüssiger_zustand",
+    "ItemName_DE": "Nagellack (flüssiger Zustand)",
+    "ItemName_EN": "Nail polish (liquid condition)",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "nagellackentferner",
+    "ItemName_DE": "Nagellackentferner",
+    "ItemName_EN": "nail polish remover",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "neonröhre",
+    "ItemName_DE": "Neonröhre",
+    "ItemName_EN": "Neon tube",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Konventionelle Leuchtstoffröhren (umgangssprachlich Neonröhren) enthalten geringe Mengen an schädlichem Quecksilber und Leuchtstoffen. Aus diesem Grund gehören Leuchtstoffröhren nicht in den Restabfall und werden nicht in die Glascontainer entsorgt.",
+    "Notes_EN": "Conventional fluorescent tubes (colloquially neon tubes) contain small amounts of harmful mercury and fluorescent.For this reason, fluorescent tubes do not belong in residual waste and are not disposed of in the glass containers."
+  },
+  {
+    "ItemID": "nähmaschine",
+    "ItemName_DE": "Nähmaschine",
+    "ItemName_EN": "sewing machine",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Elektrische Nähmaschinen gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen.",
+    "Notes_EN": "Electric sewing machines are among the electrical appliances that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection."
+  },
+  {
+    "ItemID": "obstreste",
+    "ItemName_DE": "Obstreste",
+    "ItemName_EN": "Obstacle",
+    "CorrectBin_Magdeburg": "Organic Waste Bin",
+    "Notes_DE": "Obstreste lassen sich kompostieren. Küchenabfälle mit anderen Materialien vermischen, um keine Tiere anzulocken.",
+    "Notes_EN": "Obstrests can be composted.Mix kitchen waste with other materials so as not to attract animals."
+  },
+  {
+    "ItemID": "orangenschale",
+    "ItemName_DE": "Orangenschale",
+    "ItemName_EN": "Orange peel",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Orangenschalen und andere Schalen von Südfrüchten lassen sich in kleineren Mengen kompostieren.\n\n- Was gehört in die Biotonne ?\n- Abfallberatung",
+    "Notes_EN": "Orange peels and other shells of south fruits can be composted in smaller quantities.\n\n- What belongs in the bio bin?\n- Waste advice"
+  },
+  {
+    "ItemID": "ordner",
+    "ItemName_DE": "Ordner",
+    "ItemName_EN": "Folder",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "pc",
+    "ItemName_DE": "PC",
+    "ItemName_EN": "PC",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Computer gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es bei der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Computers are one of the electrical appliances that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection.\n\nIf the electrical device is still useful, it can be offered on the free exchange."
+  },
+  {
+    "ItemID": "puschaumdose",
+    "ItemName_DE": "PU-Schaumdose",
+    "ItemName_EN": "PU foam box",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point / Recycling Center",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible"
+  },
+  {
+    "ItemID": "papier",
+    "ItemName_DE": "Papier",
+    "ItemName_EN": "Paper",
+    "CorrectBin_Magdeburg": "Blue Bin",
+    "Notes_DE": "Achten Sie beim Kauf von Schreibpapier auf Umweltzeichen, wie z.B. der Blaue Engel.",
+    "Notes_EN": "When buying writing paper, pay attention to environmental signs, such as the blue angel."
+  },
+  {
+    "ItemID": "papiertaschentücher",
+    "ItemName_DE": "Papiertaschentücher",
+    "ItemName_EN": "Paper handkerchiefs",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "pappe",
+    "ItemName_DE": "Pappe",
+    "ItemName_EN": "cardboard",
+    "CorrectBin_Magdeburg": "Blue Bin",
+    "Notes_DE": "Kartons zusammenfalten, nicht zerreißen.",
+    "Notes_EN": "Folding the boxes, do not tear."
+  },
+  {
+    "ItemID": "pfanne_kochtopf",
+    "ItemName_DE": "Pfanne, Kochtopf",
+    "ItemName_EN": "Pan, saucepan",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "------",
+    "Notes_EN": "-------"
+  },
+  {
+    "ItemID": "pflanzenschutzmittel",
+    "ItemName_DE": "Pflanzenschutzmittel",
+    "ItemName_EN": "Pesticide",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point / Recycling Center",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "pflanzenöl",
+    "ItemName_DE": "Pflanzenöl",
+    "ItemName_EN": "Vegetable oil",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point / Recycling Center",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "photovoltaikmodule",
+    "ItemName_DE": "Photovoltaikmodule",
+    "ItemName_EN": "Photovoltaic modules",
+    "CorrectBin_Magdeburg": "Specialist Company",
+    "Notes_DE": "Elektroaltgeräte aus privaten Haushalten können Sie kostenlos auf den Wertstoffhöfen abgeben.\n\nPhotovoltaikmodule werden nur auf dem Wertstoffhof Hängelsberge angenommen.",
+    "Notes_EN": "You can hand over electrical devices from private households free of charge at the recycling centers.\n\nPhotovoltaic modules are only accepted on the recycling center Hängelsberge."
+  },
+  {
+    "ItemID": "pilzbekämpfungsmittel_fungizid",
+    "ItemName_DE": "Pilzbekämpfungsmittel (Fungizid)",
+    "ItemName_EN": "Mushroom control (Fungizid)",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point / Recycling Center",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "plattenspieler",
+    "ItemName_DE": "Plattenspieler",
+    "ItemName_EN": "Record player",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Plattenspieler gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen.",
+    "Notes_EN": "Plate players are among the electrical appliances that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection."
+  },
+  {
+    "ItemID": "plexiglas",
+    "ItemName_DE": "Plexiglas",
+    "ItemName_EN": "Plexiglass",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Plexiglas, das bei Baumaßnahmen anfällt gehört zu den Baustellenabfällen. Baustellenabfälle sind nicht chemisch verunreinigte Abfälle, die beim Neubau, Umbau, der Renovierung oder der Reparatur von Bauwerken anfallen. Für die Abgabe von Bauschutt auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Plexiglass that occurs in construction work is one of the construction site waste.Construction site waste is not chemically contaminated waste that arises during the new building, renovation, renovation or repair of buildings.Fee regulations apply to the submission of rubble at the recycling centers or for the container position.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "polstermöbel",
+    "ItemName_DE": "Polstermöbel",
+    "ItemName_EN": "Upholstered furniture",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste at the recycling centers or for the container position.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "porzellan",
+    "ItemName_DE": "Porzellan",
+    "ItemName_EN": "china",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "------",
+    "Notes_EN": "-------"
+  },
+  {
+    "ItemID": "propanflasche",
+    "ItemName_DE": "Propanflasche",
+    "ItemName_EN": "Propane bottle",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Leere Gasflaschen werden im Fachhandel dort wieder angenommen, wo sie gekauft wurden.\n\nLeere Gasflaschen werden auf den Wertstoffhöfen angenommen.",
+    "Notes_EN": "Empty gas bottles are accepted in specialist retailers where they were bought.\n\nEmpty gas bottles are adopted on the recycling centers."
+  },
+  {
+    "ItemID": "putz",
+    "ItemName_DE": "Putz",
+    "ItemName_EN": "Plaster",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Bauschutt sind Stoffe, die bei Baumaßnahmen anfallen. Diese Materialien bestehen überwiegend aus mineralischen Bestandteilen und sind nicht chemisch verunreinigt.\n\nFür die Abgabe auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Building is substances that occur during construction work.These materials mainly consist of mineral components and are not chemically contaminated.\n\nFee regulations apply to the delivery at the recycling centers or for the container position.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "putzlappen",
+    "ItemName_DE": "Putzlappen",
+    "ItemName_EN": "Plaster flap",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point / Recycling Center / Residual Waste Bin",
+    "Notes_DE": "------",
+    "Notes_EN": "-------"
+  },
+  {
+    "ItemID": "quecksilber",
+    "ItemName_DE": "Quecksilber",
+    "ItemName_EN": "mercury",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "quecksilberentladungslampen",
+    "ItemName_DE": "Quecksilberentladungslampen",
+    "ItemName_EN": "Mercury discharge lamp",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Energiesparlampen nicht in die Restabfalltonne oder Glascontainer entsorgen.\n\nWenn eine Energiesparlampe zerbricht, kehren Sie bitte die Splitter mit einem Papier zusammen und geben Sie den Bruch in einem festen Behälter bei den Sammelstellen ab. Verwenden Sie keinen Staubsauger, der die Schadstoffe in der Raumluft verteilt!\n\nDie Rückgabe von Energiesparlampen aus privaten Haushalten ist gebührenfrei",
+    "Notes_EN": "Do not dispose of energy -saving lamps into the residual waste bin or glass container.\n\nIf an energy -saving lamp breaks, please return the splinters with a paper and give the break in a fixed container at the collection points.Do not use a vacuum cleaner that distributes the pollutants in the room air!\n\nThe return of energy -saving lamps from private households is free of charge"
+  },
+  {
+    "ItemID": "quecksilberthermometer",
+    "ItemName_DE": "Quecksilberthermometer",
+    "ItemName_EN": "Mercury thermometer",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Zerbrochene Quecksilberthermometer in einem dicht verschlossenen Behälter (z.B. Schraubgläser) abgeben.\n- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit broken mercury thermometers in a densely locked container (e.g. screw glasses).\n- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "rasenmäher",
+    "ItemName_DE": "Rasenmäher",
+    "ItemName_EN": "mowing machine",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Elektrische Rasenmäher gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen.",
+    "Notes_EN": "Electrical lawnmowers are one of the electrical appliances that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection."
+  },
+  {
+    "ItemID": "rasenschnitt",
+    "ItemName_DE": "Rasenschnitt",
+    "ItemName_EN": "Lawn cut",
+    "CorrectBin_Magdeburg": "Organic Waste Bin",
+    "Notes_DE": "Für die Abgabe von Grünabfall auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Fee regulations apply to the submission of green waste at the recycling centers or the container position.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "regenschirm",
+    "ItemName_DE": "Regenschirm",
+    "ItemName_EN": "umbrella",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "regentonne",
+    "ItemName_DE": "Regentonne",
+    "ItemName_EN": "Rain barrel",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt. Die Einzelstücke bei der Sperrmüllsammlung dürfen höchstens ein Gewicht von 75 kg haben und die Einzelmaße von 2,20 m x 1,50 m x 0,75 m nicht überschreiten\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.The unique pieces in the bulky waste collection may have at most a weight of 75 kg and do not exceed the individual dimensions of 2.20 m x 1.50 m x 0.75 m\n\nFee regulations apply to the delivery of bulky waste at the recycling centers or for the container position.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "reifen",
+    "ItemName_DE": "Reifen",
+    "ItemName_EN": "Tires",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "reisetasche_koffer",
+    "ItemName_DE": "Reisetasche, Koffer",
+    "ItemName_EN": "Travel bag, suitcase",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste at the recycling centers or for the container position.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "rohrreiniger",
+    "ItemName_DE": "Rohrreiniger",
+    "ItemName_EN": "Pipe cleaner",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "rollo",
+    "ItemName_DE": "Rollo",
+    "ItemName_EN": "Roller blind",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste at the recycling centers or for the container position.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "rührgerät",
+    "ItemName_DE": "Rührgerät",
+    "ItemName_EN": "Mixer",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Rührgeräte gehören zu den Elektrokleingeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nKleine einzelne Geräte können Sie bei der Abfallberatung des Städtischen Abfallwirtschaftsbetriebes oder beim Schadstoffmobil gebührenfrei abgeben. Größere Mengen an Elektrokleingeräten aus privaten Haushalten können Sie kostenlos auf den Wertstoffhöfen abgeben.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es bei der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Members are among the electrical cladding devices that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nYou can hand over small individual devices to the waste advice from the municipal waste management company or the pollutant mobile.Larger amounts of electrical cleaning devices from private households can be handed over free of charge at the recycling centers.\n\nIf the electrical device is still useful, it can be offered on the free exchange."
+  },
+  {
+    "ItemID": "sanitärreiniger",
+    "ItemName_DE": "Sanitärreiniger",
+    "ItemName_EN": "Sanitary cleaner",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "satellitenschüssel",
+    "ItemName_DE": "Satellitenschüssel",
+    "ItemName_EN": "Satellite dish",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "schallplatte",
+    "ItemName_DE": "Schallplatte",
+    "ItemName_EN": "record",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "schlauchboot",
+    "ItemName_DE": "Schlauchboot",
+    "ItemName_EN": "dinghy",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste at the recycling centers or for the container position.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "schleifpapier",
+    "ItemName_DE": "Schleifpapier",
+    "ItemName_EN": "Sandpaper",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "schlitten",
+    "ItemName_DE": "Schlitten",
+    "ItemName_EN": "Sleds",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste at the recycling centers or for the container position.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "schnellhefter_pvc",
+    "ItemName_DE": "Schnellhefter (PVC)",
+    "ItemName_EN": "Fast booklet (PVC)",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "schrank",
+    "ItemName_DE": "Schrank",
+    "ItemName_EN": "Wardrobe",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste at the recycling centers or for the container position.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "schrott",
+    "ItemName_DE": "Schrott",
+    "ItemName_EN": "scrap",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Alte Fahrzeuge sind anerkannten Annahme- und Rücknahmestellen oder anerkannten Demontagebetrieben (Kfz Wertstätten) zu überlassen. Kraftfahrzeugteile gehören nicht zum Sperrmüll!\n\nSperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Old vehicles are to be left to recognized acceptance and return offices or recognized dismantling drives (motor vehicle valves).Motor vehicle parts are not part of bulky waste!\n\nBewer items are picked up via the bulky waste collection after prior registration.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "schuhe",
+    "ItemName_DE": "Schuhe",
+    "ItemName_EN": "Shoes",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "direkte Abgabe gut erhaltener Schuhe bei folgenden Einrichtungen:\n\n- DRK, Kleiderkammer\n- Malteser Hilfsdienst\n- Magdeburger Stadt- mission e.V.\n- Adventsgemeinde",
+    "Notes_EN": "direct delivery of well -preserved shoes for the following facilities:\n\n- DRK, clothing store\n- Maltese relief service\n- Magdeburger Stadt- Mission e.v.\n- Advent community"
+  },
+  {
+    "ItemID": "schädlingsbekämpfungsmittel",
+    "ItemName_DE": "Schädlingsbekämpfungsmittel",
+    "ItemName_EN": "Pesticide",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "sessel",
+    "ItemName_DE": "Sessel",
+    "ItemName_EN": "Armchair",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste at the recycling centers or for the container position.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "skateboard",
+    "ItemName_DE": "Skateboard",
+    "ItemName_EN": "skateboard",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste at the recycling centers or for the container position.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "ski_skistöcke",
+    "ItemName_DE": "Ski, Skistöcke",
+    "ItemName_EN": "Ski, ski skirts",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste at the recycling centers or for the container position.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "skischuhe",
+    "ItemName_DE": "Skischuhe",
+    "ItemName_EN": "Ski boots",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "smartphone",
+    "ItemName_DE": "Smartphone",
+    "ItemName_EN": "Smartphone",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Handys gehören zu den Elektrokleingeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nKleine einzelne Geräte können Sie bei der Abfallberatung des Städtischen Abfallwirtschaftsbetriebes oder beim Schadstoffmobil gebührenfrei abgeben. Größere Mengen an Elektrokleingeräten aus privaten Haushalten können Sie kostenlos auf den Wertstoffhöfen abgeben.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es bei der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Cell phones belong to the electrical cleaning devices that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nYou can hand over small individual devices to the waste advice from the municipal waste management company or the pollutant mobile.Larger amounts of electrical cleaning devices from private households can be handed over free of charge at the recycling centers.\n\nIf the electrical device is still useful, it can be offered on the free exchange."
+  },
+  {
+    "ItemID": "sofa",
+    "ItemName_DE": "Sofa",
+    "ItemName_EN": "sofa",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste at the recycling centers or for the container position.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "sonnenschirm",
+    "ItemName_DE": "Sonnenschirm",
+    "ItemName_EN": "Parasol",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste on the recycling centers.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "speisereste",
+    "ItemName_DE": "Speisereste",
+    "ItemName_EN": "Dining",
+    "CorrectBin_Magdeburg": "Organic Waste Bin",
+    "Notes_DE": "Grundsätzlich werden Speiseabfälle, Küchenabfälle und Essenreste aus privaten Haushalten in der Biotonne entsorgt.",
+    "Notes_EN": "Basically, food waste, kitchen waste and remains of food from private households are disposed of in the organic bin."
+  },
+  {
+    "ItemID": "spiegel",
+    "ItemName_DE": "Spiegel",
+    "ItemName_EN": "Mirror",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste on the recycling centers.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "spiegelscherben",
+    "ItemName_DE": "Spiegelscherben",
+    "ItemName_EN": "Mirror",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "spielzeug_elektrisch",
+    "ItemName_DE": "Spielzeug (elektrisch)",
+    "ItemName_EN": "Toys (electrical)",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection / Hazardous Waste Mobile / Point",
+    "Notes_DE": "Elektronische Spielzeuge gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nKleine einzelne Geräte können Sie bei der Abfallberatung des Städtischen Abfallwirtschaftsbetriebes oder beim Schadstoffmobil gebührenfrei abgeben. Größere Mengen an Elektrokleingeräten aus privaten Haushalten können Sie kostenlos auf den Wertstoffhöfen abgeben.\n\nSperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es bei der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Electronic toys are among the electrical appliances that, according to the electrical and electronics device law, must not be disposed of in residual waste since 2006!\n\nYou can hand over small individual devices to the waste advice from the municipal waste management company or the pollutant mobile.Larger amounts of electrical cleaning devices from private households can be handed over free of charge at the recycling centers.\n\nBewer items are picked up via the bulky waste collection after prior registration.\n\nIf the electrical device is still useful, it can be offered on the free exchange."
+  },
+  {
+    "ItemID": "spielzeug_kein_elektrogerät",
+    "ItemName_DE": "Spielzeug (kein Elektrogerät)",
+    "ItemName_EN": "Toys (no electrical device)",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection / Residual Waste Bin",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste on the recycling centers.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "spiritus",
+    "ItemName_DE": "Spiritus",
+    "ItemName_EN": "spirit",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "säure",
+    "ItemName_DE": "Säure",
+    "ItemName_EN": "acid",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "tampon",
+    "ItemName_DE": "Tampon",
+    "ItemName_EN": "tampon",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "tapetenreste",
+    "ItemName_DE": "Tapetenreste",
+    "ItemName_EN": "Papet remains",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "tasche_handtasche",
+    "ItemName_DE": "Tasche (Handtasche)",
+    "ItemName_EN": "Bag (handbag)",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "tee_teebeutel",
+    "ItemName_DE": "Tee, Teebeutel",
+    "ItemName_EN": "Tea, tea bags",
+    "CorrectBin_Magdeburg": "Organic Waste Bin",
+    "Notes_DE": "------",
+    "Notes_EN": "-------"
+  },
+  {
+    "ItemID": "telefon",
+    "ItemName_DE": "Telefon",
+    "ItemName_EN": "phone",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Telefone gehören zu den Elektrokleingeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nKleine einzelne Geräte können Sie bei der Abfallberatung des Städtischen Abfallwirtschaftsbetriebes oder beim Schadstoffmobil gebührenfrei abgeben. Größere Mengen an Elektrokleingeräten aus privaten Haushalten können Sie kostenlos auf den Wertstoffhöfen abgeben.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es bei der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Telefons are among the electrical cladding devices that have not been disposed of in residual waste since 2006 according to the electrical and electronics device law!\n\nYou can hand over small individual devices to the waste advice from the municipal waste management company or the pollutant mobile.Larger amounts of electrical cleaning devices from private households can be handed over free of charge at the recycling centers.\n\nIf the electrical device is still useful, it can be offered on the free exchange."
+  },
+  {
+    "ItemID": "teppich_teppichboden",
+    "ItemName_DE": "Teppich, Teppichboden",
+    "ItemName_EN": "Carpet, carpet",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste at the recycling centers or for the container position.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "teppichreiniger",
+    "ItemName_DE": "Teppichreiniger",
+    "ItemName_EN": "Carpet cleaner",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "textilien",
+    "ItemName_DE": "Textilien",
+    "ItemName_EN": "textiles",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "direkte Abgabe gut erhaltener Schuhe bei folgenden Einrichtungen:\n\n- DRK, Kleiderkammer\n- Malteser Hilfsdienst\n- Magdeburger Stadt- mission e.V.\n- Adventsgemeinde",
+    "Notes_EN": "direct delivery of well -preserved shoes for the following facilities:\n\n- DRK, clothing store\n- Maltese relief service\n- Magdeburger Stadt- Mission e.v.\n- Advent community"
+  },
+  {
+    "ItemID": "thermometer",
+    "ItemName_DE": "Thermometer",
+    "ItemName_EN": "thermometer",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- Zerbrochene Quecksilberthermometer in einem dicht verschlossenen Behälter (z. B. Schraubglas) abgeben.",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Submit broken mercury thermometer in a densely locked container (e.g. screw glass)."
+  },
+  {
+    "ItemID": "thermoskanne",
+    "ItemName_DE": "Thermoskanne",
+    "ItemName_EN": "Thermos",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "tierkadaver",
+    "ItemName_DE": "Tierkadaver",
+    "ItemName_EN": "Animal carcass",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "- Tierkadaver auf öffentlicher Fläche: Feuerwehr (Telefon: 0391 5 40 10)\n- Tierkadaver auf privater Fläche: Tierheim, Rothenseer Str. 79 (Telefon: 0391 25 37 631)",
+    "Notes_EN": "- Animal carcass on public space: fire brigade (phone: 0391 5 40 10)\n- Animal carcass on private space: animal shelter, Rothensenseer Str. 79 (phone: 0391 25 37 631)"
+  },
+  {
+    "ItemID": "toaster",
+    "ItemName_DE": "Toaster",
+    "ItemName_EN": "toaster",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Toaster gehören zu den Elektrokleingeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nKleine einzelne Geräte können Sie bei der Abfallberatung des Städtischen Abfallwirtschaftsbetriebes oder beim Schadstoffmobil gebührenfrei abgeben. Größere Mengen an Elektrokleingeräten aus privaten Haushalten können Sie kostenlos auf den Wertstoffhöfen abgeben.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es bei der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Toasters are among the electrical cleaning devices that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nYou can hand over small individual devices to the waste advice from the municipal waste management company or the pollutant mobile.Larger amounts of electrical cleaning devices from private households can be handed over free of charge at the recycling centers.\n\nIf the electrical device is still useful, it can be offered on the free exchange."
+  },
+  {
+    "ItemID": "toilettenbecken",
+    "ItemName_DE": "Toilettenbecken",
+    "ItemName_EN": "Toilet pool",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Toilettenbrillen aus Holz oder Kunststoff werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Bauschutt auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Wooden or plastic toilet glasses are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the submission of rubble at the recycling centers or for the container position.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "tonband",
+    "ItemName_DE": "Tonband",
+    "ItemName_EN": "tape",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "tonerkartusche",
+    "ItemName_DE": "Tonerkartusche",
+    "ItemName_EN": "Toner",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point / Specialist Company",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- Tonerkartuschen nicht in die Restabfalltonne oder Gelbe Tonne entsorgen. Die Tonerkartuschen werden gesammelt und recycelt.",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not dispose of tonal cartridges into the residual waste bin or yellow bin.The toner cartridges are collected and recycled."
+  },
+  {
+    "ItemID": "topf",
+    "ItemName_DE": "Topf",
+    "ItemName_EN": "Pot",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Nur einzelne kleine Töpfe in die Restabfalltonne geben. Auf das zulässige Gewicht für Restabfallbehälter achten!",
+    "Notes_EN": "Put only individual small pots in the residual waste bin.Pay attention to the permissible weight for residual waste containers!"
+  },
+  {
+    "ItemID": "tür",
+    "ItemName_DE": "Tür",
+    "ItemName_EN": "door",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Türen und Fenster werden nicht über die Sperrmüllsammlung abgeholt.\n\nFür die Abgabe auf den Wertstoffhöfen gelten Gebührenregelungen.\n\nContainer für Bau- und Abbruchholz können für Türen aus Holz bestellt werden. Die Stellung eines Containers ist gebührenpflichtig.\n\nSperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Doors and windows are not picked up via the bulky waste collection.\n\nFee regulations apply to the delivery at the recycling centers.\n\nContainers for construction and demolition wood can be ordered for wooden doors.The position of a container is subject to a fee.\n\nBill waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "uhr_elektrogerät",
+    "ItemName_DE": "Uhr (Elektrogerät)",
+    "ItemName_EN": "Clock (electrical device)",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Uhren gehören zu den Elektrokleingeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nKleine einzelne Geräte können Sie bei der Abfallberatung des Städtischen Abfallwirtschaftsbetriebes oder beim Schadstoffmobil gebührenfrei abgeben. Größere Mengen an Elektrokleingeräten aus privaten Haushalten können Sie kostenlos auf den Wertstoffhöfen abgeben.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es beim Gratis-Flohmarkt oder der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Watches belong to the electrical cleaning devices that have not been disposed of in residual waste since 2006 according to the electrical and electronics device law!\n\nYou can hand over small individual devices to the waste advice from the municipal waste management company or the pollutant mobile.Larger amounts of electrical cleaning devices from private households can be handed over free of charge at the recycling centers.\n\nIf the electrical device is still useful, it can be offered at the free flea market or the free exchange."
+  },
+  {
+    "ItemID": "uhr_rein_mechanisch",
+    "ItemName_DE": "Uhr (rein mechanisch)",
+    "ItemName_EN": "Clock (purely mechanical)",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection / Residual Waste Bin",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste on the recycling centers.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "unkrautbekämpfungsmittel",
+    "ItemName_DE": "Unkrautbekämpfungsmittel",
+    "ItemName_EN": "Weed control",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "vase",
+    "ItemName_DE": "Vase",
+    "ItemName_EN": "vase",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "verbandsmaterial",
+    "ItemName_DE": "Verbandsmaterial",
+    "ItemName_EN": "Bandage",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "verbundkarton",
+    "ItemName_DE": "Verbundkarton",
+    "ItemName_EN": "Composite box",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "In die Gelbe Tonne gehören Verpackungen, die mit dem Markenzeichen (Grüner Punkt) des DSD (Duales System Deutschland GmbH) gekennzeichnet sind.",
+    "Notes_EN": "The yellow bin includes packaging, which are marked with the trademark (green dot) of the DSD (Duales System Deutschland GmbH)."
+  },
+  {
+    "ItemID": "verdünner",
+    "ItemName_DE": "Verdünner",
+    "ItemName_EN": "thinner",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "videogerät_dvd",
+    "ItemName_DE": "Videogerät, DVD-",
+    "ItemName_EN": "Video device, DVD-",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Videogeräte, wie DVD- oder Blu-ray-Player, gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es bei der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Video devices, such as DVD or Blu-ray players, are among the electrical appliances that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection.\n\nIf the electrical device is still useful, it can be offered on the free exchange."
+  },
+  {
+    "ItemID": "videokassette",
+    "ItemName_DE": "Videokassette",
+    "ItemName_EN": "Video cassette",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "wcreiniger",
+    "ItemName_DE": "WC-Reiniger",
+    "ItemName_EN": "Toilet cleaner",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "wanne",
+    "ItemName_DE": "Wanne",
+    "ItemName_EN": "Tub",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Badewannen aus unterschiedlichen Materialien werden auf den Wertstoffhöfen angenommen.\n\nFür die Abgabe von Abfällen auf den Wertstoffhöfen gelten Gebührenregelungen.",
+    "Notes_EN": "Bathtubs made of different materials are adopted on the recycling centers.\n\nFee regulations apply to the submission of waste at the recycling centers."
+  },
+  {
+    "ItemID": "waschbecken",
+    "ItemName_DE": "Waschbecken",
+    "ItemName_EN": "Bathroom sink",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Waschbecken aus unterschiedlichen Materialien werden auf den Wertstoffhöfen angenommen.\n\nBauschutt sind Stoffe, die bei Baumaßnahmen anfallen. Diese Materialien bestehen überwiegend aus mineralischen Bestandteilen und sind nicht chemisch verunreinigt.\n\nFür die Abgabe von Bauschutt auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Sinks made of different materials are adopted on the recycling centers.\n\nBuilding is substances that occur during construction work.These materials mainly consist of mineral components and are not chemically contaminated.\n\nFee regulations apply to the submission of rubble at the recycling centers or for the container position.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "waschmaschine",
+    "ItemName_DE": "Waschmaschine",
+    "ItemName_EN": "washing machine",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Waschmaschinen gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es beim Gratis-Flohmarkt oder der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Washing machines are among the electrical appliances that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection.\n\nIf the electrical device is still useful, it can be offered at the free flea market or the free exchange."
+  },
+  {
+    "ItemID": "wasserstoffperoxid",
+    "ItemName_DE": "Wasserstoffperoxid",
+    "ItemName_EN": "Hydrogen peroxide",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "watte_wattestäbchen",
+    "ItemName_DE": "Watte, Wattestäbchen",
+    "ItemName_EN": "Cotton, cotton swab",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "weihnachtsbaum",
+    "ItemName_DE": "Weihnachtsbaum",
+    "ItemName_EN": "Christmas tree",
+    "CorrectBin_Magdeburg": "Organic Waste Bin",
+    "Notes_DE": "Weihnachtsbäume werden bei der turnusmäßigen Bioabfallsammlung entsorgt. Den Baum (max. 2 m Länge) am Entsorgungstag neben die Biotonne legen.\n\nFür die Abgabe von Grünabfall auf den Wertstoffhöfen gelten Gebührenregelungen.",
+    "Notes_EN": "Christmas trees are disposed of at the regular organic waste collection.Place the tree (max. 2 m in length) on the disposal day next to the organic bin.\n\nFee regulations apply to the submission of green waste at the recycling centers."
+  },
+  {
+    "ItemID": "wellasbest",
+    "ItemName_DE": "Wellasbest",
+    "ItemName_EN": "Wellasbest",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Asbest wurde als Baustoff in Gebäuden, Verbundbaustoff und in Geräten verwendet. Aufgrund der krebserregenden Eigenschaften, wird Asbest als Gefahrstoff eingestuft.",
+    "Notes_EN": "Asbestos was used as a building material in buildings, composite building material and devices.Due to the carcinogenic properties, asbestos is classified as a hazardous substance."
+  },
+  {
+    "ItemID": "werkzeug_elektrisch",
+    "ItemName_DE": "Werkzeug (elektrisch)",
+    "ItemName_EN": "Tool (electrical)",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "EDV-Geräte gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen.",
+    "Notes_EN": "EDP ​​devices are among the electrical appliances that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection."
+  },
+  {
+    "ItemID": "windel",
+    "ItemName_DE": "Windel",
+    "ItemName_EN": "diaper",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "wäscheständer",
+    "ItemName_DE": "Wäscheständer",
+    "ItemName_EN": "Laundry",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste on the recycling centers.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "wäschetrockner",
+    "ItemName_DE": "Wäschetrockner",
+    "ItemName_EN": "Tumble dryer",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Wäschetrockner gehören zu den Elektrogeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nElektrogeräte aus privaten Haushalten können Sie gebührenfrei (haushaltsübliche Mengen) auf den Wertstoffhöfen abgeben oder kostenfrei über die Sperrmüllsammlung abholen lassen.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es beim Gratis-Flohmarkt oder der Gratis-Börse angeboten werden.",
+    "Notes_EN": "The tumble dryers are among the electrical appliances that have not been disposed of in residual waste since 2006 after the electrical and electronics device law!\n\nElectrical devices from private households can be handed over free of charge (household quantities) at the recycling centers or have it picked up free of charge via the bulky waste collection.\n\nIf the electrical device is still useful, it can be offered at the free flea market or the free exchange."
+  },
+  {
+    "ItemID": "zahnbürste_elektrisch",
+    "ItemName_DE": "Zahnbürste (elektrisch)",
+    "ItemName_EN": "Toothbrush (electrical)",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "Elektrische Zahnbürsten gehören zu den Elektrokleingeräten, die nach dem Elektro- und Elektronikgerätegesetz seit 2006 nicht mehr in den Restabfall entsorgt werden dürfen!\n\nKleine einzelne Geräte können Sie bei der Abfallberatung des Städtischen Abfallwirtschaftsbetriebes oder beim Schadstoffmobil gebührenfrei abgeben. Größere Mengen an Elektrokleingeräten aus privaten Haushalten können Sie kostenlos auf den Wertstoffhöfen abgeben.\n\nIst das Elektrogerät noch gebrauchsfähig, kann es beim Gratis-Flohmarkt oder der Gratis-Börse angeboten werden.",
+    "Notes_EN": "Electrical toothbrushes are among the electrical cladding devices that have not been disposed of in residual waste since 2006 according to the electrical and electronics device law!\n\nYou can hand over small individual devices to the waste advice from the municipal waste management company or the pollutant mobile.Larger amounts of electrical cleaning devices from private households can be handed over free of charge at the recycling centers.\n\nIf the electrical device is still useful, it can be offered at the free flea market or the free exchange."
+  },
+  {
+    "ItemID": "zahnbürste_nicht_elektrisch",
+    "ItemName_DE": "Zahnbürste (nicht elektrisch)",
+    "ItemName_EN": "Toothbrush (not electrical)",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "zeitung_zeitschrift",
+    "ItemName_DE": "Zeitung, Zeitschrift",
+    "ItemName_EN": "Newspaper, magazine",
+    "CorrectBin_Magdeburg": "Blue Bin",
+    "Notes_DE": "In die Blaue Tonne gehören Zeitungen, Zeitschriften, Schreibpapier, Kartons, Papierschachteln, Prospekte, Verpackungspapier und Büropapier.",
+    "Notes_EN": "The blue bin includes newspapers, magazines, writing paper, boxes, paper boxes, brochures, packaging paper and office paper."
+  },
+  {
+    "ItemID": "zellstofftücher",
+    "ItemName_DE": "Zellstofftücher",
+    "ItemName_EN": "Pulmic towels",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "",
+    "Notes_EN": ""
+  },
+  {
+    "ItemID": "zelt_campingzelt",
+    "ItemName_DE": "Zelt (Campingzelt)",
+    "ItemName_EN": "Tent (camping tent)",
+    "CorrectBin_Magdeburg": "Bulky Waste Collection",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nFür die Abgabe von Sperrmüll auf den Wertstoffhöfen gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nFee regulations apply to the delivery of bulky waste on the recycling centers.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "zementsack",
+    "ItemName_DE": "Zementsack",
+    "ItemName_EN": "Cement bag",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Für die Abgabe von Abfällen auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Fee regulations apply to the submission of waste at the recycling centers or the container position.\n\nPlease register your bulky waste early.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "ziegel",
+    "ItemName_DE": "Ziegel",
+    "ItemName_EN": "brick",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Bauschutt sind Stoffe, die bei Baumaßnahmen anfallen. Diese Materialien bestehen überwiegend aus mineralischen Bestandteilen und sind nicht chemisch verunreinigt.\n\nFür die Abgabe von Bauschutt auf den Wertstoffhöfen oder für die Containerstellung gelten Gebührenregelungen.\n\n- Sperrmüll-, Containerservice (Telefon: 0391 540 4688)",
+    "Notes_EN": "Building is substances that occur during construction work.These materials mainly consist of mineral components and are not chemically contaminated.\n\nFee regulations apply to the submission of rubble at the recycling centers or for the container position.\n\n- bulky waste, container service (phone: 0391 540 4688)"
+  },
+  {
+    "ItemID": "zigarettenkippen",
+    "ItemName_DE": "Zigarettenkippen",
+    "ItemName_EN": "Cigarette butts",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "- nach völliger Auskühlung in die Restabfalltonne",
+    "Notes_EN": "- After completely cooling into the residual waste bin"
+  },
+  {
+    "ItemID": "zitronenschale",
+    "ItemName_DE": "Zitronenschale",
+    "ItemName_EN": "Lemon peel",
+    "CorrectBin_Magdeburg": "Organic Waste Bin",
+    "Notes_DE": "Die Schalen von Südfrüchten lassen sich in kleineren Mengen kompostieren.",
+    "Notes_EN": "The shells of south fruits can be composted in smaller quantities."
+  },
+  {
+    "ItemID": "ölbindemittel",
+    "ItemName_DE": "Ölbindemittel",
+    "ItemName_EN": "Oil binder",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  },
+  {
+    "ItemID": "ölfilter",
+    "ItemName_DE": "Ölfilter",
+    "ItemName_EN": "Oil filter",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point / Recycling Center",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen\n- Bitte Ölfilter nicht in den Restabfall entsorgen, da diese noch Ölreste enthalten.",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together\n- Please do not dispose of the oil filter in the residual waste because these still contain oil residues."
+  },
+  {
+    "ItemID": "ölofen",
+    "ItemName_DE": "Ölofen",
+    "ItemName_EN": "Oil oven",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nPlease register your bulky waste early."
+  },
+  {
+    "ItemID": "ölradiator",
+    "ItemName_DE": "Ölradiator",
+    "ItemName_EN": "Oil radiator",
+    "CorrectBin_Magdeburg": "Residual Waste Bin",
+    "Notes_DE": "Sperrige Gegenstände werden über die Sperrmüllsammlung nach vorheriger Anmeldung abgeholt.\n\nMelden Sie bitte Ihren Sperrmüll frühzeitig an.",
+    "Notes_EN": "Bewer items are picked up via the bulky waste collection after prior registration.\n\nPlease register your bulky waste early."
+  },
+  {
+    "ItemID": "ölverunreinigte_materialien",
+    "ItemName_DE": "ölverunreinigte Materialien",
+    "ItemName_EN": "Oil contaminated materials",
+    "CorrectBin_Magdeburg": "Hazardous Waste Mobile / Point",
+    "Notes_DE": "- Schadstoffe nach Möglichkeit mit Originalverpackung abgeben\n- schadstoffhaltige Flüssigkeiten nicht miteinander vermischen",
+    "Notes_EN": "- Submit the pollutants with original packaging if possible\n- Do not mix the pollutant liquids together"
+  }
+]
